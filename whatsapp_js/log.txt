@@ -1,0 +1,341 @@
+[2025-06-09 14:58:23] ---------------------------------------------------------------
+[2025-06-09 14:58:23] SE INICIA EL PROCESO
+[2025-06-09 14:58:23] ⏱️ Horario no válido para el envío.
+[2025-06-09 14:59:06] ---------------------------------------------------------------
+[2025-06-09 14:59:06] SE INICIA EL PROCESO
+[2025-06-09 14:59:06] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 14:59:07] ❌ Imagen 430_09-06-2025.png no encontrada
+[2025-06-09 14:59:07] archivos encontrados en la carpeta:
+[2025-06-09 14:59:07] ***********************************
+[2025-06-09 14:59:07] desktop.ini
+[2025-06-09 14:59:07] Historial Cargadas
+[2025-06-09 14:59:07] Logs_Ejecucion
+[2025-06-09 14:59:07] png 130 430  escrutinio remoto
+[2025-06-09 14:59:07] Thumbs.db
+[2025-06-09 14:59:07] ***********************************
+[2025-06-09 15:01:57] ---------------------------------------------------------------
+[2025-06-09 15:01:57] ⏱️ Horario no válido para el envío.
+[2025-06-09 15:01:57] SE INICIA EL PROCESO
+[2025-06-09 15:02:50] ---------------------------------------------------------------
+[2025-06-09 15:02:50] SE INICIA EL PROCESO
+[2025-06-09 15:02:50] ⏱️ Horario no válido para el envío.
+[2025-06-09 15:03:30] ---------------------------------------------------------------
+[2025-06-09 15:03:30] SE INICIA EL PROCESO
+[2025-06-09 15:03:30] ⏱️Se encontró el siguiente horario: 08-06-2025.png.
+[2025-06-09 15:03:30] Se encontró la imagen en el horario correspondiente: 08-06-2025.png
+[2025-06-09 15:03:30] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 15:03:30] cliente del qr: [object Object]
+[2025-06-09 15:06:16] ---------------------------------------------------------------
+[2025-06-09 15:06:16] SE INICIA EL PROCESO
+[2025-06-09 15:06:16] ⏱️Se encontró el siguiente horario: 08-06-2025.png.
+[2025-06-09 15:06:16] Se encontró la imagen en el horario correspondiente: 08-06-2025.png
+[2025-06-09 15:06:16] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 15:06:16] cliente del qr: [object Object]
+[2025-06-09 15:20:37] ---------------------------------------------------------------
+[2025-06-09 15:20:37] SE INICIA EL PROCESO
+[2025-06-09 15:20:37] ⏱️Se encontró el siguiente horario: 08-06-2025.png.
+[2025-06-09 15:20:37] Se encontró la imagen en el horario correspondiente: 08-06-2025.png
+[2025-06-09 15:20:37] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 15:22:19] ✅ Cliente WhatsApp listo
+[2025-06-09 15:22:19] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\08-06-2025.png
+[2025-06-09 15:22:21] 📤 Imagen enviada a Prueba1
+[2025-06-09 15:22:26] 📤 Imagen enviada a Prueba2
+[2025-06-09 15:22:30] 📤 Imagen enviada a Prueba3
+[2025-06-09 15:22:34] 📤 Imagen enviada a Prueba4
+[2025-06-09 15:22:39] 📤 Imagen enviada a Prueba5
+[2025-06-09 15:22:43] 📤 Imagen enviada a Prueba6
+[2025-06-09 15:22:48] 📤 Imagen enviada a Prueba7
+[2025-06-09 15:22:53] 📤 Imagen enviada a Prueba8
+[2025-06-09 15:22:59] 📤 Imagen enviada a Prueba9
+[2025-06-09 15:23:03] 📤 Imagen enviada a Prueba10
+[2025-06-09 15:23:08] 📤 Imagen enviada a Prueba11
+[2025-06-09 15:23:12] 📤 Imagen enviada a Prueba12
+[2025-06-09 15:23:17] 📤 Imagen enviada a Prueba13
+[2025-06-09 15:23:21] 📤 Imagen enviada a Michael
+[2025-06-09 15:23:25] ✅ Proceso terminado con éxito
+[2025-06-09 16:39:47] ---------------------------------------------------------------
+[2025-06-09 16:39:47] SE INICIA EL PROCESO
+[2025-06-09 16:39:47] ⏱️ Horario no válido para el envío.
+[2025-06-09 16:40:41] ---------------------------------------------------------------
+[2025-06-09 16:40:41] SE INICIA EL PROCESO
+[2025-06-09 16:40:41] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 16:40:41] Se encontró la imagen en el horario correspondiente: 430_09-06-2025.png
+[2025-06-09 16:40:41] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 16:41:05] ✅ Cliente WhatsApp listo
+[2025-06-09 16:41:05] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_09-06-2025.png
+[2025-06-09 16:41:06] 📤 Imagen enviada a Prueba1
+[2025-06-09 16:41:10] 📤 Imagen enviada a Prueba2
+[2025-06-09 16:41:14] 📤 Imagen enviada a Prueba3
+[2025-06-09 16:41:19] 📤 Imagen enviada a Prueba4
+[2025-06-09 16:41:23] 📤 Imagen enviada a Prueba5
+[2025-06-09 16:41:28] 📤 Imagen enviada a Prueba6
+[2025-06-09 16:41:32] 📤 Imagen enviada a Prueba7
+[2025-06-09 16:41:37] 📤 Imagen enviada a Prueba8
+[2025-06-09 16:41:42] 📤 Imagen enviada a Prueba9
+[2025-06-09 16:41:46] 📤 Imagen enviada a Prueba10
+[2025-06-09 16:41:51] 📤 Imagen enviada a Prueba11
+[2025-06-09 16:41:55] 📤 Imagen enviada a Prueba12
+[2025-06-09 16:42:00] 📤 Imagen enviada a Prueba13
+[2025-06-09 16:42:04] 📤 Imagen enviada a Michael
+[2025-06-09 16:42:08] ✅ Proceso terminado con éxito
+[2025-06-09 16:43:24] ---------------------------------------------------------------
+[2025-06-09 16:43:24] SE INICIA EL PROCESO
+[2025-06-09 16:43:24] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 16:43:24] Se encontró la imagen en el horario correspondiente: 430_09-06-2025.png
+[2025-06-09 16:43:24] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 16:43:40] ✅ Cliente WhatsApp listo
+[2025-06-09 16:43:40] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_09-06-2025.png
+[2025-06-09 16:43:41] ⚠️ Grupo "ASD" no encontrado.
+[2025-06-09 16:43:48] 📤 Imagen enviada a Prueba1
+[2025-06-09 16:43:53] 📤 Imagen enviada a Prueba2
+[2025-06-09 16:43:57] 📤 Imagen enviada a Prueba3
+[2025-06-09 16:44:01] 📤 Imagen enviada a Prueba4
+[2025-06-09 16:44:05] 📤 Imagen enviada a Prueba5
+[2025-06-09 16:44:10] 📤 Imagen enviada a Prueba6
+[2025-06-09 16:44:15] 📤 Imagen enviada a Prueba7
+[2025-06-09 16:44:19] 📤 Imagen enviada a Prueba8
+[2025-06-09 16:44:24] 📤 Imagen enviada a Prueba9
+[2025-06-09 16:44:28] 📤 Imagen enviada a Prueba10
+[2025-06-09 16:44:33] 📤 Imagen enviada a Prueba11
+[2025-06-09 16:44:37] 📤 Imagen enviada a Prueba12
+[2025-06-09 16:44:42] 📤 Imagen enviada a Prueba13
+[2025-06-09 16:44:46] 📤 Imagen enviada a Michael
+[2025-06-09 16:44:50] ✅ Proceso terminado con éxito
+[2025-06-09 16:53:19] ---------------------------------------------------------------
+[2025-06-09 16:53:19] SE INICIA EL PROCESO
+[2025-06-09 16:53:19] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 16:53:19] ❌ Imagen 430_09-06-2025.png no encontrada
+[2025-06-09 16:53:19] archivos encontrados en la carpeta:
+[2025-06-09 16:53:19] ***********************************
+[2025-06-09 16:53:19] 4580_09-06-2025.png
+[2025-06-09 16:53:19] desktop.ini
+[2025-06-09 16:53:19] Historial Cargadas
+[2025-06-09 16:53:19] Logs_Ejecucion
+[2025-06-09 16:53:19] png 130 430  escrutinio remoto
+[2025-06-09 16:53:19] Thumbs.db
+[2025-06-09 16:53:19] ***********************************
+[2025-06-09 16:55:44] ---------------------------------------------------------------
+[2025-06-09 16:55:44] SE INICIA EL PROCESO
+[2025-06-09 16:55:44] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 16:55:44] Se encontró la imagen en el horario correspondiente: 430_09-06-2025.png
+[2025-06-09 16:55:44] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 16:56:02] ✅ Cliente WhatsApp listo
+[2025-06-09 16:56:02] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_09-06-2025.png
+[2025-06-09 16:56:03] ⚠️ Grupo "ASD" no encontrado.
+[2025-06-09 16:56:17] 📤 Imagen enviada a Prueba1
+[2025-06-09 16:56:21] 📤 Imagen enviada a Prueba2
+[2025-06-09 16:56:25] 📤 Imagen enviada a Prueba3
+[2025-06-09 16:56:30] 📤 Imagen enviada a Prueba4
+[2025-06-09 16:56:34] 📤 Imagen enviada a Prueba5
+[2025-06-09 16:56:38] 📤 Imagen enviada a Prueba6
+[2025-06-09 16:56:43] 📤 Imagen enviada a Prueba7
+[2025-06-09 16:56:47] 📤 Imagen enviada a Prueba8
+[2025-06-09 16:56:52] 📤 Imagen enviada a Prueba9
+[2025-06-09 16:56:56] 📤 Imagen enviada a Prueba10
+[2025-06-09 16:57:01] 📤 Imagen enviada a Prueba11
+[2025-06-09 16:57:05] 📤 Imagen enviada a Prueba12
+[2025-06-09 16:57:09] 📤 Imagen enviada a Prueba13
+[2025-06-09 16:57:13] ⚠️ Grupo "Michael" no encontrado.
+[2025-06-09 16:57:19] ✅ Proceso terminado con éxito
+[2025-06-09 16:59:36] ---------------------------------------------------------------
+[2025-06-09 16:59:36] SE INICIA EL PROCESO
+[2025-06-09 16:59:36] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 16:59:36] Se encontró la imagen en el horario correspondiente: 430_09-06-2025.png
+[2025-06-09 16:59:36] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 16:59:50] ✅ Cliente WhatsApp listo
+[2025-06-09 16:59:50] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_09-06-2025.png
+[2025-06-09 16:59:52] ⚠️ Grupo "ASD" no encontrado.
+[2025-06-09 16:59:58] 📤 Imagen enviada a Prueba1
+[2025-06-09 17:00:02] 📤 Imagen enviada a Prueba2
+[2025-06-09 17:00:07] 📤 Imagen enviada a Prueba3
+[2025-06-09 17:00:11] 📤 Imagen enviada a Prueba4
+[2025-06-09 17:00:15] 📤 Imagen enviada a Prueba5
+[2025-06-09 17:00:20] 📤 Imagen enviada a Prueba6
+[2025-06-09 17:00:25] 📤 Imagen enviada a Prueba7
+[2025-06-09 17:00:30] 📤 Imagen enviada a Prueba8
+[2025-06-09 17:00:36] 📤 Imagen enviada a Prueba9
+[2025-06-09 17:00:40] 📤 Imagen enviada a Prueba10
+[2025-06-09 17:00:46] 📤 Imagen enviada a Prueba11
+[2025-06-09 17:00:51] 📤 Imagen enviada a Prueba12
+[2025-06-09 17:00:55] 📤 Imagen enviada a Prueba13
+[2025-06-09 17:00:59] ⚠️ Grupo "Michael" no encontrado.
+[2025-06-09 17:01:05] ⚠️ Grupo "Santiago Torres" no encontrado.
+[2025-06-09 17:01:10] ✅ Proceso terminado con éxito
+[2025-06-09 17:01:51] ---------------------------------------------------------------
+[2025-06-09 17:01:51] SE INICIA EL PROCESO
+[2025-06-09 17:01:51] ⏱️ Horario no válido para el envío.
+[2025-06-09 17:36:14] ---------------------------------------------------------------
+[2025-06-09 17:36:14] SE INICIA EL PROCESO
+[2025-06-09 17:36:14] ⏱️Se encontró el siguiente horario: 430_09-06-2025.png.
+[2025-06-09 17:36:14] Se encontró la imagen en el horario correspondiente: 430_09-06-2025.png
+[2025-06-09 17:36:14] Se procede a inicializar el cliente de WhatsApp
+[2025-06-09 17:36:32] ✅ Cliente WhatsApp listo
+[2025-06-09 17:36:32] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_09-06-2025.png
+[2025-06-09 17:36:33] ❌ Error enviando a ASD: Cannot read properties of undefined (reading 'id')
+[2025-06-09 17:36:36] 📤 Imagen enviada a Prueba1
+[2025-06-09 17:36:40] 📤 Imagen enviada a Prueba2
+[2025-06-09 17:36:44] 📤 Imagen enviada a Prueba3
+[2025-06-09 17:36:48] 📤 Imagen enviada a Prueba4
+[2025-06-09 17:36:53] 📤 Imagen enviada a Prueba5
+[2025-06-09 17:36:57] 📤 Imagen enviada a Prueba6
+[2025-06-09 17:37:02] 📤 Imagen enviada a Prueba7
+[2025-06-09 17:37:07] 📤 Imagen enviada a Prueba8
+[2025-06-09 17:37:11] 📤 Imagen enviada a Prueba9
+[2025-06-09 17:37:15] 📤 Imagen enviada a Prueba10
+[2025-06-09 17:37:20] 📤 Imagen enviada a Prueba11
+[2025-06-09 17:37:24] 📤 Imagen enviada a Prueba12
+[2025-06-09 17:37:29] 📤 Imagen enviada a Prueba13
+[2025-06-09 17:37:34] 📤 Imagen enviada a Michael
+[2025-06-09 17:37:38] 📤 Imagen enviada a Santiago Torres
+[2025-06-09 17:37:43] ✅ Proceso terminado con éxito
+[2025-06-10 09:45:39] ---------------------------------------------------------------
+[2025-06-10 09:45:39] SE INICIA EL PROCESO
+[2025-06-10 09:45:39] ⏱️ Horario no válido para el envío.
+[2025-06-10 09:46:50] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 09:46:50] ---------------------------------------------------------------
+[2025-06-10 09:46:50] SE INICIA EL PROCESO
+[2025-06-10 09:46:50] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 09:46:50] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 09:47:12] ✅ Cliente WhatsApp listo
+[2025-06-10 09:47:12] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 09:47:14] 📤 Imagen enviada a Prueba1
+[2025-06-10 09:47:18] 📤 Imagen enviada a Prueba2
+[2025-06-10 09:47:23] 📤 Imagen enviada a Prueba3
+[2025-06-10 09:47:27] 📤 Imagen enviada a Prueba4
+[2025-06-10 09:47:31] 📤 Imagen enviada a Prueba5
+[2025-06-10 09:47:36] 📤 Imagen enviada a Prueba6
+[2025-06-10 09:47:40] 📤 Imagen enviada a Prueba7
+[2025-06-10 09:47:45] 📤 Imagen enviada a Prueba8
+[2025-06-10 09:47:49] 📤 Imagen enviada a Prueba9
+[2025-06-10 09:47:54] 📤 Imagen enviada a Prueba10
+[2025-06-10 09:47:58] 📤 Imagen enviada a Prueba11
+[2025-06-10 09:48:02] 📤 Imagen enviada a Prueba12
+[2025-06-10 09:48:07] 📤 Imagen enviada a Prueba13
+[2025-06-10 09:48:11] 📤 Imagen enviada a Michael
+[2025-06-10 09:48:15] 📤 Imagen enviada a Santiago Torres
+[2025-06-10 09:48:19] ✅ Proceso terminado con éxito
+[2025-06-10 12:47:12] ---------------------------------------------------------------
+[2025-06-10 12:47:12] SE INICIA EL PROCESO
+[2025-06-10 12:47:12] ⏱️ Horario no válido para el envío.
+[2025-06-10 12:48:53] ---------------------------------------------------------------
+[2025-06-10 12:48:53] SE INICIA EL PROCESO
+[2025-06-10 12:48:53] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 12:48:53] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 12:48:53] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 12:49:16] ✅ Cliente WhatsApp listo
+[2025-06-10 12:49:16] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 12:49:18] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:22] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:23] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:25] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:26] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:27] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:28] ❌ Error enviando a 1: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:30] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:31] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:32] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:34] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:35] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:36] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:38] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:39] ❌ Error enviando a 2: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:41] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:42] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:43] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:45] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:46] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:47] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:48] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:50] ❌ Error enviando a 3: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:51] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:53] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:54] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:56] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:57] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:49:58] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:00] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:01] ❌ Error enviando a 4: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:02] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:04] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:05] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:07] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:08] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:09] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:11] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:12] ❌ Error enviando a 5: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:13] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:15] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:16] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:17] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:19] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:20] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:21] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:22] ❌ Error enviando a 6: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:24] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:25] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:26] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:28] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:29] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:30] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:31] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:33] ❌ Error enviando a 7: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:34] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:36] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:37] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:38] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:39] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:41] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:42] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:43] ❌ Error enviando a 8: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:45] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:46] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:47] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:48] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:50] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:51] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:52] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:54] ❌ Error enviando a 9: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:55] ❌ Error enviando a ,: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:57] ❌ Error enviando a P: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:58] ❌ Error enviando a r: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:50:59] ❌ Error enviando a u: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:51:01] ❌ Error enviando a e: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:51:02] ❌ Error enviando a b: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:51:03] ❌ Error enviando a a: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:51:04] ❌ Error enviando a 1: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:51:06] ❌ Error enviando a 0: Cannot read properties of undefined (reading 'id')
+[2025-06-10 12:52:31] ---------------------------------------------------------------
+[2025-06-10 12:52:31] SE INICIA EL PROCESO
+[2025-06-10 12:52:31] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 12:52:31] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 12:52:31] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 12:52:43] ✅ Cliente WhatsApp listo
+[2025-06-10 12:52:43] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 12:52:45] 📤 Imagen enviada a Prueba1
+[2025-06-10 12:52:49] 📤 Imagen enviada a Prueba2
+[2025-06-10 12:52:53] 📤 Imagen enviada a Prueba3
+[2025-06-10 12:52:58] 📤 Imagen enviada a Prueba4
+[2025-06-10 12:53:02] 📤 Imagen enviada a Prueba5
+[2025-06-10 12:53:06] 📤 Imagen enviada a Prueba6
+[2025-06-10 12:53:11] 📤 Imagen enviada a Prueba7
+[2025-06-10 12:53:15] 📤 Imagen enviada a Prueba8
+[2025-06-10 12:53:20] 📤 Imagen enviada a Prueba9
+[2025-06-10 12:53:25] 📤 Imagen enviada a Prueba10
+[2025-06-10 12:53:30] 📤 Imagen enviada a Prueba11
+[2025-06-10 12:53:34] 📤 Imagen enviada a Prueba12
+[2025-06-10 12:53:39] 📤 Imagen enviada a Prueba13
+[2025-06-10 12:53:43] 📤 Imagen enviada a Michael
+[2025-06-10 12:53:48] 📤 Imagen enviada a Santiago Torres
+[2025-06-10 12:53:52] ✅ Proceso terminado con éxito
+[2025-06-10 12:55:06] ---------------------------------------------------------------
+[2025-06-10 12:55:06] SE INICIA EL PROCESO
+[2025-06-10 12:55:06] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 12:55:06] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 12:55:06] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 12:55:20] ✅ Cliente WhatsApp listo
+[2025-06-10 12:55:20] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 12:55:24] 📤 Imagen enviada a Michael
+[2025-06-10 12:55:28] 📤 Imagen enviada a Michael
+[2025-06-10 12:55:32] 📤 Imagen enviada a Michael
+[2025-06-10 12:55:37] 📤 Imagen enviada a Michael
+[2025-06-10 12:55:41] ✅ Proceso terminado con éxito

@@ -1,0 +1,14 @@
+# .gitignore
+
+whatsapp_js/.env
+whatsapp_js/.env.prod
+
+whatsapp_js/node_modules/
+
+# Ignorar salidas temporales
+whatsapp_js/dist/
+whatsapp_js/build/
+whatsapp_js/.cache/
+
+whatsapp_js/.wwebjs_auth/
+whatsapp_js/.wwebjs_cache/

@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "cross-env NODE_ENV=DEV node pruebas.js",
+    "start:prod": "cross-env NODE_ENV=PROD node pruebas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.5.0",
+    "nodemailer": "^7.0.3",
+    "puppeteer": "^24.10.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
