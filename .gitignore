@@ -2,7 +2,7 @@
 
 whatsapp_js/.env
 whatsapp_js/.env.prod
-
+whatsapp_js/log.txt
 whatsapp_js/node_modules/
 
 # Ignorar salidas temporales
@@ -12,3 +12,7 @@ whatsapp_js/.cache/
 
 whatsapp_js/.wwebjs_auth/
 whatsapp_js/.wwebjs_cache/
+
+#SSH_CONECTION
+ssh_conection/.venv/
+ssh_conection/Logs.log
