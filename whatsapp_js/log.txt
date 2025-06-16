@@ -339,3 +339,636 @@
 [2025-06-10 12:55:32] 📤 Imagen enviada a Michael
 [2025-06-10 12:55:37] 📤 Imagen enviada a Michael
 [2025-06-10 12:55:41] ✅ Proceso terminado con éxito
+[2025-06-10 15:38:56] ---------------------------------------------------------------
+[2025-06-10 15:38:56] SE INICIA EL PROCESO
+[2025-06-10 15:38:56] ⏱️Se encontró el siguiente horario: 09-06-2025.png.
+[2025-06-10 15:38:56] ❌ Imagen 09-06-2025.png no encontrada
+[2025-06-10 15:38:56] archivos encontrados en la carpeta:
+[2025-06-10 15:38:56] ***********************************
+[2025-06-10 15:38:56] 430_10-06-2025.png
+[2025-06-10 15:38:56] desktop.ini
+[2025-06-10 15:38:56] Historial Cargadas
+[2025-06-10 15:38:56] Logs_Ejecucion
+[2025-06-10 15:38:56] png 130 430  escrutinio remoto
+[2025-06-10 15:38:56] Thumbs.db
+[2025-06-10 15:38:56] ***********************************
+[2025-06-10 15:39:27] ---------------------------------------------------------------
+[2025-06-10 15:39:27] SE INICIA EL PROCESO
+[2025-06-10 15:39:27] ⏱️Se encontró el siguiente horario: 09-06-2025.png.
+[2025-06-10 15:39:27] ❌ Imagen 09-06-2025.png no encontrada
+[2025-06-10 15:39:27] archivos encontrados en la carpeta:
+[2025-06-10 15:39:27] ***********************************
+[2025-06-10 15:39:27] 430_10-06-2025.png
+[2025-06-10 15:39:27] desktop.ini
+[2025-06-10 15:39:27] Historial Cargadas
+[2025-06-10 15:39:27] Logs_Ejecucion
+[2025-06-10 15:39:27] png 130 430  escrutinio remoto
+[2025-06-10 15:39:27] Thumbs.db
+[2025-06-10 15:39:27] ***********************************
+[2025-06-10 15:40:07] ---------------------------------------------------------------
+[2025-06-10 15:40:07] SE INICIA EL PROCESO
+[2025-06-10 15:40:07] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 15:40:07] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 15:40:07] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 15:40:33] ✅ Cliente WhatsApp listo
+[2025-06-10 15:40:33] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 15:40:34] media:[object Object]
+[2025-06-10 15:40:35] 📤 Imagen enviada a Prueba1
+[2025-06-10 15:40:39] 📤 Imagen enviada a Prueba2
+[2025-06-10 15:40:44] 📤 Imagen enviada a Prueba3
+[2025-06-10 15:40:48] 📤 Imagen enviada a Prueba4
+[2025-06-10 15:40:52] 📤 Imagen enviada a Prueba5
+[2025-06-10 15:40:57] 📤 Imagen enviada a Prueba6
+[2025-06-10 15:41:01] 📤 Imagen enviada a Prueba7
+[2025-06-10 15:41:06] 📤 Imagen enviada a Prueba8
+[2025-06-10 15:41:11] 📤 Imagen enviada a Prueba9
+[2025-06-10 15:41:16] 📤 Imagen enviada a Prueba10
+[2025-06-10 15:41:20] 📤 Imagen enviada a Prueba11
+[2025-06-10 15:41:25] 📤 Imagen enviada a Prueba12
+[2025-06-10 15:41:29] 📤 Imagen enviada a Prueba13
+[2025-06-10 15:41:34] 📤 Imagen enviada a Michael
+[2025-06-10 15:41:38] 📤 Imagen enviada a Santiago Torres
+[2025-06-10 15:41:42] ✅ Proceso terminado con éxito
+[2025-06-10 16:06:48] ---------------------------------------------------------------
+[2025-06-10 16:06:48] SE INICIA EL PROCESO
+[2025-06-10 16:06:48] ⏱️ Se obtuvo el nombre de la imagen: 430_10-06-2025.png
+[2025-06-10 16:06:49] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430
+[2025-06-10 16:06:49] ⏱️Se encontró el siguiente horario: 430_10-06-2025.png.
+[2025-06-10 16:06:49] Se encontró la imagen en el horario correspondiente: 430_10-06-2025.png
+[2025-06-10 16:06:49] Se procede a inicializar el cliente de WhatsApp
+[2025-06-10 16:07:11] ✅ Cliente WhatsApp listo
+[2025-06-10 16:07:11] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_10-06-2025.png
+[2025-06-10 16:07:11] media:[object Object]
+[2025-06-10 16:07:18] 📤 Imagen enviada a Prueba1
+[2025-06-10 16:07:22] 📤 Imagen enviada a Prueba2
+[2025-06-10 16:07:27] 📤 Imagen enviada a Prueba3
+[2025-06-10 16:07:31] 📤 Imagen enviada a Prueba4
+[2025-06-10 16:07:37] 📤 Imagen enviada a Prueba5
+[2025-06-10 16:07:42] 📤 Imagen enviada a Prueba6
+[2025-06-10 16:07:46] 📤 Imagen enviada a Prueba7
+[2025-06-10 16:07:50] 📤 Imagen enviada a Prueba8
+[2025-06-10 16:07:55] 📤 Imagen enviada a Prueba9
+[2025-06-10 16:07:59] 📤 Imagen enviada a Prueba10
+[2025-06-10 16:08:03] 📤 Imagen enviada a Prueba11
+[2025-06-10 16:08:08] 📤 Imagen enviada a Prueba12
+[2025-06-10 16:08:12] 📤 Imagen enviada a Prueba13
+[2025-06-10 16:08:16] 📤 Imagen enviada a Michael
+[2025-06-10 16:08:21] 📤 Imagen enviada a Santiago Torres
+[2025-06-10 16:08:25] ✅ Proceso terminado con éxito
+[2025-06-11 10:01:54] ---------------------------------------------------------------
+[2025-06-11 10:01:54] SE INICIA EL PROCESO
+[2025-06-11 10:01:54] ⏱️ Horario no válido para el envío.
+[2025-06-11 10:03:18] ---------------------------------------------------------------
+[2025-06-11 10:03:18] SE INICIA EL PROCESO
+[2025-06-11 10:03:18] ⏱️Se encontró el siguiente horario: 430_11-06-2025.png.
+[2025-06-11 10:03:18] ⏱️ Se obtuvo el nombre de la imagen: 430_11-06-2025.png
+[2025-06-11 10:03:18] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430
+[2025-06-11 10:03:18] Se encontró la imagen en el horario correspondiente: 430_11-06-2025.png
+[2025-06-11 10:03:18] Se procede a inicializar el cliente de WhatsApp
+[2025-06-11 10:03:47] ✅ Cliente WhatsApp listo
+[2025-06-11 10:03:48] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_11-06-2025.png
+[2025-06-11 10:03:49] 📤 Imagen enviada a Prueba1
+[2025-06-11 10:03:53] 📤 Imagen enviada a Prueba2
+[2025-06-11 10:03:58] 📤 Imagen enviada a Prueba3
+[2025-06-11 10:04:02] 📤 Imagen enviada a Prueba4
+[2025-06-11 10:04:06] 📤 Imagen enviada a Prueba5
+[2025-06-11 10:04:11] 📤 Imagen enviada a Prueba6
+[2025-06-11 10:04:15] 📤 Imagen enviada a Prueba7
+[2025-06-11 10:04:20] 📤 Imagen enviada a Prueba8
+[2025-06-11 10:04:25] 📤 Imagen enviada a Prueba9
+[2025-06-11 10:04:30] 📤 Imagen enviada a Prueba10
+[2025-06-11 10:04:34] 📤 Imagen enviada a Prueba11
+[2025-06-11 10:04:39] 📤 Imagen enviada a Prueba12
+[2025-06-11 10:04:43] 📤 Imagen enviada a Prueba13
+[2025-06-11 10:04:48] 📤 Imagen enviada a Michael
+[2025-06-11 10:04:52] 📤 Imagen enviada a Santiago Torres
+[2025-06-11 10:04:56] ✅ Proceso terminado con éxito
+[2025-06-11 10:18:35] ---------------------------------------------------------------
+[2025-06-11 10:18:35] SE INICIA EL PROCESO
+[2025-06-11 10:18:35] ⏱️Se encontró el siguiente horario: 430_11-06-2025.png.
+[2025-06-11 10:18:35] ⏱️ Se obtuvo el nombre de la imagen: 430_11-06-2025.png
+[2025-06-11 10:18:35] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-11 10:18:35] Se encontró la imagen en el horario correspondiente: 430_11-06-2025.png
+[2025-06-11 10:18:35] Se procede a inicializar el cliente de WhatsApp
+[2025-06-11 10:18:56] ✅ Cliente WhatsApp listo
+[2025-06-11 10:18:56] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_11-06-2025.png
+[2025-06-11 10:18:58] 📤 Imagen enviada a Prueba1
+[2025-06-11 10:19:03] 📤 Imagen enviada a Prueba2
+[2025-06-11 10:19:07] 📤 Imagen enviada a Prueba3
+[2025-06-11 10:19:11] 📤 Imagen enviada a Prueba4
+[2025-06-11 10:19:17] 📤 Imagen enviada a Prueba5
+[2025-06-11 10:19:24] 📤 Imagen enviada a Prueba6
+[2025-06-11 10:19:28] 📤 Imagen enviada a Prueba7
+[2025-06-11 10:19:33] 📤 Imagen enviada a Prueba8
+[2025-06-11 10:19:37] 📤 Imagen enviada a Prueba9
+[2025-06-11 10:19:41] 📤 Imagen enviada a Prueba10
+[2025-06-11 10:19:46] 📤 Imagen enviada a Prueba11
+[2025-06-11 10:19:50] 📤 Imagen enviada a Prueba12
+[2025-06-11 10:19:55] 📤 Imagen enviada a Prueba13
+[2025-06-11 10:19:59] 📤 Imagen enviada a Michael
+[2025-06-11 10:20:04] 📤 Imagen enviada a Santiago Torres
+[2025-06-11 10:20:08] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_11-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_11-06-2025.png
+[2025-06-11 10:20:08] ✅ Proceso terminado con éxito
+[2025-06-16 09:13:13] Entorno actual:
+[2025-06-16 09:13:13] ---------------------------------------------------------------
+[2025-06-16 09:13:13] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:13:13] SE INICIA EL PROCESO
+[2025-06-16 09:14:25] Entorno actual: DEV
+[2025-06-16 09:14:25] ---------------------------------------------------------------
+[2025-06-16 09:14:25] SE INICIA EL PROCESO
+[2025-06-16 09:14:25] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:19:42] Entorno actual: DEV
+[2025-06-16 09:19:42] ---------------------------------------------------------------
+[2025-06-16 09:19:42] SE INICIA EL PROCESO
+[2025-06-16 09:19:42] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:20:19] Entorno actual: DEV
+[2025-06-16 09:20:19] ---------------------------------------------------------------
+[2025-06-16 09:20:19] SE INICIA EL PROCESO
+[2025-06-16 09:20:19] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:20:52] Entorno actual: DEV
+[2025-06-16 09:20:52] ---------------------------------------------------------------
+[2025-06-16 09:20:52] SE INICIA EL PROCESO
+[2025-06-16 09:20:52] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:23:16] Entorno actual: DEV
+[2025-06-16 09:23:16] ---------------------------------------------------------------
+[2025-06-16 09:23:16] SE INICIA EL PROCESO
+[2025-06-16 09:23:16] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:26:36] Entorno actual: DEV
+[2025-06-16 09:26:36] ---------------------------------------------------------------
+[2025-06-16 09:26:36] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:26:36] SE INICIA EL PROCESO
+[2025-06-16 09:32:22] Entorno actual: DEV
+[2025-06-16 09:32:22] ---------------------------------------------------------------
+[2025-06-16 09:32:22] SE INICIA EL PROCESO
+[2025-06-16 09:32:22] ⏱️ Horario no válido para el envío.
+[2025-06-16 09:38:29] Entorno actual: DEV
+[2025-06-16 09:38:29] ---------------------------------------------------------------
+[2025-06-16 09:38:29] SE INICIA EL PROCESO
+[2025-06-16 09:38:29] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:38:29] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:38:29] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:38:29] ❌ Imagen 430_16-06-2025.png no encontrada
+[2025-06-16 09:38:29] archivos encontrados en la carpeta:
+[2025-06-16 09:38:29] ***********************************
+[2025-06-16 09:38:29] 430_16-05-2025.png
+[2025-06-16 09:38:29] desktop.ini
+[2025-06-16 09:38:29] Historial Cargadas
+[2025-06-16 09:38:29] Logs_Ejecucion
+[2025-06-16 09:38:29] png 130 430  escrutinio remoto
+[2025-06-16 09:38:29] Thumbs.db
+[2025-06-16 09:38:29] ***********************************
+[2025-06-16 09:39:17] Entorno actual: DEV
+[2025-06-16 09:39:17] ---------------------------------------------------------------
+[2025-06-16 09:39:17] SE INICIA EL PROCESO
+[2025-06-16 09:39:17] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:39:17] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:39:17] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:39:17] ❌ Imagen 430_16-06-2025.png no encontrada
+[2025-06-16 09:39:17] archivos encontrados en la carpeta:
+[2025-06-16 09:39:17] ***********************************
+[2025-06-16 09:39:17] 430_16-05-2025.png
+[2025-06-16 09:39:17] desktop.ini
+[2025-06-16 09:39:17] Historial Cargadas
+[2025-06-16 09:39:17] Logs_Ejecucion
+[2025-06-16 09:39:17] png 130 430  escrutinio remoto
+[2025-06-16 09:39:17] Thumbs.db
+[2025-06-16 09:39:17] ***********************************
+[2025-06-16 09:39:58] Entorno actual: DEV
+[2025-06-16 09:39:58] ---------------------------------------------------------------
+[2025-06-16 09:39:58] SE INICIA EL PROCESO
+[2025-06-16 09:39:58] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:39:58] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:39:58] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:39:58] ❌ Imagen 430_16-06-2025.png no encontrada
+[2025-06-16 09:39:58] archivos encontrados en la carpeta:
+[2025-06-16 09:39:58] ***********************************
+[2025-06-16 09:39:58] 430_16-05-2025.png
+[2025-06-16 09:39:58] desktop.ini
+[2025-06-16 09:39:58] Historial Cargadas
+[2025-06-16 09:39:58] Logs_Ejecucion
+[2025-06-16 09:39:58] png 130 430  escrutinio remoto
+[2025-06-16 09:39:58] Thumbs.db
+[2025-06-16 09:39:58] ***********************************
+[2025-06-16 09:56:51] Entorno actual: DEV
+[2025-06-16 09:56:51] ---------------------------------------------------------------
+[2025-06-16 09:56:51] SE INICIA EL PROCESO
+[2025-06-16 09:56:51] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:56:51] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:56:51] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:56:51] ❌ Imagen 430_16-06-2025.png no encontrada
+[2025-06-16 09:56:51] archivos encontrados en la carpeta:
+[2025-06-16 09:56:51] ***********************************
+[2025-06-16 09:57:17] Entorno actual: DEV
+[2025-06-16 09:57:17] ---------------------------------------------------------------
+[2025-06-16 09:57:17] SE INICIA EL PROCESO
+[2025-06-16 09:57:17] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:57:17] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:57:17] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:57:17] ❌ Imagen 430_16-06-2025.png no encontrada
+[2025-06-16 09:57:17] archivos encontrados en la carpeta:
+[2025-06-16 09:57:17] ***********************************
+[2025-06-16 09:57:17] 430_16-05-2025.png
+[2025-06-16 09:57:17] desktop.ini
+[2025-06-16 09:57:17] Historial Cargadas
+[2025-06-16 09:57:17] Logs_Ejecucion
+[2025-06-16 09:57:17] png 130 430  escrutinio remoto
+[2025-06-16 09:57:17] Thumbs.db
+[2025-06-16 09:57:17] ***********************************
+[2025-06-16 09:59:23] Entorno actual: DEV
+[2025-06-16 09:59:23] ---------------------------------------------------------------
+[2025-06-16 09:59:23] SE INICIA EL PROCESO
+[2025-06-16 09:59:23] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:59:23] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:59:23] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:59:23] ❌ Imagen 430_16-06-2025.png no encontrada
+
+[2025-06-16 09:59:23] archivos encontrados en la carpeta:
+[2025-06-16 09:59:23] ***********************************
+[2025-06-16 09:59:23] 430_16-05-2025.png
+[2025-06-16 09:59:23] desktop.ini
+[2025-06-16 09:59:23] Historial Cargadas
+[2025-06-16 09:59:23] Logs_Ejecucion
+[2025-06-16 09:59:23] png 130 430  escrutinio remoto
+[2025-06-16 09:59:23] Thumbs.db
+[2025-06-16 09:59:23] ***********************************
+[2025-06-16 09:59:58] Entorno actual: DEV
+[2025-06-16 09:59:58] ---------------------------------------------------------------
+[2025-06-16 09:59:58] SE INICIA EL PROCESO
+[2025-06-16 09:59:58] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 09:59:58] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 09:59:58] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 09:59:59] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 09:59:59] archivos encontrados en la carpeta:
+[2025-06-16 09:59:59] ***********************************
+[2025-06-16 09:59:59] 430_16-05-2025.png
+[2025-06-16 09:59:59] desktop.ini
+[2025-06-16 09:59:59] Historial Cargadas
+[2025-06-16 09:59:59] Logs_Ejecucion
+[2025-06-16 09:59:59] png 130 430  escrutinio remoto
+[2025-06-16 09:59:59] Thumbs.db
+[2025-06-16 09:59:59] ***********************************
+[2025-06-16 10:01:26] Entorno actual: DEV
+[2025-06-16 10:01:26] ---------------------------------------------------------------
+[2025-06-16 10:01:26] SE INICIA EL PROCESO
+[2025-06-16 10:01:26] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:01:26] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:01:26] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:01:26] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:01:26] Archivos encontrados en la carpeta:
+[2025-06-16 10:01:26] ***********************************
+[2025-06-16 10:01:26] 430_16-05-2025.png
+[2025-06-16 10:01:26] desktop.ini
+[2025-06-16 10:01:26] Historial Cargadas
+[2025-06-16 10:01:26] Logs_Ejecucion
+[2025-06-16 10:01:26] png 130 430  escrutinio remoto
+[2025-06-16 10:01:26] Thumbs.db
+[2025-06-16 10:01:26] ***********************************
+[2025-06-16 10:02:19] Entorno actual: DEV
+[2025-06-16 10:02:19] ---------------------------------------------------------------
+[2025-06-16 10:02:19] SE INICIA EL PROCESO
+[2025-06-16 10:02:19] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:02:19] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:02:19] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:02:19] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:02:19] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:02:46] ✅ Cliente WhatsApp listo
+[2025-06-16 10:02:46] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:02:55] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:03:00] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:03:04] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:03:08] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:03:13] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:03:17] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:03:22] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:03:27] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:03:31] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:03:36] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:03:40] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:03:44] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:03:49] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:03:53] 📤 Imagen enviada a Michael
+[2025-06-16 10:03:58] 📤 Imagen enviada a Santiago Torres
+[2025-06-16 10:04:02] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:04:02] ✅ Proceso terminado con éxito
+[2025-06-16 10:06:34] Entorno actual: DEV
+[2025-06-16 10:06:34] ---------------------------------------------------------------
+[2025-06-16 10:06:34] SE INICIA EL PROCESO
+[2025-06-16 10:06:34] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:06:34] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:06:34] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:06:34] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:06:34] Archivos encontrados en la carpeta:
+[2025-06-16 10:06:34] ***********************************
+[2025-06-16 10:06:34] desktop.ini
+[2025-06-16 10:06:34] Historial Cargadas
+[2025-06-16 10:06:34] Logs_Ejecucion
+[2025-06-16 10:06:34] png 130 430  escrutinio remoto
+[2025-06-16 10:06:34] Thumbs.db
+[2025-06-16 10:06:34] ***********************************
+[2025-06-16 10:07:58] Entorno actual: DEV
+[2025-06-16 10:07:58] ---------------------------------------------------------------
+[2025-06-16 10:07:58] SE INICIA EL PROCESO
+[2025-06-16 10:07:58] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:07:58] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:07:58] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:07:58] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:07:58] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:08:15] ✅ Cliente WhatsApp listo
+[2025-06-16 10:08:15] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:08:17] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:08:22] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:08:26] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:08:30] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:08:35] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:08:39] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:08:43] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:08:48] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:08:52] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:08:56] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:09:01] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:09:05] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:09:10] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:09:14] 📤 Imagen enviada a Michael
+[2025-06-16 10:09:19] 📤 Imagen enviada a Santiago Torres
+[2025-06-16 10:09:24] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:09:24] ✅ Proceso terminado con éxito
+[2025-06-16 10:19:29] Entorno actual: DEV
+[2025-06-16 10:19:29] ---------------------------------------------------------------
+[2025-06-16 10:19:29] SE INICIA EL PROCESO
+[2025-06-16 10:19:29] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:19:29] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:19:29] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:19:29] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:19:29] Archivos encontrados en la carpeta:
+[2025-06-16 10:19:29] ***********************************
+[2025-06-16 10:19:29] desktop.ini
+[2025-06-16 10:19:29] Historial Cargadas
+[2025-06-16 10:19:29] Logs_Ejecucion
+[2025-06-16 10:19:29] png 130 430  escrutinio remoto
+[2025-06-16 10:19:29] Thumbs.db
+[2025-06-16 10:19:29] ***********************************
+[2025-06-16 10:19:56] Entorno actual: DEV
+[2025-06-16 10:19:56] ---------------------------------------------------------------
+[2025-06-16 10:19:56] SE INICIA EL PROCESO
+[2025-06-16 10:19:56] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:19:56] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:19:56] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:19:56] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:19:56] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:20:16] ✅ Cliente WhatsApp listo
+[2025-06-16 10:20:16] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:20:18] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:20:22] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:20:26] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:20:31] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:20:35] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:20:40] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:20:44] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:20:49] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:20:53] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:20:58] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:21:03] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:21:07] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:21:12] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:21:16] ❌ Error enviando a Michael: Cannot read properties of undefined (reading 'id')
+[2025-06-16 10:21:17] ❌ Error enviando a Santiago Torres: Cannot read properties of undefined (reading 'id')
+[2025-06-16 10:24:10] Entorno actual: DEV
+[2025-06-16 10:24:10] ---------------------------------------------------------------
+[2025-06-16 10:24:10] SE INICIA EL PROCESO
+[2025-06-16 10:24:10] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:24:10] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:24:10] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:24:10] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:24:10] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:24:25] ✅ Cliente WhatsApp listo
+[2025-06-16 10:24:25] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:24:26] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:24:31] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:24:35] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:24:39] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:24:43] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:24:48] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:24:52] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:24:57] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:25:02] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:25:07] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:25:11] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:25:16] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:25:20] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:25:24] 📤 Imagen enviada a Michael
+[2025-06-16 10:25:29] 📤 Imagen enviada a Santiago Torres
+[2025-06-16 10:25:35] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:25:35] ✅ Proceso terminado con éxito
+[2025-06-16 10:27:07] Entorno actual: DEV
+[2025-06-16 10:27:07] ---------------------------------------------------------------
+[2025-06-16 10:27:07] SE INICIA EL PROCESO
+[2025-06-16 10:27:07] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:27:07] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:27:07] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:27:07] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:27:07] Archivos encontrados en la carpeta:
+[2025-06-16 10:27:07] ***********************************
+[2025-06-16 10:27:07] desktop.ini
+[2025-06-16 10:27:07] Historial Cargadas
+[2025-06-16 10:27:07] Logs_Ejecucion
+[2025-06-16 10:27:07] png 130 430  escrutinio remoto
+[2025-06-16 10:27:07] Thumbs.db
+[2025-06-16 10:27:07] ***********************************
+[2025-06-16 10:28:30] Entorno actual: DEV
+[2025-06-16 10:28:30] ---------------------------------------------------------------
+[2025-06-16 10:28:30] SE INICIA EL PROCESO
+[2025-06-16 10:28:30] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:28:30] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:28:30] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:28:30] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:28:30] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:28:45] ✅ Cliente WhatsApp listo
+[2025-06-16 10:28:45] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:28:48] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:28:52] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:28:56] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:29:00] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:29:05] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:29:09] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:29:14] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:29:19] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:29:23] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:29:28] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:29:33] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:29:40] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:29:44] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:29:48] ❌ Error enviando a Michael: Cannot read properties of undefined (reading 'id')
+[2025-06-16 10:29:49] ❌ Error enviando a Santiago Torres: Cannot read properties of undefined (reading 'id')
+[2025-06-16 10:29:52] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:29:52] ✅ Proceso terminado con éxito
+[2025-06-16 10:31:14] Entorno actual: DEV
+[2025-06-16 10:31:14] ---------------------------------------------------------------
+[2025-06-16 10:31:14] SE INICIA EL PROCESO
+[2025-06-16 10:31:14] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:31:14] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:31:14] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:31:14] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:31:14] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:31:30] ✅ Cliente WhatsApp listo
+[2025-06-16 10:31:30] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:31:32] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:31:36] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:31:41] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:31:45] 📤 Imagen enviada a Prueba4
+[2025-06-16 10:31:49] 📤 Imagen enviada a Prueba5
+[2025-06-16 10:31:54] 📤 Imagen enviada a Prueba6
+[2025-06-16 10:31:58] 📤 Imagen enviada a Prueba7
+[2025-06-16 10:32:03] 📤 Imagen enviada a Prueba8
+[2025-06-16 10:32:08] 📤 Imagen enviada a Prueba9
+[2025-06-16 10:32:12] 📤 Imagen enviada a Prueba10
+[2025-06-16 10:32:17] 📤 Imagen enviada a Prueba11
+[2025-06-16 10:32:21] 📤 Imagen enviada a Prueba12
+[2025-06-16 10:32:26] 📤 Imagen enviada a Prueba13
+[2025-06-16 10:32:30] 📤 Imagen enviada a Michael
+[2025-06-16 10:32:36] 📤 Imagen enviada a Santiago Torres
+[2025-06-16 10:32:42] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:32:42] ✅ Proceso terminado con éxito
+[2025-06-16 10:35:10] ---------------------------------------------------------------
+[2025-06-16 10:35:10] Entorno actual: DEV
+[2025-06-16 10:35:10] SE INICIA EL PROCESO
+[2025-06-16 10:35:10] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:35:10] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:35:10] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:35:10] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:35:10] Archivos encontrados en la carpeta:
+[2025-06-16 10:35:10] ***********************************
+[2025-06-16 10:35:10] desktop.ini
+[2025-06-16 10:35:10] Historial Cargadas
+[2025-06-16 10:35:10] Logs_Ejecucion
+[2025-06-16 10:35:10] png 130 430  escrutinio remoto
+[2025-06-16 10:35:10] Thumbs.db
+[2025-06-16 10:35:10] ***********************************
+[2025-06-16 10:35:41] Entorno actual: DEV
+[2025-06-16 10:35:41] ---------------------------------------------------------------
+[2025-06-16 10:35:41] SE INICIA EL PROCESO
+[2025-06-16 10:35:41] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:35:41] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:35:41] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:35:41] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:35:41] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:35:53] ✅ Cliente WhatsApp listo
+[2025-06-16 10:35:53] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:35:56] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:36:00] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:36:04] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:36:09] 📤 Imagen enviada a Michael
+[2025-06-16 10:36:14] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:36:14] ✅ Proceso terminado con éxito
+[2025-06-16 10:39:53] Entorno actual: DEV
+[2025-06-16 10:39:53] ---------------------------------------------------------------
+[2025-06-16 10:39:53] SE INICIA EL PROCESO
+[2025-06-16 10:39:53] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:39:53] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:39:53] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:39:53] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:39:53] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:40:09] ✅ Cliente WhatsApp listo
+[2025-06-16 10:40:09] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:40:19] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:40:23] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:40:28] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:40:32] 📤 Imagen enviada a Michael
+[2025-06-16 10:40:38] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:40:38] ✅ Proceso terminado con éxito
+[2025-06-16 10:51:06] SE INICIA EL PROCESO
+[2025-06-16 10:51:06] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:51:06] Entorno actual: DEV
+[2025-06-16 10:51:06] ---------------------------------------------------------------
+[2025-06-16 10:51:06] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:51:06] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:51:07] ❌ Imagen 430_16-06-2025.png no encontrada
+
+
+[2025-06-16 10:51:07] Archivos encontrados en la carpeta:
+[2025-06-16 10:51:07] ***********************************
+[2025-06-16 10:51:07] desktop.ini
+[2025-06-16 10:51:07] Historial Cargadas
+[2025-06-16 10:51:07] Logs_Ejecucion
+[2025-06-16 10:51:07] png 130 430  escrutinio remoto
+[2025-06-16 10:51:07] Thumbs.db
+[2025-06-16 10:51:07] ***********************************
+[2025-06-16 10:51:53] Entorno actual: DEV
+[2025-06-16 10:51:53] ---------------------------------------------------------------
+[2025-06-16 10:51:53] SE INICIA EL PROCESO
+[2025-06-16 10:51:53] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 10:51:53] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 10:51:53] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 10:51:53] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 10:51:53] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 10:52:09] ✅ Cliente WhatsApp listo
+[2025-06-16 10:52:09] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 10:52:10] 📤 Imagen enviada a Prueba1
+[2025-06-16 10:52:14] 📤 Imagen enviada a Prueba2
+[2025-06-16 10:52:18] 📤 Imagen enviada a Prueba3
+[2025-06-16 10:52:23] 📤 Imagen enviada a Michael
+[2025-06-16 10:52:27] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 10:52:28] ✅ Proceso terminado con éxito
+[2025-06-16 11:00:30] Entorno actual: DEV
+[2025-06-16 11:00:30] ---------------------------------------------------------------
+[2025-06-16 11:00:30] SE INICIA EL PROCESO
+[2025-06-16 11:00:30] ⏱️ Horario no válido para el envío.
+[2025-06-16 11:02:06] Entorno actual: DEV
+[2025-06-16 11:02:06] ---------------------------------------------------------------
+[2025-06-16 11:02:06] SE INICIA EL PROCESO
+[2025-06-16 11:02:06] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 11:02:06] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 11:02:06] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 11:02:06] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 11:02:06] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 11:02:18] ✅ Cliente WhatsApp listo
+[2025-06-16 11:02:18] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 11:02:21] 📤 Imagen enviada a Prueba1
+[2025-06-16 11:02:26] 📤 Imagen enviada a Prueba2
+[2025-06-16 11:02:30] 📤 Imagen enviada a Prueba3
+[2025-06-16 11:02:34] 📤 Imagen enviada a Michael
+[2025-06-16 11:02:38] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 11:02:40] ✅ Proceso terminado con éxito
+[2025-06-16 11:10:10] Entorno actual: DEV
+[2025-06-16 11:10:10] ---------------------------------------------------------------
+[2025-06-16 11:10:10] SE INICIA EL PROCESO
+[2025-06-16 11:10:10] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 11:10:10] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 11:10:10] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 11:10:10] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 11:10:10] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 11:10:28] ✅ Cliente WhatsApp listo
+[2025-06-16 11:10:28] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 11:10:31] 📤 Imagen enviada a Prueba1
+[2025-06-16 11:10:35] 📤 Imagen enviada a Prueba2
+[2025-06-16 11:10:39] 📤 Imagen enviada a Prueba3
+[2025-06-16 11:10:44] 📤 Imagen enviada a Michael
+[2025-06-16 11:10:48] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 11:10:49] ✅ Proceso terminado con éxito
+[2025-06-16 11:19:57] Entorno actual: DEV
+[2025-06-16 11:19:57] ---------------------------------------------------------------
+[2025-06-16 11:19:57] SE INICIA EL PROCESO
+[2025-06-16 11:19:57] ⏱️Se encontró el siguiente horario: 430_16-06-2025.png.
+[2025-06-16 11:19:57] ⏱️ Se obtuvo el nombre de la imagen: 430_16-06-2025.png
+[2025-06-16 11:19:57] ⏱️ Ruta donde se va a mover la imagen: \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\
+[2025-06-16 11:19:57] Se encontró la imagen en el horario correspondiente: 430_16-06-2025.png
+[2025-06-16 11:19:57] Se procede a inicializar el cliente de WhatsApp
+[2025-06-16 11:20:16] ✅ Cliente WhatsApp listo
+[2025-06-16 11:20:16] ruta completa de la imagen:\\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png
+[2025-06-16 11:20:18] 📤 Imagen enviada a Prueba1
+[2025-06-16 11:20:22] 📤 Imagen enviada a Prueba2
+[2025-06-16 11:20:26] 📤 Imagen enviada a Prueba3
+[2025-06-16 11:20:31] 📤 Imagen enviada a Michael
+[2025-06-16 11:20:35] Imagen movida de \\10.1.1.1\codesarpamoni\Escrutinio\430_16-06-2025.png a \\10.1.1.1\codesarpamoni\Escrutinio\Historial Cargadas\Adicional_430\430_16-06-2025.png
+[2025-06-16 11:20:36] ✅ Proceso terminado con éxito

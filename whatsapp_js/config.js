@@ -1,29 +1,34 @@
 const dayjs = require('dayjs');
-const { appendFile } = require('fs').promises;
+const { appendFile, rename } = require('fs').promises;
+const path = require('path');
+
+// const fs = require('fs').promises;
+
 const nodemailer = require('nodemailer');
 
 require('dotenv').config({
   path: process.env.NODE_ENV?.toUpperCase() === 'PROD' ? './.env.prod' : './.env'
 });
 
-console.log('Entorno actual:', process.env.NODE_ENV);
+log('Entorno actual: ' + process.env.NODE_ENV);
 // module.exports = { obtenerNombreImagen };
 // Cargar las variables de entorno según el valor de NODE_ENV
-  const ENVIRONMENT = process.env.ENVIRONMENT;
-  const email_from = process.env.USER_EMAIL_FROM;
-  const pass_from = process.env.APP_PASS_EMAIL_FROM;
-  const email_to = process.env.USER_EMAIL_TO;
-  const path = process.env.PATH_SEARCH_IMG;
-  const grupos = process.env.GROUPS.split(',');
-  const API_KEY = ENVIRONMENT === 'development' ? process.env.API_KEY_DEV : process.env.API_KEY_PROD;
+const ENVIRONMENT = process.env.ENVIRONMENT;
+const email_from = process.env.USER_EMAIL_FROM;
+const pass_from = process.env.APP_PASS_EMAIL_FROM;
+const email_to = process.env.USER_EMAIL_TO;
+const path_search = process.env.PATH_SEARCH_IMG;
+const grupos = process.env.GROUPS.split(',');
+const API_KEY = ENVIRONMENT === 'development' ? process.env.API_KEY_DEV : process.env.API_KEY_PROD;
 
 
 module.exports = { 
   log, 
   obtenerNombreImagen, 
-  enviarCorreo, 
+  enviarCorreo,
+  moverImagen, 
   grupos,
-  path
+  path_search
 };
 
 async function log(mensaje) {
@@ -35,15 +40,27 @@ function obtenerNombreImagen() {
   const ahora = dayjs();
   const hora = ahora.hour();
 
-  if (hora === 15) {//2
+  if (hora === 79) {//2
     const ayer = ahora.subtract(1, 'day').format('DD-MM-YYYY');
-    return `${ayer}.png`;
+    const rutaDestino = path.join(path_search,'Historial Cargadas/Escrutinio/');
+    return {
+     fecha: `${ayer}.png`,
+     rutaDestino: rutaDestino
+    };
   } else if (hora === 1) {//14
     const hoy = ahora.format('DD-MM-YYYY');
-    return `130_${hoy}.png`;
-  } else if (hora === 12) {//17
+    const rutaDestino = path.join(path_search,'Historial Cargadas/Adicional_130/');
+    return {
+     fecha: `130_${hoy}.png`,
+     rutaDestino: rutaDestino
+    };
+  } else if (hora === 11) {//17
     const hoy = ahora.format('DD-MM-YYYY');
-    return `430_${hoy}.png`;
+    const rutaDestino = path.join(path_search,'Historial Cargadas/Adicional_430/');
+    return {
+     fecha: `430_${hoy}.png`,
+     rutaDestino: rutaDestino
+    };
   }
 
   return null;
@@ -61,9 +78,20 @@ async function enviarCorreo(asunto, mensaje) {
   await transporter.sendMail({
     from: email_from,
     to: email_to,
-    subject: asunto,
-    text: mensaje
+    subject: `${asunto} - PROCESO WHATSAPP JS`,
+    text: `Buen dia\n \n Cordial Saludo\n \n ${mensaje}` 
   });
+}
+
+async function moverImagen(rutaInicio, rutaDestino){
+  try {
+    await rename(rutaInicio, rutaDestino);
+    await log(`Imagen movida de ${rutaInicio} a ${rutaDestino}`);
+    return `Imagen movida de ${rutaInicio} a \n${rutaDestino}`;
+  } catch (error) {
+    await log(`Error al mover la imagen: ${error.message}`);
+    return `Error al mover la imagen: ${error.message}`;
+  }
 }
 
 // automatizaciones/
