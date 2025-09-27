@@ -1,6 +1,7 @@
 import logging
 import paramiko
 import re
+import pandas as pd
 from playwright.sync_api import Page, expect
 # from playwright import playwright 
 from playwright.sync_api import sync_playwright
@@ -13,6 +14,33 @@ logging.basicConfig(
 )
 
 
+def iniciar_sesion():
+    playwright = sync_playwright().start()
+    browser = playwright.chromium.launch(headless=False)
+    page = browser.new_page()
+    page.goto("https://prod-superflex-admin.codesa.com.co/login")
+
+    page.wait_for_timeout(10000)  # Esperar 10 segundos para que la página cargue completamente
+
+    # Ingresar las credenciales
+    page.wait_for_selector('#float-input')
+    page.fill('#float-input', '1007420377')
+    page.fill('#float-input-password', 'SW123')
+    # page.fill('input[name="password"]', 'consuerte')
+    # page.get_by_test_id("float-input").fill("1007420377")
+    # page.get_by_test_id("float-input-password").fill("SW123")
+    page.wait_for_timeout(1000)  # Esperar 1 segundo para que los campos se llenen
+    page.get_by_text("Ingresar").click()
+    # page.locator("/html/body/app-root/app-login/div/div/div[2]/div/form/div/div[3]/button").click()
+    # Esperar redirección a otra página
+    page.wait_for_url("https://prod-superflex-admin.codesa.com.co/app/admin/home", timeout=10000)  # Ajusta según tu app
+
+    print("✅ Login exitoso")
+
+    input("Hola, presiona Enter para continuar...")
+    # Navegar a la URL deseada
+    # page.screenshot(path="hol.png")
+
 comandos = [
     'ip link show enp1s0 | grep ether', #obtener mac
 ]
@@ -22,7 +50,12 @@ comandos = [
 # host = '10.8.0.156'
 # host = '10.8.0.159'
 
-host = '10.2.13.244'
+# host = '10.2.13.244' # NO CONECTA
+# host = '10.2.13.170'
+# host = '10.2.13.202'
+# host = '10.2.13.212'
+# host = '10.2.13.40'
+host = '10.2.13.200' #HOLA COMO ESTAS
 
 username = 'gamble'
 password = 'consuerte'
@@ -52,7 +85,7 @@ try:
             linea = bloques[i].strip()
 
             # Detecta el nombre de la interfaz Ethernet, activa o no
-            match_interfaz = re.match(r'^\d+:\s+(enp\w+|eth\d+):', linea)
+            match_interfaz = re.match(r'^\d+:\s+(\w+):', linea)
             if match_interfaz:
                 interfaz_actual = match_interfaz.group(1)
 
@@ -69,6 +102,7 @@ try:
 
         if mac and interfaz_actual:
             print(f"✅ MAC de interfaz Ethernet ({interfaz_actual}): {mac}")
+            # iniciar_sesion()
         else:
             print("⚠️ No se encontró ninguna interfaz Ethernet con MAC.")
 except Exception as e:
@@ -76,30 +110,3 @@ except Exception as e:
 
 finally:
     ssh.close()
-
-def iniciar_sesion():
-    playwright = sync_playwright().start()
-    browser = playwright.chromium.launch(headless=False)
-    page = browser.new_page()
-    page.goto("https://prod-superflex-admin.codesa.com.co/login")
-
-    page.wait_for_timeout(10000)  # Esperar 10 segundos para que la página cargue completamente
-
-    # Ingresar las credenciales
-    page.wait_for_selector('#float-input')
-    page.fill('#float-input', '1007420377')
-    page.fill('#float-input-password', 'SW123')
-    # page.fill('input[name="password"]', 'consuerte')
-    # page.get_by_test_id("float-input").fill("1007420377")
-    # page.get_by_test_id("float-input-password").fill("SW123")
-    page.wait_for_timeout(1000)  # Esperar 1 segundo para que los campos se llenen
-    page.get_by_text("Ingresar").click()
-    # page.locator("/html/body/app-root/app-login/div/div/div[2]/div/form/div/div[3]/button").click()
-    # Esperar redirección a otra página
-    page.wait_for_url("https://prod-superflex-admin.codesa.com.co/app/admin/home", timeout=10000)  # Ajusta según tu app
-
-    print("✅ Login exitoso")
-
-    input("Hola, presiona Enter para continuar...")
-    # Navegar a la URL deseada
-    # page.screenshot(path="hol.png")

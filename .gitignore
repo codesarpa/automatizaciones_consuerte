@@ -16,3 +16,14 @@ whatsapp_js/.wwebjs_cache/
 #SSH_CONECTION
 ssh_conection/.venv/
 ssh_conection/Logs.log
+ssh_conection/env/
+ssh_conection/codigos_superflex.xlsx
+ssh_conection/novedades_puntos.txt
+ssh_conection/historicos_codigos_superflex.xlsx
+ssh_conection/Logs_ejecucion.log
+ssh_conection/puntos.xlsx
+ssh_conection/puntos_con_mac.xlsx
+ssh_conection/puntos_con_mac5.xlsx
+
+# PASAR EJECUTABLE /pasar_ejecutable
+ssh_conection/pasar_ejecutable/logs
