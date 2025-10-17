@@ -35,4 +35,4 @@ def conexion_sh(ip):
     except Exception as e:
         print(f"Error inesperado: {e}")
 
-conexion_sh('10.2.12.148')
+conexion_sh('10.2.12.146')
