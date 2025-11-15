@@ -1,0 +1,71 @@
+2025-10-24 14:04:06,523 - config - INFO - Se procede a iniciar sesion
+2025-10-24 14:04:31,230 - config - INFO - Se incia sesion correctamente
+2025-10-24 14:05:13,555 - config - ERROR - Error al ingresar URL_ADMIN_USUARIOS: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "https://prod-superflex-admin.codesa.com.co/sf-admin-web-comunes/admin/usuarios/tabla-listado" until 'load'
+============================================================
+2025-10-24 14:05:24,539 - config - INFO - esperando
+2025-10-24 14:05:24,548 - config - INFO - Total de filas encontradas: 10
+2025-10-24 14:05:26,577 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 14:05:26,629 - config - INFO - Se hizo clic en el radio button de la fila 1
+2025-10-24 14:05:28,790 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:30,815 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 14:05:30,850 - config - INFO - Se hizo clic en el radio button de la fila 2
+2025-10-24 14:05:32,968 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:34,985 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 14:05:35,030 - config - INFO - Se hizo clic en el radio button de la fila 3
+2025-10-24 14:05:37,147 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:39,175 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 14:05:39,209 - config - INFO - Se hizo clic en el radio button de la fila 4
+2025-10-24 14:05:41,328 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:43,353 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 14:05:43,390 - config - INFO - Se hizo clic en el radio button de la fila 5
+2025-10-24 14:05:45,525 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:47,545 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 14:05:47,587 - config - INFO - Se hizo clic en el radio button de la fila 6
+2025-10-24 14:05:49,703 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:51,732 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 14:05:51,766 - config - INFO - Se hizo clic en el radio button de la fila 7
+2025-10-24 14:05:53,883 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:05:55,902 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 14:05:55,933 - config - INFO - Se hizo clic en el radio button de la fila 8
+2025-10-24 14:05:58,044 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:00,066 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 14:06:00,109 - config - INFO - Se hizo clic en el radio button de la fila 9
+2025-10-24 14:06:02,225 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:04,255 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 14:06:04,290 - config - INFO - Se hizo clic en el radio button de la fila 10
+2025-10-24 14:06:06,404 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:07,770 - config - INFO - Avanzando a la siguiente página...
+2025-10-24 14:06:09,789 - config - INFO - Total de filas encontradas: 10
+2025-10-24 14:06:11,809 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 14:06:11,888 - config - INFO - Se hizo clic en el radio button de la fila 1
+2025-10-24 14:06:14,002 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:16,029 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 14:06:16,062 - config - INFO - Se hizo clic en el radio button de la fila 2
+2025-10-24 14:06:18,181 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:20,204 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 14:06:20,245 - config - INFO - Se hizo clic en el radio button de la fila 3
+2025-10-24 14:06:22,375 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:24,398 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 14:06:24,441 - config - INFO - Se hizo clic en el radio button de la fila 4
+2025-10-24 14:06:26,566 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:28,600 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 14:06:28,636 - config - INFO - Se hizo clic en el radio button de la fila 5
+2025-10-24 14:06:30,770 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:32,798 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 14:06:32,832 - config - INFO - Se hizo clic en el radio button de la fila 6
+2025-10-24 14:06:34,951 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:36,974 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 14:06:37,012 - config - INFO - Se hizo clic en el radio button de la fila 7
+2025-10-24 14:06:39,132 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:41,152 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 14:06:41,194 - config - INFO - Se hizo clic en el radio button de la fila 8
+2025-10-24 14:06:43,308 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:45,334 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 14:06:45,373 - config - INFO - Se hizo clic en el radio button de la fila 9
+2025-10-24 14:06:47,490 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:49,522 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 14:06:49,553 - config - INFO - Se hizo clic en el radio button de la fila 10
+2025-10-24 14:06:51,671 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:06:51,993 - config - INFO - Fin del listado

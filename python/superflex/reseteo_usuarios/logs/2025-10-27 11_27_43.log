@@ -1,0 +1,919 @@
+2025-10-27 11:27:43,247 - config - INFO - Se procede a iniciar sesion
+2025-10-27 11:28:09,004 - config - INFO - Se incia sesion correctamente
+2025-10-27 11:28:36,066 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-27 11:28:41,169 - config - INFO - esperando
+2025-10-27 11:28:41,170 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:31:01,843 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:31:01,847 - config - INFO - Total de filas encontradas: 10
+2025-10-27 11:31:03,881 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 11:31:03,953 - config - INFO - Clic en radio de fila 1
+2025-10-27 11:31:08,146 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:31:08,146 - config - INFO - Registro actualizado.
+2025-10-27 11:31:08,825 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:33:15,632 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:33:19,656 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 11:33:19,687 - config - INFO - Clic en radio de fila 2
+2025-10-27 11:33:23,821 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:33:23,822 - config - INFO - Registro actualizado.
+2025-10-27 11:33:24,457 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:35:32,532 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:35:36,554 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 11:35:36,593 - config - INFO - Clic en radio de fila 3
+2025-10-27 11:35:40,780 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:35:40,780 - config - INFO - Registro actualizado.
+2025-10-27 11:35:41,329 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:37:49,889 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:37:53,922 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 11:37:53,962 - config - INFO - Clic en radio de fila 4
+2025-10-27 11:37:58,093 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:37:58,094 - config - INFO - Registro actualizado.
+2025-10-27 11:37:59,251 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:40:06,459 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:40:10,491 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 11:40:10,535 - config - INFO - Clic en radio de fila 5
+2025-10-27 11:40:14,730 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:40:14,730 - config - INFO - Registro actualizado.
+2025-10-27 11:40:15,821 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:42:23,466 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:42:27,493 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 11:42:27,542 - config - INFO - Clic en radio de fila 6
+2025-10-27 11:42:31,689 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:42:31,690 - config - INFO - Registro actualizado.
+2025-10-27 11:42:32,652 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:44:39,737 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:44:43,769 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 11:44:43,811 - config - INFO - Clic en radio de fila 7
+2025-10-27 11:44:47,926 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:44:47,927 - config - INFO - Registro actualizado.
+2025-10-27 11:44:48,958 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:46:56,127 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:47:00,161 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 11:47:00,199 - config - INFO - Clic en radio de fila 8
+2025-10-27 11:47:04,332 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:47:04,332 - config - INFO - Registro actualizado.
+2025-10-27 11:47:05,175 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:49:11,949 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:49:15,986 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 11:49:16,020 - config - INFO - Clic en radio de fila 9
+2025-10-27 11:49:20,168 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:49:20,168 - config - INFO - Registro actualizado.
+2025-10-27 11:49:20,989 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:51:28,370 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:51:32,417 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 11:51:32,467 - config - INFO - Clic en radio de fila 10
+2025-10-27 11:51:36,607 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:51:36,607 - config - INFO - Registro actualizado.
+2025-10-27 11:51:37,454 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:53:44,409 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:53:51,495 - config - INFO - Total de filas encontradas: 10
+2025-10-27 11:53:53,528 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 11:53:53,598 - config - INFO - Clic en radio de fila 1
+2025-10-27 11:53:57,745 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:53:57,745 - config - INFO - Registro actualizado.
+2025-10-27 11:53:58,567 - config - INFO - Intentando ir a la página 122...
+2025-10-27 11:56:06,609 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 11:56:10,638 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 11:56:10,682 - config - INFO - Clic en radio de fila 2
+2025-10-27 11:56:14,846 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:56:14,846 - config - INFO - Registro actualizado.
+2025-10-27 11:56:16,255 - config - INFO - Intentando ir a la página 122...
+2025-10-27 11:58:24,463 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 11:58:28,489 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 11:58:28,539 - config - INFO - Clic en radio de fila 3
+2025-10-27 11:58:32,666 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:58:32,666 - config - INFO - Registro actualizado.
+2025-10-27 11:58:33,449 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:00:41,103 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:00:45,137 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 12:00:45,173 - config - INFO - Clic en radio de fila 4
+2025-10-27 12:00:49,321 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:00:49,322 - config - INFO - Registro actualizado.
+2025-10-27 12:00:50,410 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:02:58,346 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:03:02,387 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 12:03:02,427 - config - INFO - Clic en radio de fila 5
+2025-10-27 12:03:06,558 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:03:06,558 - config - INFO - Registro actualizado.
+2025-10-27 12:03:07,396 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:05:15,250 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:05:19,268 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 12:05:19,297 - config - INFO - Clic en radio de fila 6
+2025-10-27 12:05:23,412 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:05:23,413 - config - INFO - Registro actualizado.
+2025-10-27 12:05:24,395 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:07:32,230 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:07:36,258 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 12:07:36,287 - config - INFO - Clic en radio de fila 7
+2025-10-27 12:07:40,433 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:07:40,433 - config - INFO - Registro actualizado.
+2025-10-27 12:07:41,319 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:09:49,283 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:09:53,322 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 12:09:53,356 - config - INFO - Clic en radio de fila 8
+2025-10-27 12:09:57,487 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:09:57,488 - config - INFO - Registro actualizado.
+2025-10-27 12:09:58,480 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:12:06,520 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:12:10,551 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 12:12:10,595 - config - INFO - Clic en radio de fila 9
+2025-10-27 12:12:14,709 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:12:14,710 - config - INFO - Registro actualizado.
+2025-10-27 12:12:15,580 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:14:23,375 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:14:27,405 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 12:14:27,449 - config - INFO - Clic en radio de fila 10
+2025-10-27 12:14:31,597 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:14:31,599 - config - INFO - Registro actualizado.
+2025-10-27 12:14:32,476 - config - INFO - Intentando ir a la página 122...
+2025-10-27 12:16:40,214 - config - INFO - Página 122 abierta correctamente.
+2025-10-27 12:16:47,298 - config - INFO - Total de filas encontradas: 10
+2025-10-27 12:16:49,327 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 12:16:49,404 - config - INFO - Clic en radio de fila 1
+2025-10-27 12:16:53,547 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:16:53,548 - config - INFO - Registro actualizado.
+2025-10-27 12:16:54,554 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:19:03,479 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:19:07,514 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 12:19:07,554 - config - INFO - Clic en radio de fila 2
+2025-10-27 12:19:11,683 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:19:11,683 - config - INFO - Registro actualizado.
+2025-10-27 12:19:12,457 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:21:21,398 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:21:25,424 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 12:21:25,472 - config - INFO - Clic en radio de fila 3
+2025-10-27 12:21:29,588 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:21:29,588 - config - INFO - Registro actualizado.
+2025-10-27 12:21:30,502 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:23:39,373 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:23:43,399 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 12:23:43,444 - config - INFO - Clic en radio de fila 4
+2025-10-27 12:23:47,576 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:23:47,576 - config - INFO - Registro actualizado.
+2025-10-27 12:23:48,350 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:25:57,475 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:26:01,511 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 12:26:01,546 - config - INFO - Clic en radio de fila 5
+2025-10-27 12:26:05,693 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:26:05,693 - config - INFO - Registro actualizado.
+2025-10-27 12:26:06,568 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:28:15,781 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:28:19,821 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 12:28:19,869 - config - INFO - Clic en radio de fila 6
+2025-10-27 12:28:23,999 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:28:23,999 - config - INFO - Registro actualizado.
+2025-10-27 12:28:24,909 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:30:33,793 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:30:37,826 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 12:30:37,873 - config - INFO - Clic en radio de fila 7
+2025-10-27 12:30:42,016 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:30:42,016 - config - INFO - Registro actualizado.
+2025-10-27 12:30:43,030 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:32:51,914 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:32:55,950 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 12:32:55,990 - config - INFO - Clic en radio de fila 8
+2025-10-27 12:33:00,121 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:33:00,121 - config - INFO - Registro actualizado.
+2025-10-27 12:33:01,024 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:35:09,992 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:35:14,017 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 12:35:14,062 - config - INFO - Clic en radio de fila 9
+2025-10-27 12:35:18,175 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:35:18,175 - config - INFO - Registro actualizado.
+2025-10-27 12:35:19,117 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:37:27,926 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:37:31,968 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 12:37:31,997 - config - INFO - Clic en radio de fila 10
+2025-10-27 12:37:36,148 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:37:36,148 - config - INFO - Registro actualizado.
+2025-10-27 12:37:36,941 - config - INFO - Intentando ir a la página 123...
+2025-10-27 12:39:45,760 - config - INFO - Página 123 abierta correctamente.
+2025-10-27 12:39:52,859 - config - INFO - Total de filas encontradas: 10
+2025-10-27 12:39:54,889 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 12:39:54,931 - config - INFO - Clic en radio de fila 1
+2025-10-27 12:39:59,062 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:39:59,062 - config - INFO - Registro actualizado.
+2025-10-27 12:39:59,875 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:42:10,012 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:42:14,048 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 12:42:14,084 - config - INFO - Clic en radio de fila 2
+2025-10-27 12:42:18,215 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:42:18,215 - config - INFO - Registro actualizado.
+2025-10-27 12:42:19,127 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:44:29,214 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:44:33,252 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 12:44:33,287 - config - INFO - Clic en radio de fila 3
+2025-10-27 12:44:37,416 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:44:37,416 - config - INFO - Registro actualizado.
+2025-10-27 12:44:38,326 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:46:48,227 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:46:52,261 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 12:46:52,290 - config - INFO - Clic en radio de fila 4
+2025-10-27 12:46:56,419 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:46:56,419 - config - INFO - Registro actualizado.
+2025-10-27 12:46:57,258 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:49:07,336 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:49:11,383 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 12:49:11,424 - config - INFO - Clic en radio de fila 5
+2025-10-27 12:49:15,522 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:49:15,522 - config - INFO - Registro actualizado.
+2025-10-27 12:49:16,375 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:51:26,260 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:51:30,285 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 12:51:30,330 - config - INFO - Clic en radio de fila 6
+2025-10-27 12:51:34,476 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:51:34,477 - config - INFO - Registro actualizado.
+2025-10-27 12:51:35,342 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:53:45,426 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:53:49,464 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 12:53:49,497 - config - INFO - Clic en radio de fila 7
+2025-10-27 12:53:53,644 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:53:53,644 - config - INFO - Registro actualizado.
+2025-10-27 12:53:54,408 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:56:04,406 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:56:08,445 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 12:56:08,482 - config - INFO - Clic en radio de fila 8
+2025-10-27 12:56:12,629 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:56:12,630 - config - INFO - Registro actualizado.
+2025-10-27 12:56:13,531 - config - INFO - Intentando ir a la página 124...
+2025-10-27 12:58:23,561 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 12:58:27,599 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 12:58:27,635 - config - INFO - Clic en radio de fila 9
+2025-10-27 12:58:31,747 - config - INFO - Registro actualizado correctamente
+2025-10-27 12:58:31,747 - config - INFO - Registro actualizado.
+2025-10-27 12:58:32,462 - config - INFO - Intentando ir a la página 124...
+2025-10-27 13:00:42,599 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 13:00:46,621 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 13:00:46,655 - config - INFO - Clic en radio de fila 10
+2025-10-27 13:00:50,783 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:00:50,783 - config - INFO - Registro actualizado.
+2025-10-27 13:00:51,838 - config - INFO - Intentando ir a la página 124...
+2025-10-27 13:03:01,853 - config - INFO - Página 124 abierta correctamente.
+2025-10-27 13:03:08,966 - config - INFO - Total de filas encontradas: 10
+2025-10-27 13:03:10,986 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 13:03:11,027 - config - INFO - Clic en radio de fila 1
+2025-10-27 13:03:15,168 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:03:15,168 - config - INFO - Registro actualizado.
+2025-10-27 13:03:16,151 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:05:27,134 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:05:31,174 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 13:05:31,206 - config - INFO - Clic en radio de fila 2
+2025-10-27 13:05:35,369 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:05:35,369 - config - INFO - Registro actualizado.
+2025-10-27 13:05:36,190 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:07:47,151 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:07:51,183 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 13:07:51,222 - config - INFO - Clic en radio de fila 3
+2025-10-27 13:07:55,356 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:07:55,356 - config - INFO - Registro actualizado.
+2025-10-27 13:07:56,443 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:10:08,548 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:10:12,579 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 13:10:12,608 - config - INFO - Clic en radio de fila 4
+2025-10-27 13:10:16,738 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:10:16,738 - config - INFO - Registro actualizado.
+2025-10-27 13:10:17,848 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:12:29,003 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:12:33,036 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 13:12:33,078 - config - INFO - Clic en radio de fila 5
+2025-10-27 13:12:37,237 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:12:37,237 - config - INFO - Registro actualizado.
+2025-10-27 13:12:38,150 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:14:49,436 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:14:53,477 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 13:14:53,511 - config - INFO - Clic en radio de fila 6
+2025-10-27 13:14:57,643 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:14:57,643 - config - INFO - Registro actualizado.
+2025-10-27 13:14:58,553 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:17:09,689 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:17:13,721 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 13:17:13,762 - config - INFO - Clic en radio de fila 7
+2025-10-27 13:17:17,910 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:17:17,911 - config - INFO - Registro actualizado.
+2025-10-27 13:17:18,743 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:19:29,810 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:19:33,844 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 13:19:33,881 - config - INFO - Clic en radio de fila 8
+2025-10-27 13:19:38,030 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:19:38,031 - config - INFO - Registro actualizado.
+2025-10-27 13:19:38,937 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:21:49,877 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:21:53,898 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 13:21:53,932 - config - INFO - Clic en radio de fila 9
+2025-10-27 13:21:58,081 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:21:58,081 - config - INFO - Registro actualizado.
+2025-10-27 13:21:59,409 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:24:10,098 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:24:14,121 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 13:24:14,169 - config - INFO - Clic en radio de fila 10
+2025-10-27 13:24:43,603 - config - INFO - El loader no desapareció a tiempo, intentando continuar de todas formas...
+2025-10-27 13:24:45,668 - config - INFO - No se encuentra habilitado el botón actualizar.
+2025-10-27 13:24:45,708 - config - INFO - Dando click nuevamente en radio de la fila 10.
+2025-10-27 13:24:45,709 - config - INFO - Registro actualizado.
+2025-10-27 13:24:45,721 - config - INFO - Intentando ir a la página 125...
+2025-10-27 13:26:56,759 - config - INFO - Página 125 abierta correctamente.
+2025-10-27 13:27:03,856 - config - INFO - Total de filas encontradas: 10
+2025-10-27 13:27:05,879 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 13:27:05,909 - config - INFO - Clic en radio de fila 1
+2025-10-27 13:27:10,024 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:27:10,024 - config - INFO - Registro actualizado.
+2025-10-27 13:27:11,226 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:29:23,343 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:29:27,371 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 13:29:27,412 - config - INFO - Clic en radio de fila 2
+2025-10-27 13:29:31,525 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:29:31,525 - config - INFO - Registro actualizado.
+2025-10-27 13:29:32,477 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:31:44,373 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:31:48,406 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 13:31:48,445 - config - INFO - Clic en radio de fila 3
+2025-10-27 13:31:52,577 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:31:52,577 - config - INFO - Registro actualizado.
+2025-10-27 13:31:53,572 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:34:05,642 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:34:09,678 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 13:34:09,712 - config - INFO - Clic en radio de fila 4
+2025-10-27 13:34:13,846 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:34:13,846 - config - INFO - Registro actualizado.
+2025-10-27 13:34:14,643 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:36:26,693 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:36:30,741 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 13:36:30,784 - config - INFO - Clic en radio de fila 5
+2025-10-27 13:36:34,928 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:36:34,929 - config - INFO - Registro actualizado.
+2025-10-27 13:36:36,032 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:38:48,009 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:38:52,033 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 13:38:52,068 - config - INFO - Clic en radio de fila 6
+2025-10-27 13:38:56,216 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:38:56,216 - config - INFO - Registro actualizado.
+2025-10-27 13:38:57,026 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:41:08,779 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:41:12,821 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 13:41:12,854 - config - INFO - Clic en radio de fila 7
+2025-10-27 13:41:16,967 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:41:16,967 - config - INFO - Registro actualizado.
+2025-10-27 13:41:17,843 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:43:30,769 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:43:34,813 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 13:43:34,857 - config - INFO - Clic en radio de fila 8
+2025-10-27 13:43:38,978 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:43:38,978 - config - INFO - Registro actualizado.
+2025-10-27 13:43:39,985 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:45:53,964 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:45:57,992 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 13:45:58,023 - config - INFO - Clic en radio de fila 9
+2025-10-27 13:46:02,154 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:46:02,155 - config - INFO - Registro actualizado.
+2025-10-27 13:46:03,075 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:48:15,987 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:48:20,018 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 13:48:20,060 - config - INFO - Clic en radio de fila 10
+2025-10-27 13:48:24,203 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:48:24,204 - config - INFO - Registro actualizado.
+2025-10-27 13:48:25,052 - config - INFO - Intentando ir a la página 126...
+2025-10-27 13:50:37,387 - config - INFO - Página 126 abierta correctamente.
+2025-10-27 13:50:44,503 - config - INFO - Total de filas encontradas: 10
+2025-10-27 13:50:46,528 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 13:50:46,555 - config - INFO - Clic en radio de fila 1
+2025-10-27 13:50:50,687 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:50:50,688 - config - INFO - Registro actualizado.
+2025-10-27 13:50:51,550 - config - INFO - Intentando ir a la página 127...
+2025-10-27 13:53:05,000 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 13:53:09,037 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 13:53:09,118 - config - INFO - Clic en radio de fila 2
+2025-10-27 13:53:13,273 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:53:13,273 - config - INFO - Registro actualizado.
+2025-10-27 13:53:14,013 - config - INFO - Intentando ir a la página 127...
+2025-10-27 13:55:27,586 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 13:55:31,614 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 13:55:31,659 - config - INFO - Clic en radio de fila 3
+2025-10-27 13:55:35,789 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:55:35,789 - config - INFO - Registro actualizado.
+2025-10-27 13:55:36,863 - config - INFO - Intentando ir a la página 127...
+2025-10-27 13:57:50,237 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 13:57:54,265 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 13:57:54,311 - config - INFO - Clic en radio de fila 4
+2025-10-27 13:57:58,424 - config - INFO - Registro actualizado correctamente
+2025-10-27 13:57:58,425 - config - INFO - Registro actualizado.
+2025-10-27 13:57:59,219 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:00:12,968 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:00:17,010 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 14:00:17,043 - config - INFO - Clic en radio de fila 5
+2025-10-27 14:00:21,190 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:00:21,190 - config - INFO - Registro actualizado.
+2025-10-27 14:00:22,428 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:02:37,457 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:02:41,501 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 14:02:41,544 - config - INFO - Clic en radio de fila 6
+2025-10-27 14:02:45,692 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:02:45,693 - config - INFO - Registro actualizado.
+2025-10-27 14:02:46,508 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:05:01,171 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:05:05,203 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 14:05:05,245 - config - INFO - Clic en radio de fila 7
+2025-10-27 14:05:09,413 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:05:09,413 - config - INFO - Registro actualizado.
+2025-10-27 14:05:10,406 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:07:23,839 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:07:27,878 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 14:07:27,910 - config - INFO - Clic en radio de fila 8
+2025-10-27 14:07:32,025 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:07:32,025 - config - INFO - Registro actualizado.
+2025-10-27 14:07:32,802 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:09:46,525 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:09:50,562 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 14:09:50,593 - config - INFO - Clic en radio de fila 9
+2025-10-27 14:10:20,039 - config - INFO - El loader no desapareció a tiempo, intentando continuar de todas formas...
+2025-10-27 14:10:22,096 - config - INFO - No se encuentra habilitado el botón actualizar.
+2025-10-27 14:10:22,138 - config - INFO - Dando click nuevamente en radio de la fila 9.
+2025-10-27 14:10:22,139 - config - INFO - Registro actualizado.
+2025-10-27 14:10:22,150 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:12:36,004 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:12:40,022 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 14:12:40,056 - config - INFO - Clic en radio de fila 10
+2025-10-27 14:12:44,207 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:12:44,207 - config - INFO - Registro actualizado.
+2025-10-27 14:12:45,098 - config - INFO - Intentando ir a la página 127...
+2025-10-27 14:14:58,619 - config - INFO - Página 127 abierta correctamente.
+2025-10-27 14:15:05,742 - config - INFO - Total de filas encontradas: 10
+2025-10-27 14:15:07,775 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 14:15:07,823 - config - INFO - Clic en radio de fila 1
+2025-10-27 14:15:11,952 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:15:11,952 - config - INFO - Registro actualizado.
+2025-10-27 14:15:13,300 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:17:27,582 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:17:31,605 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 14:17:31,637 - config - INFO - Clic en radio de fila 2
+2025-10-27 14:17:35,769 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:17:35,769 - config - INFO - Registro actualizado.
+2025-10-27 14:17:36,580 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:19:50,884 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:19:54,918 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 14:19:54,955 - config - INFO - Clic en radio de fila 3
+2025-10-27 14:19:59,103 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:19:59,103 - config - INFO - Registro actualizado.
+2025-10-27 14:19:59,887 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:22:15,784 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:22:19,815 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 14:22:19,855 - config - INFO - Clic en radio de fila 4
+2025-10-27 14:22:24,033 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:22:24,034 - config - INFO - Registro actualizado.
+2025-10-27 14:22:25,215 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:24:39,747 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:24:43,779 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 14:24:43,820 - config - INFO - Clic en radio de fila 5
+2025-10-27 14:24:48,002 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:24:48,002 - config - INFO - Registro actualizado.
+2025-10-27 14:24:48,880 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:27:03,287 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:27:07,321 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 14:27:07,356 - config - INFO - Clic en radio de fila 6
+2025-10-27 14:27:11,499 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:27:11,500 - config - INFO - Registro actualizado.
+2025-10-27 14:27:12,428 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:28:44,137 - config - INFO - Fin de paginación alcanzado antes de llegar a 128.
+2025-10-27 14:28:48,169 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 14:28:48,253 - config - INFO - Clic en radio de fila 7
+2025-10-27 14:28:52,367 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:28:52,367 - config - INFO - Registro actualizado.
+2025-10-27 14:28:53,147 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:31:07,750 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:31:11,787 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 14:31:11,821 - config - INFO - Clic en radio de fila 8
+2025-10-27 14:31:15,971 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:31:15,972 - config - INFO - Registro actualizado.
+2025-10-27 14:31:16,800 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:33:31,277 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:33:35,309 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 14:33:35,378 - config - INFO - Clic en radio de fila 9
+2025-10-27 14:33:39,534 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:33:39,534 - config - INFO - Registro actualizado.
+2025-10-27 14:33:40,351 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:35:54,567 - config - INFO - Página 128 abierta correctamente.
+2025-10-27 14:35:58,598 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 14:35:58,636 - config - INFO - Clic en radio de fila 10
+2025-10-27 14:36:02,886 - config - INFO - Registro actualizado correctamente
+2025-10-27 14:36:02,887 - config - INFO - Registro actualizado.
+2025-10-27 14:36:04,896 - config - INFO - Intentando ir a la página 128...
+2025-10-27 14:38:32,453 - config - INFO - Error al intentar ir a la página 128: Locator.click: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.p-paginator-next")
+  -   locator resolved to <button pripple="" type="button" class="p-ripple p-element p-paginator-next p-paginator-element p-link">…</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #1
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+  -   done scrolling
+  -   <div _ngcontent-dae-c183="" class="main-div ng-star-inserted">…</div> from <app-loader _nghost-dae-c183="" _ngcontent-dae-c184="">…</app-loader> subtree intercepts pointer events
+  - retrying click action, attempt #59
+  -   waiting 500ms
+
+2025-10-27 14:38:43,666 - config - INFO - Total de filas encontradas: 10
+2025-10-27 14:38:45,692 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 14:38:45,770 - config - INFO - Clic en radio de fila 1
+2025-10-27 14:39:15,176 - config - INFO - El loader no desapareció a tiempo, intentando continuar de todas formas...

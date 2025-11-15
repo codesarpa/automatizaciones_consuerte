@@ -1,0 +1,87 @@
+2025-10-28 09:04:17,087 - root - INFO - Se procede a iniciar sesion
+2025-10-28 09:04:34,763 - root - INFO - Se incia sesion correctamente
+2025-10-28 09:04:45,106 - root - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-28 09:04:47,167 - config - INFO - Se selecciona la empresa
+2025-10-28 09:04:47,209 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:04:47,209 - config - INFO - 1234790927 - ABELLA MEDINA MARIA FERNANDA - fernandabetplay@gmail.com
+2025-10-28 09:04:49,283 - config - INFO - Se consultó el usuario: 1234790927
+2025-10-28 09:04:51,386 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:04:51,387 - config - INFO - Se prepara para escribir el correo: fernandabetplay@gmail.com
+2025-10-28 09:04:54,426 - config - INFO - Se escribió el correo: fernandabetplay@gmail.com
+2025-10-28 09:04:54,426 - config - INFO - Se prepara para confirmar el correo: fernandabetplay@gmail.com
+2025-10-28 09:04:57,462 - config - INFO - Se confirma el correo: fernandabetplay@gmail.com
+2025-10-28 09:04:57,470 - config - INFO - Correo actualizado correctamente: fernandabetplay@gmail.com
+2025-10-28 09:05:04,535 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:05:04,535 - config - INFO - 1006720627 - AGUIRRE DUSSAN LEYDI - srtaaguirre08@gmail.com
+2025-10-28 09:05:06,605 - config - INFO - Se consultó el usuario: 1006720627
+2025-10-28 09:05:08,716 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:05:08,716 - config - INFO - Se prepara para escribir el correo: srtaaguirre08@gmail.com
+2025-10-28 09:05:11,740 - config - INFO - Se escribió el correo: srtaaguirre08@gmail.com
+2025-10-28 09:05:11,741 - config - INFO - Se prepara para confirmar el correo: srtaaguirre08@gmail.com
+2025-10-28 09:05:14,770 - config - INFO - Se confirma el correo: srtaaguirre08@gmail.com
+2025-10-28 09:05:14,777 - config - INFO - Correo actualizado correctamente: srtaaguirre08@gmail.com
+2025-10-28 09:05:21,860 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:05:21,860 - config - INFO - 1121966813 - ALARCON HERRERA MARIA DANIELA - danielam2399@hotmail.com
+2025-10-28 09:05:23,950 - config - INFO - Se consultó el usuario: 1121966813
+2025-10-28 09:05:26,050 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:05:26,050 - config - INFO - Se prepara para escribir el correo: danielam2399@hotmail.com
+2025-10-28 09:05:29,084 - config - INFO - Se escribió el correo: danielam2399@hotmail.com
+2025-10-28 09:05:29,084 - config - INFO - Se prepara para confirmar el correo: danielam2399@hotmail.com
+2025-10-28 09:05:32,118 - config - INFO - Se confirma el correo: danielam2399@hotmail.com
+2025-10-28 09:05:32,125 - config - INFO - Correo actualizado correctamente: danielam2399@hotmail.com
+2025-10-28 09:05:39,196 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:05:39,196 - config - INFO - 1121848268 - ALCANTARA CORTES NAYIVER YOHANA - nayibealcantara31@gmail.com
+2025-10-28 09:05:41,263 - config - INFO - Se consultó el usuario: 1121848268
+2025-10-28 09:05:43,358 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:05:43,358 - config - INFO - Se prepara para escribir el correo: nayibealcantara31@gmail.com
+2025-10-28 09:05:46,386 - config - INFO - Se escribió el correo: nayibealcantara31@gmail.com
+2025-10-28 09:05:46,387 - config - INFO - Se prepara para confirmar el correo: nayibealcantara31@gmail.com
+2025-10-28 09:05:49,421 - config - INFO - Se confirma el correo: nayibealcantara31@gmail.com
+2025-10-28 09:05:49,428 - config - INFO - Correo actualizado correctamente: nayibealcantara31@gmail.com
+2025-10-28 09:05:56,499 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:05:56,499 - config - INFO - 65795239 - ALFONSO MERCHAN MARTHA LILIANA - lilianalamona@live.com
+2025-10-28 09:05:58,554 - config - INFO - Se consultó el usuario: 65795239
+2025-10-28 09:06:00,641 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:06:00,641 - config - INFO - Se prepara para escribir el correo: lilianalamona@live.com
+2025-10-28 09:06:03,674 - config - INFO - Se escribió el correo: lilianalamona@live.com
+2025-10-28 09:06:03,674 - config - INFO - Se prepara para confirmar el correo: lilianalamona@live.com
+2025-10-28 09:06:06,710 - config - INFO - Se confirma el correo: lilianalamona@live.com
+2025-10-28 09:06:06,716 - config - INFO - Correo actualizado correctamente: lilianalamona@live.com
+2025-10-28 09:06:13,772 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:06:13,772 - config - INFO - 1001270374 - ALGECIRA SEGURA LEIDY CELENA - celenaalgecirasegura@gmail.com
+2025-10-28 09:06:15,861 - config - INFO - Se consultó el usuario: 1001270374
+2025-10-28 09:06:17,965 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:06:17,965 - config - INFO - Se prepara para escribir el correo: celenaalgecirasegura@gmail.com
+2025-10-28 09:06:20,997 - config - INFO - Se escribió el correo: celenaalgecirasegura@gmail.com
+2025-10-28 09:06:20,997 - config - INFO - Se prepara para confirmar el correo: celenaalgecirasegura@gmail.com
+2025-10-28 09:06:24,025 - config - INFO - Se confirma el correo: celenaalgecirasegura@gmail.com
+2025-10-28 09:06:24,030 - config - INFO - Correo actualizado correctamente: celenaalgecirasegura@gmail.com
+2025-10-28 09:06:31,104 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:06:31,104 - config - INFO - 40371629 - ALVARADO GUTIERREZ CARMEN JULIA - julia.alvarado1307@gmail.com
+2025-10-28 09:06:33,160 - config - INFO - Se consultó el usuario: 40371629
+2025-10-28 09:06:35,269 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:06:35,270 - config - INFO - Se prepara para escribir el correo: julia.alvarado1307@gmail.com
+2025-10-28 09:06:38,304 - config - INFO - Se escribió el correo: julia.alvarado1307@gmail.com
+2025-10-28 09:06:38,304 - config - INFO - Se prepara para confirmar el correo: julia.alvarado1307@gmail.com
+2025-10-28 09:06:41,327 - config - INFO - Se confirma el correo: julia.alvarado1307@gmail.com
+2025-10-28 09:06:41,332 - config - INFO - Correo actualizado correctamente: julia.alvarado1307@gmail.com
+2025-10-28 09:06:48,394 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:06:48,394 - config - INFO - 1193581832 - ALVAREZ MORENO DANNA CAMILA - da1717463@gmail.com
+2025-10-28 09:06:50,472 - config - INFO - Se consultó el usuario: 1193581832
+2025-10-28 09:06:52,627 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:06:52,628 - config - INFO - Se prepara para escribir el correo: da1717463@gmail.com
+2025-10-28 09:06:55,660 - config - INFO - Se escribió el correo: da1717463@gmail.com
+2025-10-28 09:06:55,660 - config - INFO - Se prepara para confirmar el correo: da1717463@gmail.com
+2025-10-28 09:06:58,698 - config - INFO - Se confirma el correo: da1717463@gmail.com
+2025-10-28 09:06:58,706 - config - INFO - Correo actualizado correctamente: da1717463@gmail.com
+2025-10-28 09:07:05,766 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:07:05,766 - config - INFO - 40449564 - AMADO MORALES LADY DIANA - gaba400@hotmail.com
+2025-10-28 09:07:07,837 - config - INFO - Se consultó el usuario: 40449564
+2025-10-28 09:07:09,934 - config - INFO - Se ingresa a editar usuario
+2025-10-28 09:07:09,935 - config - INFO - Se prepara para escribir el correo: gaba400@hotmail.com
+2025-10-28 09:07:12,962 - config - INFO - Se escribió el correo: gaba400@hotmail.com
+2025-10-28 09:07:12,962 - config - INFO - Se prepara para confirmar el correo: gaba400@hotmail.com
+2025-10-28 09:07:15,992 - config - INFO - Se confirma el correo: gaba400@hotmail.com
+2025-10-28 09:07:15,999 - config - INFO - Correo actualizado correctamente: gaba400@hotmail.com
+2025-10-28 09:07:23,075 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-28 09:07:23,075 - config - INFO - 30080723 - AMAYA ACERO DEISY NAYIVER - deysi.a.0109@gmail.com

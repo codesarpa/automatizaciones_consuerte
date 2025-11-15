@@ -14,7 +14,8 @@ whatsapp_js/.wwebjs_auth/
 whatsapp_js/.wwebjs_cache/
 
 #SSH_CONECTION
-ssh_conection/.venv/
+python/ssh_conection/env
+ssh_conection/env
 ssh_conection/Logs.log
 ssh_conection/env/
 ssh_conection/codigos_superflex.xlsx
@@ -27,3 +28,13 @@ ssh_conection/puntos_con_mac5.xlsx
 
 # PASAR EJECUTABLE /pasar_ejecutable
 ssh_conection/pasar_ejecutable/logs
+
+
+#PYTHON
+python/env
+playwright/.auth
+# python/__pycache__
+# python/superflex/actualizar_correo_usuarios/__pycache__
+# python/superflex/config_impresion_cs10/__pycache__
+# python/superflex/crear_usuarios_security/__pycache__
+# python/superflex/reseteo_equipos/__pycache__

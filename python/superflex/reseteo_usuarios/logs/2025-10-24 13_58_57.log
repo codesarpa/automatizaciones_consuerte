@@ -1,0 +1,22 @@
+2025-10-24 13:58:57,667 - config - INFO - Se procede a iniciar sesion
+2025-10-24 13:59:24,504 - config - INFO - Se incia sesion correctamente
+2025-10-24 13:59:56,509 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-24 14:00:01,571 - config - INFO - esperando
+2025-10-24 14:00:01,578 - config - INFO - Total de filas encontradas: 10
+2025-10-24 14:00:03,603 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 14:00:03,641 - config - INFO - Se hizo clic en el radio button de la fila 1
+2025-10-24 14:03:16,245 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:03:18,277 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 14:03:18,316 - config - INFO - Se hizo clic en el radio button de la fila 2
+2025-10-24 14:03:25,489 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:03:27,522 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 14:03:27,553 - config - INFO - Se hizo clic en el radio button de la fila 3
+2025-10-24 14:03:32,416 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:03:34,437 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 14:03:34,478 - config - INFO - Se hizo clic en el radio button de la fila 4
+2025-10-24 14:03:38,826 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:03:40,857 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 14:03:40,891 - config - INFO - Se hizo clic en el radio button de la fila 5
+2025-10-24 14:03:43,722 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:03:45,753 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 14:03:45,785 - config - INFO - Se hizo clic en el radio button de la fila 6

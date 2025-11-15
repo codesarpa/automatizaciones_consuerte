@@ -1,0 +1,7 @@
+2025-10-24 14:51:12,441 - config - INFO - Se procede a iniciar sesion
+2025-10-24 14:51:36,843 - config - INFO - Se incia sesion correctamente
+2025-10-24 14:52:00,842 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-24 14:52:05,925 - config - INFO - esperando
+2025-10-24 14:52:05,931 - config - INFO - Total de filas encontradas: 10
+2025-10-24 14:52:07,951 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 14:52:07,999 - config - INFO - Clic en radio de fila 1

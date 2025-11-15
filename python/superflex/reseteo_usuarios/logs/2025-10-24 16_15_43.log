@@ -1,0 +1,789 @@
+2025-10-24 16:15:43,992 - config - INFO - Se procede a iniciar sesion
+2025-10-24 16:16:09,053 - config - INFO - Se incia sesion correctamente
+2025-10-24 16:16:30,854 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-24 16:16:35,915 - config - INFO - esperando
+2025-10-24 16:16:35,923 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:16:37,946 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:16:37,999 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:16:42,156 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:16:42,156 - config - INFO - Registro actualizado.
+2025-10-24 16:16:45,724 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:16:45,769 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:16:49,898 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:16:49,899 - config - INFO - Registro actualizado.
+2025-10-24 16:16:52,446 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:16:52,477 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:16:56,610 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:16:56,610 - config - INFO - Registro actualizado.
+2025-10-24 16:16:59,198 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:16:59,241 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:17:03,387 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:03,388 - config - INFO - Registro actualizado.
+2025-10-24 16:17:06,167 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:17:06,198 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:17:10,315 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:10,315 - config - INFO - Registro actualizado.
+2025-10-24 16:17:13,483 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:17:13,528 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:17:17,659 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:17,659 - config - INFO - Registro actualizado.
+2025-10-24 16:17:20,262 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:17:20,307 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:17:24,436 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:24,437 - config - INFO - Registro actualizado.
+2025-10-24 16:17:27,632 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:17:27,663 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:17:31,794 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:31,795 - config - INFO - Registro actualizado.
+2025-10-24 16:17:34,338 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:17:34,376 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:17:38,506 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:38,506 - config - INFO - Registro actualizado.
+2025-10-24 16:17:41,072 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:17:41,104 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:17:45,237 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:45,237 - config - INFO - Registro actualizado.
+2025-10-24 16:17:50,852 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:17:52,882 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:17:52,947 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:17:57,062 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:17:57,062 - config - INFO - Registro actualizado.
+2025-10-24 16:17:57,683 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:01,729 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:18:01,771 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:18:05,886 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:05,886 - config - INFO - Registro actualizado.
+2025-10-24 16:18:06,740 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:10,788 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:18:10,832 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:18:14,984 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:14,985 - config - INFO - Registro actualizado.
+2025-10-24 16:18:15,784 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:19,836 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:18:19,875 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:18:24,002 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:24,002 - config - INFO - Registro actualizado.
+2025-10-24 16:18:24,593 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:28,636 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:18:28,665 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:18:32,780 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:32,780 - config - INFO - Registro actualizado.
+2025-10-24 16:18:33,505 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:37,557 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:18:37,591 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:18:41,724 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:41,724 - config - INFO - Registro actualizado.
+2025-10-24 16:18:42,347 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:46,378 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:18:46,420 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:18:50,551 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:50,551 - config - INFO - Registro actualizado.
+2025-10-24 16:18:51,321 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:18:55,361 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:18:55,393 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:18:59,526 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:18:59,526 - config - INFO - Registro actualizado.
+2025-10-24 16:19:00,182 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:19:04,235 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:19:04,273 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:19:08,402 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:08,402 - config - INFO - Registro actualizado.
+2025-10-24 16:19:09,007 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:19:13,045 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:19:13,078 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:19:17,210 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:17,210 - config - INFO - Registro actualizado.
+2025-10-24 16:19:17,783 - config - INFO - Página 2 abierta correctamente.
+2025-10-24 16:19:24,886 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:19:26,915 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:19:26,988 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:19:31,097 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:31,097 - config - INFO - Registro actualizado.
+2025-10-24 16:19:31,706 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:19:35,757 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:19:35,794 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:19:39,925 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:39,925 - config - INFO - Registro actualizado.
+2025-10-24 16:19:41,196 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:19:45,233 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:19:45,271 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:19:49,384 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:49,384 - config - INFO - Registro actualizado.
+2025-10-24 16:19:50,045 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:19:54,088 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:19:54,129 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:19:58,283 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:19:58,284 - config - INFO - Registro actualizado.
+2025-10-24 16:19:58,867 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:02,910 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:20:02,957 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:20:07,087 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:07,087 - config - INFO - Registro actualizado.
+2025-10-24 16:20:08,424 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:12,471 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:20:12,515 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:20:16,670 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:16,670 - config - INFO - Registro actualizado.
+2025-10-24 16:20:17,917 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:21,966 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:20:22,007 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:20:26,139 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:26,139 - config - INFO - Registro actualizado.
+2025-10-24 16:20:26,711 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:30,752 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:20:30,802 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:20:34,914 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:34,915 - config - INFO - Registro actualizado.
+2025-10-24 16:20:35,553 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:39,591 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:20:39,624 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:20:43,756 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:43,757 - config - INFO - Registro actualizado.
+2025-10-24 16:20:44,396 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:20:48,429 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:20:48,470 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:20:52,618 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:20:52,618 - config - INFO - Registro actualizado.
+2025-10-24 16:20:53,422 - config - INFO - Página 3 abierta correctamente.
+2025-10-24 16:21:00,566 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:21:02,585 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:21:02,664 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:21:06,805 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:06,805 - config - INFO - Registro actualizado.
+2025-10-24 16:21:07,491 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:11,522 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:21:11,566 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:21:15,724 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:15,724 - config - INFO - Registro actualizado.
+2025-10-24 16:21:16,987 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:21,021 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:21:21,059 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:21:25,290 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:25,290 - config - INFO - Registro actualizado.
+2025-10-24 16:21:26,166 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:30,205 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:21:30,232 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:21:34,366 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:34,366 - config - INFO - Registro actualizado.
+2025-10-24 16:21:34,993 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:39,038 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:21:39,076 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:21:43,191 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:43,191 - config - INFO - Registro actualizado.
+2025-10-24 16:21:43,884 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:47,931 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:21:47,970 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:21:52,117 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:21:52,118 - config - INFO - Registro actualizado.
+2025-10-24 16:21:52,707 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:21:56,737 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:21:56,779 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:22:00,912 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:00,912 - config - INFO - Registro actualizado.
+2025-10-24 16:22:01,533 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:22:05,579 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:22:05,623 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:22:09,754 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:09,754 - config - INFO - Registro actualizado.
+2025-10-24 16:22:10,459 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:22:14,492 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:22:14,532 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:22:18,679 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:18,679 - config - INFO - Registro actualizado.
+2025-10-24 16:22:19,901 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:22:23,949 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:22:23,989 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:22:28,121 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:28,121 - config - INFO - Registro actualizado.
+2025-10-24 16:22:28,710 - config - INFO - Página 4 abierta correctamente.
+2025-10-24 16:22:35,868 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:22:37,884 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:22:37,930 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:22:42,061 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:42,061 - config - INFO - Registro actualizado.
+2025-10-24 16:22:42,733 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:22:46,782 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:22:46,822 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:22:50,955 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:50,955 - config - INFO - Registro actualizado.
+2025-10-24 16:22:51,644 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:22:55,679 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:22:55,733 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:22:59,861 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:22:59,861 - config - INFO - Registro actualizado.
+2025-10-24 16:23:00,418 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:04,453 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:23:04,490 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:23:08,622 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:08,623 - config - INFO - Registro actualizado.
+2025-10-24 16:23:09,196 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:13,232 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:23:13,265 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:23:17,397 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:17,397 - config - INFO - Registro actualizado.
+2025-10-24 16:23:18,004 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:22,040 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:23:22,074 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:23:26,209 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:26,209 - config - INFO - Registro actualizado.
+2025-10-24 16:23:26,798 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:30,849 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:23:30,904 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:23:35,034 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:35,034 - config - INFO - Registro actualizado.
+2025-10-24 16:23:35,741 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:39,776 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:23:39,811 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:23:43,943 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:43,943 - config - INFO - Registro actualizado.
+2025-10-24 16:23:44,501 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:48,544 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:23:48,588 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:23:52,702 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:23:52,703 - config - INFO - Registro actualizado.
+2025-10-24 16:23:53,141 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:23:57,192 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:23:57,230 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:24:01,379 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:24:01,379 - config - INFO - Registro actualizado.
+2025-10-24 16:24:02,003 - config - INFO - Página 5 abierta correctamente.
+2025-10-24 16:24:09,098 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:24:11,119 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:24:11,151 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:24:15,285 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:24:15,285 - config - INFO - Registro actualizado.
+2025-10-24 16:24:18,441 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:24:22,475 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:24:22,509 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:24:26,639 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:24:26,639 - config - INFO - Registro actualizado.
+2025-10-24 16:24:29,747 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:24:33,783 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:24:33,816 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:24:37,916 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:24:37,916 - config - INFO - Registro actualizado.
+2025-10-24 16:24:41,154 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:24:45,217 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:24:45,260 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:24:49,408 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:24:49,408 - config - INFO - Registro actualizado.
+2025-10-24 16:24:53,211 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:24:57,245 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:24:57,283 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:25:01,379 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:25:01,379 - config - INFO - Registro actualizado.
+2025-10-24 16:25:06,419 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:25:10,450 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:25:10,488 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:25:14,619 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:25:14,619 - config - INFO - Registro actualizado.
+2025-10-24 16:25:17,777 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:25:21,822 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:25:21,862 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:25:25,993 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:25:25,993 - config - INFO - Registro actualizado.
+2025-10-24 16:25:29,249 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:25:33,278 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:25:33,320 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:25:37,450 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:25:37,451 - config - INFO - Registro actualizado.
+2025-10-24 16:25:41,193 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:25:45,216 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:25:45,260 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:25:49,441 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:25:49,442 - config - INFO - Registro actualizado.
+2025-10-24 16:25:53,023 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:25:57,063 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:25:57,099 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:26:01,230 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:26:01,231 - config - INFO - Registro actualizado.
+2025-10-24 16:26:04,869 - config - INFO - Página 6 abierta correctamente.
+2025-10-24 16:26:11,972 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:26:13,988 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:26:14,055 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:26:18,183 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:26:18,184 - config - INFO - Registro actualizado.
+2025-10-24 16:26:22,519 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:26:26,555 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:26:26,591 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:26:30,724 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:26:30,724 - config - INFO - Registro actualizado.
+2025-10-24 16:26:34,977 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:26:39,015 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:26:39,049 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:26:43,162 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:26:43,162 - config - INFO - Registro actualizado.
+2025-10-24 16:26:47,469 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:26:51,500 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:26:51,538 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:26:55,651 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:26:55,651 - config - INFO - Registro actualizado.
+2025-10-24 16:26:59,524 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:27:03,565 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:27:03,593 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:27:07,711 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:27:07,711 - config - INFO - Registro actualizado.
+2025-10-24 16:27:12,315 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:27:16,347 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:27:16,384 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:27:20,500 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:27:20,500 - config - INFO - Registro actualizado.
+2025-10-24 16:27:24,905 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:27:28,930 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:27:28,975 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:27:33,139 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:27:33,139 - config - INFO - Registro actualizado.
+2025-10-24 16:27:37,661 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:27:41,686 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:27:41,732 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:27:45,878 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:27:45,878 - config - INFO - Registro actualizado.
+2025-10-24 16:27:50,216 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:27:54,242 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:27:54,270 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:27:58,438 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:27:58,441 - config - INFO - Registro actualizado.
+2025-10-24 16:28:02,773 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:28:06,810 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:28:06,842 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:28:10,980 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:28:10,980 - config - INFO - Registro actualizado.
+2025-10-24 16:28:15,398 - config - INFO - Página 7 abierta correctamente.
+2025-10-24 16:28:22,491 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:28:24,523 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:28:24,562 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:28:28,693 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:28:28,693 - config - INFO - Registro actualizado.
+2025-10-24 16:28:34,015 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:28:38,049 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:28:38,084 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:28:42,181 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:28:42,181 - config - INFO - Registro actualizado.
+2025-10-24 16:28:47,439 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:28:51,474 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:28:51,505 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:28:55,705 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:28:55,706 - config - INFO - Registro actualizado.
+2025-10-24 16:29:00,809 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:29:04,837 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:29:04,937 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:29:09,059 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:29:09,059 - config - INFO - Registro actualizado.
+2025-10-24 16:29:14,297 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:29:18,332 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:29:18,367 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:29:22,500 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:29:22,501 - config - INFO - Registro actualizado.
+2025-10-24 16:29:27,671 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:29:31,695 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:29:31,724 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:29:35,873 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:29:35,873 - config - INFO - Registro actualizado.
+2025-10-24 16:29:41,095 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:29:45,131 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:29:45,162 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:29:49,276 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:29:49,277 - config - INFO - Registro actualizado.
+2025-10-24 16:29:54,586 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:29:58,628 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:29:58,668 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:30:02,818 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:30:02,818 - config - INFO - Registro actualizado.
+2025-10-24 16:30:09,624 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:30:13,657 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:30:13,689 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:30:17,820 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:30:17,821 - config - INFO - Registro actualizado.
+2025-10-24 16:30:23,259 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:30:27,295 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:30:27,329 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:30:31,445 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:30:31,446 - config - INFO - Registro actualizado.
+2025-10-24 16:30:37,818 - config - INFO - Página 8 abierta correctamente.
+2025-10-24 16:30:44,926 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:30:46,956 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:30:47,000 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:30:51,127 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:30:51,128 - config - INFO - Registro actualizado.
+2025-10-24 16:30:56,946 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:31:00,977 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:31:01,018 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:31:06,264 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:31:06,264 - config - INFO - Registro actualizado.
+2025-10-24 16:31:12,318 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:31:16,352 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:31:16,389 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:31:20,669 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:31:20,669 - config - INFO - Registro actualizado.
+2025-10-24 16:31:26,991 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:31:31,012 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:31:31,060 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:31:35,193 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:31:35,193 - config - INFO - Registro actualizado.
+2025-10-24 16:31:41,211 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:31:45,242 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:31:45,281 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:31:49,411 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:31:49,411 - config - INFO - Registro actualizado.
+2025-10-24 16:31:55,022 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:31:59,059 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:31:59,105 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:32:03,218 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:32:03,219 - config - INFO - Registro actualizado.
+2025-10-24 16:32:09,237 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:32:13,265 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:32:13,310 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:32:17,440 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:32:17,441 - config - INFO - Registro actualizado.
+2025-10-24 16:32:23,691 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:32:27,727 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:32:27,764 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:32:31,877 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:32:31,877 - config - INFO - Registro actualizado.
+2025-10-24 16:32:37,948 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:32:41,972 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:32:42,035 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:32:46,149 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:32:46,150 - config - INFO - Registro actualizado.
+2025-10-24 16:32:53,352 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:32:57,390 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:32:57,422 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:33:01,521 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:33:01,521 - config - INFO - Registro actualizado.
+2025-10-24 16:33:07,557 - config - INFO - Página 9 abierta correctamente.
+2025-10-24 16:33:14,651 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:33:16,671 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:33:16,742 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:33:20,872 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:33:20,873 - config - INFO - Registro actualizado.
+2025-10-24 16:33:27,790 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:33:31,820 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:33:31,860 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:33:36,011 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:33:36,012 - config - INFO - Registro actualizado.
+2025-10-24 16:33:42,828 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:33:46,867 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:33:46,897 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:33:51,029 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:33:51,030 - config - INFO - Registro actualizado.
+2025-10-24 16:33:57,983 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:34:02,031 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:34:02,070 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:34:06,200 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:34:06,200 - config - INFO - Registro actualizado.
+2025-10-24 16:34:13,120 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:34:17,156 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:34:17,189 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:34:21,304 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:34:21,305 - config - INFO - Registro actualizado.
+2025-10-24 16:34:28,191 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:34:32,226 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:34:32,260 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:34:36,411 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:34:36,412 - config - INFO - Registro actualizado.
+2025-10-24 16:34:43,298 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:34:47,317 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:34:47,347 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:34:51,463 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:34:51,463 - config - INFO - Registro actualizado.
+2025-10-24 16:34:59,126 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:35:03,160 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:35:03,203 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:35:07,318 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:35:07,318 - config - INFO - Registro actualizado.
+2025-10-24 16:35:14,669 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:35:18,707 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:35:18,739 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:35:22,877 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:35:22,877 - config - INFO - Registro actualizado.
+2025-10-24 16:35:29,992 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:35:34,016 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:35:34,063 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:35:38,191 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:35:38,191 - config - INFO - Registro actualizado.
+2025-10-24 16:35:44,995 - config - INFO - Página 10 abierta correctamente.
+2025-10-24 16:35:52,109 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:35:54,131 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:35:54,161 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:35:58,292 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:35:58,292 - config - INFO - Registro actualizado.
+2025-10-24 16:36:06,065 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:36:10,093 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:36:10,130 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:36:14,263 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:36:14,264 - config - INFO - Registro actualizado.
+2025-10-24 16:36:22,114 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:36:26,136 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:36:26,197 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:36:30,351 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:36:30,351 - config - INFO - Registro actualizado.
+2025-10-24 16:36:38,170 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:36:42,197 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:36:42,238 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:36:46,370 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:36:46,370 - config - INFO - Registro actualizado.
+2025-10-24 16:36:54,323 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:36:58,346 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:36:58,407 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:37:02,521 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:37:02,522 - config - INFO - Registro actualizado.
+2025-10-24 16:37:10,411 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:37:14,428 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:37:14,460 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:37:18,579 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:37:18,580 - config - INFO - Registro actualizado.
+2025-10-24 16:37:26,295 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:37:30,331 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:37:30,367 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:37:34,497 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:37:34,497 - config - INFO - Registro actualizado.
+2025-10-24 16:37:42,234 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:37:46,268 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:37:46,304 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:37:50,435 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:37:50,435 - config - INFO - Registro actualizado.
+2025-10-24 16:37:58,423 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:38:02,452 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:38:02,490 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:38:06,620 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:38:06,621 - config - INFO - Registro actualizado.
+2025-10-24 16:38:14,436 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:38:18,456 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:38:18,493 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:38:22,641 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:38:22,642 - config - INFO - Registro actualizado.
+2025-10-24 16:38:30,726 - config - INFO - Página 11 abierta correctamente.
+2025-10-24 16:38:37,830 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:38:39,864 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:38:39,946 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:38:44,074 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:38:44,074 - config - INFO - Registro actualizado.
+2025-10-24 16:38:52,708 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:38:56,746 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:38:56,776 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:39:00,894 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:39:00,894 - config - INFO - Registro actualizado.
+2025-10-24 16:39:09,493 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:39:13,529 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:39:13,572 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:39:17,696 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:39:17,696 - config - INFO - Registro actualizado.
+2025-10-24 16:39:26,132 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:39:30,161 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:39:30,202 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:39:34,316 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:39:34,316 - config - INFO - Registro actualizado.
+2025-10-24 16:39:43,034 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:39:47,060 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:39:47,104 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:39:51,254 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:39:51,254 - config - INFO - Registro actualizado.
+2025-10-24 16:39:59,769 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:40:03,808 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:40:03,840 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:40:07,971 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:40:07,971 - config - INFO - Registro actualizado.
+2025-10-24 16:40:17,024 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:40:21,057 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:40:21,092 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:40:25,221 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:40:25,221 - config - INFO - Registro actualizado.
+2025-10-24 16:40:33,942 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:40:37,975 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:40:38,013 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:40:42,161 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:40:42,161 - config - INFO - Registro actualizado.
+2025-10-24 16:40:50,938 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:40:54,977 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:40:55,015 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:40:59,144 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:40:59,144 - config - INFO - Registro actualizado.
+2025-10-24 16:41:07,915 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:41:11,954 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:41:11,985 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:41:16,099 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:41:16,099 - config - INFO - Registro actualizado.
+2025-10-24 16:41:24,668 - config - INFO - Página 12 abierta correctamente.
+2025-10-24 16:41:31,745 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:41:33,766 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:41:33,832 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:41:37,965 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:41:37,965 - config - INFO - Registro actualizado.
+2025-10-24 16:41:48,317 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:41:52,342 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:41:52,386 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:41:56,516 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:41:56,516 - config - INFO - Registro actualizado.
+2025-10-24 16:42:06,666 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:42:10,701 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:42:10,738 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:42:14,870 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:42:14,871 - config - INFO - Registro actualizado.
+2025-10-24 16:42:24,436 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:42:28,470 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:42:28,504 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:42:32,667 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:42:32,667 - config - INFO - Registro actualizado.
+2025-10-24 16:42:42,156 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:42:46,181 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:42:46,226 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:42:50,353 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:42:50,353 - config - INFO - Registro actualizado.
+2025-10-24 16:43:00,529 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:43:04,554 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:43:04,591 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:43:08,725 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:43:08,725 - config - INFO - Registro actualizado.
+2025-10-24 16:43:18,191 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:43:22,224 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:43:22,261 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:43:26,393 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:43:26,393 - config - INFO - Registro actualizado.
+2025-10-24 16:43:35,627 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:43:39,651 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:43:39,701 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:43:43,827 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:43:43,827 - config - INFO - Registro actualizado.
+2025-10-24 16:43:53,279 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:43:57,305 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:43:57,350 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:44:01,465 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:44:01,466 - config - INFO - Registro actualizado.
+2025-10-24 16:44:11,570 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:44:15,608 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:44:15,652 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:44:19,785 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:44:19,786 - config - INFO - Registro actualizado.
+2025-10-24 16:44:29,537 - config - INFO - Página 13 abierta correctamente.
+2025-10-24 16:44:36,649 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:44:38,679 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:44:38,753 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:44:42,898 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:44:42,898 - config - INFO - Registro actualizado.
+2025-10-24 16:44:52,271 - config - INFO - No se encontró la página 14.
+2025-10-24 16:44:56,300 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:44:56,335 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:45:01,402 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:45:01,402 - config - INFO - Registro actualizado.
+2025-10-24 16:45:11,863 - config - INFO - No se encontró la página 14.
+2025-10-24 16:45:15,899 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:45:15,936 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:45:20,064 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:45:20,064 - config - INFO - Registro actualizado.
+2025-10-24 16:45:29,318 - config - INFO - No se encontró la página 14.
+2025-10-24 16:45:33,337 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:45:33,372 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:45:37,486 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:45:37,487 - config - INFO - Registro actualizado.
+2025-10-24 16:45:46,730 - config - INFO - No se encontró la página 14.
+2025-10-24 16:45:50,768 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:45:50,808 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:45:54,936 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:45:54,936 - config - INFO - Registro actualizado.
+2025-10-24 16:46:04,026 - config - INFO - No se encontró la página 14.
+2025-10-24 16:46:08,058 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:46:08,092 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:46:12,206 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:46:12,206 - config - INFO - Registro actualizado.
+2025-10-24 16:46:21,362 - config - INFO - No se encontró la página 14.
+2025-10-24 16:46:25,393 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:46:25,437 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:46:29,558 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:46:29,559 - config - INFO - Registro actualizado.
+2025-10-24 16:46:38,647 - config - INFO - No se encontró la página 14.
+2025-10-24 16:46:42,672 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:46:42,715 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:46:46,847 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:46:46,847 - config - INFO - Registro actualizado.
+2025-10-24 16:46:55,900 - config - INFO - No se encontró la página 14.
+2025-10-24 16:46:59,934 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:46:59,968 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:47:04,197 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:47:04,198 - config - INFO - Registro actualizado.
+2025-10-24 16:47:13,300 - config - INFO - No se encontró la página 14.
+2025-10-24 16:47:17,326 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:47:17,351 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:47:21,483 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:47:21,483 - config - INFO - Registro actualizado.
+2025-10-24 16:47:30,650 - config - INFO - No se encontró la página 14.
+2025-10-24 16:47:37,741 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:47:39,764 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:47:39,801 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:47:43,967 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:47:43,967 - config - INFO - Registro actualizado.
+2025-10-24 16:47:51,202 - config - INFO - Página 15 abierta correctamente.
+2025-10-24 16:47:55,227 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:47:55,271 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:47:59,401 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:47:59,401 - config - INFO - Registro actualizado.
+2025-10-24 16:48:08,797 - config - INFO - No se encontró la página 15.
+2025-10-24 16:48:12,824 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:48:12,856 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:48:16,986 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:48:16,987 - config - INFO - Registro actualizado.
+2025-10-24 16:48:26,643 - config - INFO - No se encontró la página 15.
+2025-10-24 16:48:30,679 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:48:30,709 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:48:34,842 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:48:34,842 - config - INFO - Registro actualizado.
+2025-10-24 16:48:44,109 - config - INFO - No se encontró la página 15.
+2025-10-24 16:48:48,139 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:48:48,177 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:48:52,311 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:48:52,311 - config - INFO - Registro actualizado.
+2025-10-24 16:49:01,464 - config - INFO - No se encontró la página 15.
+2025-10-24 16:49:05,495 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:49:05,538 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:49:09,663 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:49:09,663 - config - INFO - Registro actualizado.
+2025-10-24 16:49:18,717 - config - INFO - No se encontró la página 15.
+2025-10-24 16:49:22,742 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 16:49:22,785 - config - INFO - Clic en radio de fila 7
+2025-10-24 16:49:26,931 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:49:26,932 - config - INFO - Registro actualizado.
+2025-10-24 16:49:36,261 - config - INFO - No se encontró la página 15.
+2025-10-24 16:49:40,286 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 16:49:40,320 - config - INFO - Clic en radio de fila 8
+2025-10-24 16:49:44,448 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:49:44,448 - config - INFO - Registro actualizado.
+2025-10-24 16:49:53,534 - config - INFO - No se encontró la página 15.
+2025-10-24 16:49:57,561 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 16:49:57,605 - config - INFO - Clic en radio de fila 9
+2025-10-24 16:50:01,754 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:50:01,754 - config - INFO - Registro actualizado.
+2025-10-24 16:50:12,206 - config - INFO - No se encontró la página 15.
+2025-10-24 16:50:16,242 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 16:50:16,280 - config - INFO - Clic en radio de fila 10
+2025-10-24 16:50:20,403 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:50:20,404 - config - INFO - Registro actualizado.
+2025-10-24 16:50:29,541 - config - INFO - No se encontró la página 15.
+2025-10-24 16:50:36,635 - config - INFO - Total de filas encontradas: 10
+2025-10-24 16:50:38,663 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 16:50:38,740 - config - INFO - Clic en radio de fila 1
+2025-10-24 16:50:42,867 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:50:42,867 - config - INFO - Registro actualizado.
+2025-10-24 16:50:51,925 - config - INFO - No se encontró la página 16.
+2025-10-24 16:50:55,965 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 16:50:56,008 - config - INFO - Clic en radio de fila 2
+2025-10-24 16:51:00,105 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:51:00,105 - config - INFO - Registro actualizado.
+2025-10-24 16:51:09,148 - config - INFO - No se encontró la página 16.
+2025-10-24 16:51:13,173 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 16:51:13,209 - config - INFO - Clic en radio de fila 3
+2025-10-24 16:51:17,321 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:51:17,321 - config - INFO - Registro actualizado.
+2025-10-24 16:51:26,469 - config - INFO - No se encontró la página 16.
+2025-10-24 16:51:30,494 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 16:51:30,527 - config - INFO - Clic en radio de fila 4
+2025-10-24 16:51:34,658 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:51:34,658 - config - INFO - Registro actualizado.
+2025-10-24 16:51:43,839 - config - INFO - No se encontró la página 16.
+2025-10-24 16:51:47,876 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 16:51:47,915 - config - INFO - Clic en radio de fila 5
+2025-10-24 16:51:52,044 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:51:52,044 - config - INFO - Registro actualizado.
+2025-10-24 16:52:01,131 - config - INFO - No se encontró la página 16.
+2025-10-24 16:52:05,171 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 16:52:05,199 - config - INFO - Clic en radio de fila 6
+2025-10-24 16:52:09,334 - config - INFO - Registro actualizado correctamente
+2025-10-24 16:52:09,334 - config - INFO - Registro actualizado.

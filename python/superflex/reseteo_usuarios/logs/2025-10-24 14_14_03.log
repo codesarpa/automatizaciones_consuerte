@@ -1,0 +1,35 @@
+2025-10-24 14:14:03,320 - config - INFO - Se procede a iniciar sesion
+2025-10-24 14:14:28,628 - config - INFO - Se incia sesion correctamente
+2025-10-24 14:14:53,489 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-24 14:14:58,551 - config - INFO - esperando
+2025-10-24 14:14:58,564 - config - INFO - Total de filas encontradas: 10
+2025-10-24 14:15:00,593 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-24 14:15:00,647 - config - INFO - Se hizo clic en el radio button de la fila 1
+2025-10-24 14:15:02,811 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:04,829 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-24 14:15:04,871 - config - INFO - Se hizo clic en el radio button de la fila 2
+2025-10-24 14:15:07,000 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:09,022 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-24 14:15:09,065 - config - INFO - Se hizo clic en el radio button de la fila 3
+2025-10-24 14:15:11,181 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:13,199 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-24 14:15:13,246 - config - INFO - Se hizo clic en el radio button de la fila 4
+2025-10-24 14:15:15,361 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:17,384 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-24 14:15:17,427 - config - INFO - Se hizo clic en el radio button de la fila 5
+2025-10-24 14:15:19,541 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:21,566 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-24 14:15:21,605 - config - INFO - Se hizo clic en el radio button de la fila 6
+2025-10-24 14:15:23,721 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:25,741 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-24 14:15:25,782 - config - INFO - Se hizo clic en el radio button de la fila 7
+2025-10-24 14:15:27,900 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:29,931 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-24 14:15:29,963 - config - INFO - Se hizo clic en el radio button de la fila 8
+2025-10-24 14:15:32,079 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:34,110 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-24 14:15:34,147 - config - INFO - Se hizo clic en el radio button de la fila 9
+2025-10-24 14:15:36,276 - config - INFO - Se hizo clic en el boton actualizar
+2025-10-24 14:15:38,292 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-24 14:15:38,324 - config - INFO - Se hizo clic en el radio button de la fila 10
+2025-10-24 14:15:40,440 - config - INFO - Se hizo clic en el boton actualizar

@@ -1,0 +1,13 @@
+2025-10-30 10:06:43,759 - root - INFO - Se procede a iniciar sesion
+2025-10-30 10:07:02,149 - root - INFO - Se incia sesion correctamente
+2025-10-30 10:08:07,500 - root - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-30 10:08:09,460 - config - INFO - Se selecciona la empresa
+2025-10-30 10:08:09,496 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-30 10:08:09,496 - config - INFO - 1234790927 - ABELLA MEDINA MARIA FERNANDA - fernandabetplay@gmail.com
+2025-10-30 10:08:11,567 - config - INFO - Se consultó el usuario: 1234790927
+2025-10-30 10:08:13,697 - config - INFO - Se ingresa a editar usuario
+2025-10-30 10:08:13,697 - config - INFO - Se prepara para escribir el correo: fernandabetplay@gmail.com
+2025-10-30 10:08:16,729 - config - INFO - Se escribió el correo: fernandabetplay@gmail.com
+2025-10-30 10:08:16,729 - config - INFO - Se prepara para confirmar el correo: fernandabetplay@gmail.com
+2025-10-30 10:08:19,751 - config - INFO - Se confirma el correo: fernandabetplay@gmail.com
+2025-10-30 10:17:04,701 - config - INFO - Correo actualizado correctamente: fernandabetplay@gmail.com

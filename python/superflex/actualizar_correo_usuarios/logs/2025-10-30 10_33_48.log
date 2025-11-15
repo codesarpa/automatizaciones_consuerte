@@ -1,0 +1,21 @@
+2025-10-30 10:33:48,431 - root - INFO - Se procede a iniciar sesion
+2025-10-30 10:34:07,469 - root - INFO - Se incia sesion correctamente
+2025-10-30 10:34:17,928 - root - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-30 10:34:19,802 - config - INFO - Se selecciona la empresa
+2025-10-30 10:34:19,856 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-30 10:34:19,856 - config - INFO - 1234790927 - ABELLA MEDINA MARIA FERNANDA - fernandabetplay@gmail.com
+2025-10-30 10:34:21,935 - config - INFO - Se consultó el usuario: 1234790927
+2025-10-30 10:34:24,080 - config - INFO - Se ingresa a editar usuario
+2025-10-30 10:34:24,080 - config - INFO - Se prepara para escribir el correo: fernandabetplay@gmail.com
+2025-10-30 10:34:27,112 - config - INFO - Se escribió el correo: fernandabetplay@gmail.com
+2025-10-30 10:34:27,112 - config - INFO - Se prepara para confirmar el correo: fernandabetplay@gmail.com
+2025-10-30 10:34:30,138 - config - INFO - Se confirma el correo: fernandabetplay@gmail.com
+2025-10-30 10:34:39,398 - config - INFO - Correo actualizado correctamente: fernandabetplay@gmail.com
+2025-10-30 10:34:46,473 - config - INFO - Se prepara para consultar el siguiente usuario:
+2025-10-30 10:34:46,473 - config - INFO - 1006720627 - AGUIRRE DUSSAN LEYDI - srtaaguirre08@gmail.com
+2025-10-30 10:34:48,537 - config - INFO - Se consultó el usuario: 1006720627
+2025-10-30 10:34:50,653 - config - INFO - Se ingresa a editar usuario
+2025-10-30 10:34:50,654 - config - INFO - Se prepara para escribir el correo: srtaaguirre08@gmail.com
+2025-10-30 10:34:53,684 - config - INFO - Se escribió el correo: srtaaguirre08@gmail.com
+2025-10-30 10:34:53,684 - config - INFO - Se prepara para confirmar el correo: srtaaguirre08@gmail.com
+2025-10-30 10:34:56,727 - config - INFO - Se confirma el correo: srtaaguirre08@gmail.com

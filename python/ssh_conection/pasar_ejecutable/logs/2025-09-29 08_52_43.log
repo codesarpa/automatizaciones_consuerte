@@ -1,0 +1,640 @@
+2025-09-29 08:52:43,730 - __main__ - INFO - Hola
+2025-09-29 08:52:43,730 - __main__ - INFO - se ingresa a leer el excel
+2025-09-29 08:52:44,664 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.124
+2025-09-29 08:53:05,715 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:53:05,716 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.141
+2025-09-29 08:53:26,749 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:53:26,750 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.144
+2025-09-29 08:53:47,785 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:53:47,786 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.168
+2025-09-29 08:54:08,823 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:54:08,824 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.151
+2025-09-29 08:54:29,854 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:54:29,855 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.156
+2025-09-29 08:54:50,912 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:54:50,912 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.42
+2025-09-29 08:55:11,940 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:55:11,941 - __main__ - INFO - Iniciando Conexion SH: 10.2.12.82
+2025-09-29 08:55:12,017 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa8f2100
+2025-09-29 08:55:12,018 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 08:55:12,134 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.5
+2025-09-29 08:55:12,134 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_9.6p1)
+2025-09-29 08:55:12,281 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 08:55:12,281 - paramiko.transport - DEBUG - kex algos: sntrup761x25519-sha512@openssh.com, curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, diffie-hellman-group14-sha256, ext-info-s, kex-strict-s-v00@openssh.com
+2025-09-29 08:55:12,281 - paramiko.transport - DEBUG - server key: rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp256, ssh-ed25519
+2025-09-29 08:55:12,281 - paramiko.transport - DEBUG - client encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - server encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - client mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - server mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - client compress: none, zlib@openssh.com
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - server compress: none, zlib@openssh.com
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - Strict kex mode: True
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - Kex: curve25519-sha256@libssh.org
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - HostKey: ssh-ed25519
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 08:55:12,282 - paramiko.transport - DEBUG - MAC: hmac-sha2-256
+2025-09-29 08:55:12,283 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 08:55:12,283 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 08:55:12,562 - paramiko.transport - DEBUG - Resetting outbound seqno after NEWKEYS due to strict mode
+2025-09-29 08:55:12,562 - paramiko.transport - DEBUG - kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 08:55:12,567 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 08:55:12,567 - paramiko.transport - DEBUG - Resetting inbound seqno after NEWKEYS due to strict mode
+2025-09-29 08:55:12,568 - paramiko.transport - DEBUG - Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ssh-ed25519@openssh.com,sk-ecdsa-sha2-nistp256@openssh.com,rsa-sha2-512,rsa-sha2-256', 'publickey-hostbound@openssh.com': b'0', 'ping@openssh.com': b'0'}
+2025-09-29 08:55:12,568 - paramiko.transport - DEBUG - Adding ssh-ed25519 host key for 10.2.12.82: b'fb00d9ecb1d5e29ff924c30ec13d5a61'
+2025-09-29 08:55:12,847 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 08:55:13,073 - paramiko.transport - INFO - Authentication (password) successful!
+2025-09-29 08:55:13,073 - __main__ - INFO - Se conecto al servidor: 10.2.12.82
+2025-09-29 08:55:13,076 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2025-09-29 08:55:13,374 - paramiko.transport - DEBUG - Received global request "hostkeys-00@openssh.com"
+2025-09-29 08:55:13,374 - paramiko.transport - DEBUG - Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-09-29 08:55:13,493 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2025-09-29 08:55:13,493 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2025-09-29 08:55:13,668 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2025-09-29 08:55:13,739 - paramiko.transport.sftp - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-09-29 08:55:13,739 - paramiko.transport.sftp - DEBUG - [chan 0] open(b'/copia/varios/crearcarpeta.tar', 'wb')
+2025-09-29 08:55:13,815 - paramiko.transport.sftp - DEBUG - [chan 0] open(b'/copia/varios/crearcarpeta.tar', 'wb') -> 00000000
+2025-09-29 08:56:13,128 - paramiko.transport.sftp - DEBUG - [chan 0] close(00000000)
+2025-09-29 08:56:13,366 - paramiko.transport.sftp - DEBUG - [chan 0] stat(b'/copia/varios/crearcarpeta.tar')
+2025-09-29 08:56:13,516 - paramiko.transport.sftp - INFO - [chan 0] sftp session closed.
+2025-09-29 08:56:13,516 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2025-09-29 08:56:13,516 - __main__ - INFO - Archivo C:/automatizaciones_consuerte/ssh_conection/pasar_ejecutable/crearcarpeta.tar enviado a /copia/varios/crearcarpeta.tar
+2025-09-29 08:56:13,517 - __main__ - INFO - Se envia el archivo
+2025-09-29 08:56:13,517 - __main__ - INFO - Ejecutando comando: DESCOMPRIMIR ARCHIVO: cd /copia/varios && tar -xvf crearcarpeta.tar
+2025-09-29 08:56:13,517 - paramiko.transport - DEBUG - [chan 1] Max packet in: 32768 bytes
+2025-09-29 08:56:13,588 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2025-09-29 08:56:13,664 - paramiko.transport - DEBUG - [chan 1] Max packet out: 32768 bytes
+2025-09-29 08:56:13,664 - paramiko.transport - DEBUG - Secsh channel 1 opened.
+2025-09-29 08:56:13,740 - paramiko.transport - DEBUG - [chan 1] Sesch channel 1 request ok
+2025-09-29 08:56:13,894 - paramiko.transport - DEBUG - [chan 1] EOF received (1)
+2025-09-29 08:56:13,894 - __main__ - INFO - Salida: crearcarpeta/ejecutable_linux_tray_icon.sh
+crearcarpeta/crearcapeta.sh
+crearcarpeta/arregloprintersuperlfex.sh
+crearcarpeta/superflex-tray-icon.jar
+crearcarpeta/
+
+2025-09-29 08:56:13,894 - __main__ - INFO - Comando: DESCOMPRIMIR ARCHIVO
+2025-09-29 08:56:13,894 - __main__ - INFO - Exitoso
+2025-09-29 08:56:13,895 - __main__ - INFO - Ejecutando comando: INGRESAR A CARPETA Y DAR PERMISOS A LOS EJECUTABLES: cd /copia/varios/crearcarpeta && chmod +x arregloprintersuperlfex.sh crearcapeta.sh
+2025-09-29 08:56:13,895 - paramiko.transport - DEBUG - [chan 1] EOF sent (1)
+2025-09-29 08:56:13,896 - paramiko.transport - DEBUG - [chan 2] Max packet in: 32768 bytes
+2025-09-29 08:56:14,221 - paramiko.transport - DEBUG - [chan 2] Max packet out: 32768 bytes
+2025-09-29 08:56:14,221 - paramiko.transport - DEBUG - Secsh channel 2 opened.
+2025-09-29 08:56:14,297 - paramiko.transport - DEBUG - [chan 2] Sesch channel 2 request ok
+2025-09-29 08:56:14,387 - paramiko.transport - DEBUG - [chan 2] EOF received (2)
+2025-09-29 08:56:14,387 - __main__ - INFO - Ejecutando comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh: cd /copia/varios/crearcarpeta && ./arregloprintersuperlfex.sh
+2025-09-29 08:56:14,388 - paramiko.transport - DEBUG - [chan 3] Max packet in: 32768 bytes
+2025-09-29 08:56:14,388 - paramiko.transport - DEBUG - [chan 2] EOF sent (2)
+2025-09-29 08:56:14,507 - paramiko.transport - DEBUG - [chan 3] Max packet out: 32768 bytes
+2025-09-29 08:56:14,507 - paramiko.transport - DEBUG - Secsh channel 3 opened.
+2025-09-29 08:56:14,788 - paramiko.transport - DEBUG - [chan 3] Sesch channel 3 request ok
+2025-09-29 08:56:32,405 - paramiko.transport - DEBUG - [chan 3] EOF received (3)
+2025-09-29 08:56:32,406 - paramiko.transport - DEBUG - [chan 3] EOF sent (3)
+2025-09-29 08:56:32,406 - __main__ - INFO - Salida: ==> Verificando configuración actual de CUPS...
+   -> Cambiando PreserveJobHistory a 'no'...
+   -> Cambiando PreserveJobFiles a 'no'...
+   -> Configurando política de error de la impresora impresora a 'abort-job'...
+==> Reiniciando servicio CUPS para aplicar cambios...
+==> Configuración de CUPS comprobada/completada.
+
+2025-09-29 08:56:32,406 - __main__ - INFO - Comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh
+2025-09-29 08:56:32,406 - __main__ - INFO - Exitoso
+2025-09-29 08:56:32,407 - __main__ - ERROR - Fallo en el comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh
+2025-09-29 08:56:32,407 - __main__ - ERROR - Errores: cupsctl: Conexión reinicializada por la máquina remota
+cut: el delimitador debe ser un sólo carácter
+Pruebe 'cut --help' para más información.
+
+2025-09-29 08:56:32,407 - __main__ - INFO - Ejecutando comando: EJECUTAR SCRIPT: crearcapeta.sh: cd /copia/varios/crearcarpeta && ./crearcapeta.sh
+2025-09-29 08:56:32,407 - paramiko.transport - DEBUG - [chan 4] Max packet in: 32768 bytes
+2025-09-29 08:56:32,739 - paramiko.transport - DEBUG - [chan 4] Max packet out: 32768 bytes
+2025-09-29 08:56:32,739 - paramiko.transport - DEBUG - Secsh channel 4 opened.
+2025-09-29 08:56:32,815 - paramiko.transport - DEBUG - [chan 4] Sesch channel 4 request ok
+2025-09-29 08:56:32,908 - paramiko.transport - DEBUG - [chan 4] EOF received (4)
+2025-09-29 08:56:32,908 - __main__ - INFO - Ejecutando comando: VERIFICAR CARPETAS: test -d /home/gamble/superflex && echo 'OK: superflex existe' || echo 'ERROR: superflex no existe'
+test -d /home/gamble/superflex/Actualizaciones && echo 'OK: Actualizaciones existe' || echo 'ERROR: Actualizaciones no existe'
+test -d /home/gamble/Documentos/Try_icon && echo 'OK: Try_icon existe' || echo 'ERROR: Try_icon no existe'
+2025-09-29 08:56:32,908 - paramiko.transport - DEBUG - [chan 5] Max packet in: 32768 bytes
+2025-09-29 08:56:32,908 - paramiko.transport - DEBUG - [chan 4] EOF sent (4)
+2025-09-29 08:56:33,031 - paramiko.transport - DEBUG - [chan 5] Max packet out: 32768 bytes
+2025-09-29 08:56:33,031 - paramiko.transport - DEBUG - Secsh channel 5 opened.
+2025-09-29 08:56:33,311 - paramiko.transport - DEBUG - [chan 5] Sesch channel 5 request ok
+2025-09-29 08:56:33,312 - paramiko.transport - DEBUG - [chan 5] EOF received (5)
+2025-09-29 08:56:33,312 - __main__ - INFO - Salida: OK: superflex existe
+OK: Actualizaciones existe
+OK: Try_icon existe
+
+2025-09-29 08:56:33,312 - __main__ - INFO - Comando: VERIFICAR CARPETAS
+2025-09-29 08:56:33,312 - __main__ - INFO - Exitoso
+2025-09-29 08:56:33,313 - paramiko.transport - DEBUG - [chan 5] EOF sent (5)
+2025-09-29 08:56:33,314 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.106
+2025-09-29 08:56:54,354 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:56:54,355 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.112
+2025-09-29 08:57:15,412 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:57:15,414 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.118
+2025-09-29 08:57:36,462 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:57:36,464 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.148
+2025-09-29 08:57:57,515 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:57:57,516 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.120
+2025-09-29 08:58:18,563 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:58:18,564 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.128
+2025-09-29 08:58:39,580 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:58:39,580 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.4
+2025-09-29 08:59:00,627 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:59:00,628 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.16
+2025-09-29 08:59:21,646 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:59:21,647 - __main__ - INFO - Iniciando Conexion SH: 10.2 .13.26
+2025-09-29 08:59:21,651 - __main__ - ERROR - Error inesperado: [Errno 11001] getaddrinfo failed
+2025-09-29 08:59:21,651 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.186
+2025-09-29 08:59:42,713 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 08:59:42,714 - __main__ - INFO - Iniciando Conexion SH: 10.2.12.84
+2025-09-29 09:00:03,744 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:00:03,745 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.204
+2025-09-29 09:00:24,800 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:00:24,800 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.214
+2025-09-29 09:00:45,854 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:00:45,855 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.225
+2025-09-29 09:00:47,945 - __main__ - ERROR - Error inesperado: [Errno None] Unable to connect to port 22 on 10.2.13.225
+2025-09-29 09:00:47,947 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.24
+2025-09-29 09:01:08,980 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:01:08,980 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.242
+2025-09-29 09:01:30,010 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:01:30,012 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.244
+2025-09-29 09:01:51,064 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:01:51,065 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.26
+2025-09-29 09:02:12,102 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:02:12,102 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.109
+2025-09-29 09:02:33,140 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:02:33,140 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.34
+2025-09-29 09:02:54,173 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:02:54,173 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.36
+2025-09-29 09:03:15,224 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:03:15,225 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.242
+2025-09-29 09:03:36,266 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:03:36,267 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.244
+2025-09-29 09:03:57,336 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:03:57,337 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.250
+2025-09-29 09:04:18,378 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:04:18,378 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.56
+2025-09-29 09:04:39,426 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:04:39,427 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.70
+2025-09-29 09:05:00,465 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:05:00,466 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.74
+2025-09-29 09:05:21,511 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:05:21,512 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.133
+2025-09-29 09:05:42,566 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:05:42,567 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.98
+2025-09-29 09:05:42,599 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa969e80
+2025-09-29 09:05:42,599 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 09:05:42,673 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2
+2025-09-29 09:05:42,673 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, diffie-hellman-group14-sha256
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - server key: rsa-sha2-512, rsa-sha2-256, ssh-rsa, ecdsa-sha2-nistp256, ssh-ed25519
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - client encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - server encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - client mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - server mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - client compress: none, zlib@openssh.com
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - server compress: none, zlib@openssh.com
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 09:05:42,748 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - Kex: curve25519-sha256@libssh.org
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - HostKey: ssh-ed25519
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - MAC: hmac-sha2-256
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 09:05:42,749 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 09:05:42,928 - paramiko.transport - DEBUG - kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 09:05:42,928 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 09:05:42,929 - paramiko.transport - DEBUG - Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-09-29 09:05:42,929 - paramiko.transport - DEBUG - Adding ssh-ed25519 host key for 10.2.13.98: b'5ff886648c14196618f910aea2649b38'
+2025-09-29 09:05:43,032 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 09:05:43,115 - paramiko.transport - INFO - Authentication (password) successful!
+2025-09-29 09:05:43,115 - __main__ - INFO - Se conecto al servidor: 10.2.13.98
+2025-09-29 09:05:43,116 - paramiko.transport - DEBUG - [chan 0] Max packet in: 32768 bytes
+2025-09-29 09:05:43,386 - paramiko.transport - DEBUG - Received global request "hostkeys-00@openssh.com"
+2025-09-29 09:05:43,386 - paramiko.transport - DEBUG - Rejecting "hostkeys-00@openssh.com" global request from server.
+2025-09-29 09:05:43,457 - paramiko.transport - DEBUG - [chan 0] Max packet out: 32768 bytes
+2025-09-29 09:05:43,457 - paramiko.transport - DEBUG - Secsh channel 0 opened.
+2025-09-29 09:05:43,534 - paramiko.transport - DEBUG - [chan 0] Sesch channel 0 request ok
+2025-09-29 09:05:43,615 - paramiko.transport.sftp - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-09-29 09:05:43,616 - paramiko.transport.sftp - DEBUG - [chan 0] open(b'/copia/varios/crearcarpeta.tar', 'wb')
+2025-09-29 09:05:43,695 - paramiko.transport.sftp - DEBUG - [chan 0] open(b'/copia/varios/crearcarpeta.tar', 'wb') -> 00000000
+2025-09-29 09:06:06,110 - paramiko.transport.sftp - DEBUG - [chan 0] close(00000000)
+2025-09-29 09:06:06,193 - paramiko.transport.sftp - DEBUG - [chan 0] stat(b'/copia/varios/crearcarpeta.tar')
+2025-09-29 09:06:06,225 - paramiko.transport.sftp - INFO - [chan 0] sftp session closed.
+2025-09-29 09:06:06,225 - paramiko.transport - DEBUG - [chan 0] EOF sent (0)
+2025-09-29 09:06:06,225 - __main__ - INFO - Archivo C:/automatizaciones_consuerte/ssh_conection/pasar_ejecutable/crearcarpeta.tar enviado a /copia/varios/crearcarpeta.tar
+2025-09-29 09:06:06,226 - __main__ - INFO - Se envia el archivo
+2025-09-29 09:06:06,226 - __main__ - INFO - Ejecutando comando: DESCOMPRIMIR ARCHIVO: cd /copia/varios && tar -xvf crearcarpeta.tar
+2025-09-29 09:06:06,226 - paramiko.transport - DEBUG - [chan 1] Max packet in: 32768 bytes
+2025-09-29 09:06:06,258 - paramiko.transport - DEBUG - [chan 0] EOF received (0)
+2025-09-29 09:06:06,284 - paramiko.transport - DEBUG - [chan 1] Max packet out: 32768 bytes
+2025-09-29 09:06:06,284 - paramiko.transport - DEBUG - Secsh channel 1 opened.
+2025-09-29 09:06:06,318 - paramiko.transport - DEBUG - [chan 1] Sesch channel 1 request ok
+2025-09-29 09:06:06,394 - paramiko.transport - DEBUG - [chan 1] EOF received (1)
+2025-09-29 09:06:06,394 - __main__ - INFO - Salida: crearcarpeta/ejecutable_linux_tray_icon.sh
+crearcarpeta/crearcapeta.sh
+crearcarpeta/arregloprintersuperlfex.sh
+crearcarpeta/superflex-tray-icon.jar
+crearcarpeta/
+
+2025-09-29 09:06:06,394 - __main__ - INFO - Comando: DESCOMPRIMIR ARCHIVO
+2025-09-29 09:06:06,394 - __main__ - INFO - Exitoso
+2025-09-29 09:06:06,394 - paramiko.transport - DEBUG - [chan 1] EOF sent (1)
+2025-09-29 09:06:06,394 - __main__ - INFO - Ejecutando comando: INGRESAR A CARPETA Y DAR PERMISOS A LOS EJECUTABLES: cd /copia/varios/crearcarpeta && chmod +x arregloprintersuperlfex.sh crearcapeta.sh
+2025-09-29 09:06:06,394 - paramiko.transport - DEBUG - [chan 2] Max packet in: 32768 bytes
+2025-09-29 09:06:06,555 - paramiko.transport - DEBUG - [chan 2] Max packet out: 32768 bytes
+2025-09-29 09:06:06,555 - paramiko.transport - DEBUG - Secsh channel 2 opened.
+2025-09-29 09:06:06,632 - paramiko.transport - DEBUG - [chan 2] Sesch channel 2 request ok
+2025-09-29 09:06:06,633 - paramiko.transport - DEBUG - [chan 2] EOF received (2)
+2025-09-29 09:06:06,633 - __main__ - INFO - Ejecutando comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh: cd /copia/varios/crearcarpeta && ./arregloprintersuperlfex.sh
+2025-09-29 09:06:06,633 - paramiko.transport - DEBUG - [chan 3] Max packet in: 32768 bytes
+2025-09-29 09:06:06,633 - paramiko.transport - DEBUG - [chan 2] EOF sent (2)
+2025-09-29 09:06:06,743 - paramiko.transport - DEBUG - [chan 3] Max packet out: 32768 bytes
+2025-09-29 09:06:06,743 - paramiko.transport - DEBUG - Secsh channel 3 opened.
+2025-09-29 09:06:06,920 - paramiko.transport - DEBUG - [chan 3] Sesch channel 3 request ok
+2025-09-29 09:06:25,127 - paramiko.transport - DEBUG - [chan 3] EOF received (3)
+2025-09-29 09:06:25,127 - __main__ - INFO - Salida: ==> Verificando configuración actual de CUPS...
+   -> Cambiando PreserveJobHistory a 'no'...
+   -> Cambiando PreserveJobFiles a 'no'...
+   -> Configurando política de error de la impresora impresora a 'abort-job'...
+==> Reiniciando servicio CUPS para aplicar cambios...
+==> Configuración de CUPS comprobada/completada.
+
+2025-09-29 09:06:25,127 - paramiko.transport - DEBUG - [chan 3] EOF sent (3)
+2025-09-29 09:06:25,127 - __main__ - INFO - Comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh
+2025-09-29 09:06:25,128 - __main__ - INFO - Exitoso
+2025-09-29 09:06:25,128 - __main__ - ERROR - Fallo en el comando: EJECUTAR SCRIPT: arregloprintersuperlfex.sh
+2025-09-29 09:06:25,128 - __main__ - ERROR - Errores: cupsctl: Conexión reinicializada por la máquina remota
+cut: el delimitador debe ser un sólo carácter
+Pruebe 'cut --help' para más información.
+
+2025-09-29 09:06:25,128 - __main__ - INFO - Ejecutando comando: EJECUTAR SCRIPT: crearcapeta.sh: cd /copia/varios/crearcarpeta && ./crearcapeta.sh
+2025-09-29 09:06:25,128 - paramiko.transport - DEBUG - [chan 4] Max packet in: 32768 bytes
+2025-09-29 09:06:25,244 - paramiko.transport - DEBUG - [chan 4] Max packet out: 32768 bytes
+2025-09-29 09:06:25,245 - paramiko.transport - DEBUG - Secsh channel 4 opened.
+2025-09-29 09:06:25,326 - paramiko.transport - DEBUG - [chan 4] Sesch channel 4 request ok
+2025-09-29 09:06:25,403 - paramiko.transport - DEBUG - [chan 4] EOF received (4)
+2025-09-29 09:06:25,403 - __main__ - INFO - Ejecutando comando: VERIFICAR CARPETAS: test -d /home/gamble/superflex && echo 'OK: superflex existe' || echo 'ERROR: superflex no existe'
+test -d /home/gamble/superflex/Actualizaciones && echo 'OK: Actualizaciones existe' || echo 'ERROR: Actualizaciones no existe'
+test -d /home/gamble/Documentos/Try_icon && echo 'OK: Try_icon existe' || echo 'ERROR: Try_icon no existe'
+2025-09-29 09:06:25,404 - paramiko.transport - DEBUG - [chan 5] Max packet in: 32768 bytes
+2025-09-29 09:06:25,404 - paramiko.transport - DEBUG - [chan 4] EOF sent (4)
+2025-09-29 09:06:25,465 - paramiko.transport - DEBUG - [chan 5] Max packet out: 32768 bytes
+2025-09-29 09:06:25,465 - paramiko.transport - DEBUG - Secsh channel 5 opened.
+2025-09-29 09:06:25,623 - paramiko.transport - DEBUG - [chan 5] Sesch channel 5 request ok
+2025-09-29 09:06:25,653 - paramiko.transport - DEBUG - [chan 5] EOF received (5)
+2025-09-29 09:06:25,654 - __main__ - INFO - Salida: OK: superflex existe
+OK: Actualizaciones existe
+OK: Try_icon existe
+
+2025-09-29 09:06:25,654 - paramiko.transport - DEBUG - [chan 5] EOF sent (5)
+2025-09-29 09:06:25,654 - __main__ - INFO - Comando: VERIFICAR CARPETAS
+2025-09-29 09:06:25,655 - __main__ - INFO - Exitoso
+2025-09-29 09:06:25,657 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.92
+2025-09-29 09:06:46,694 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:06:46,695 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.94
+2025-09-29 09:07:07,742 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:07:07,743 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.163
+2025-09-29 09:07:28,793 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:07:28,793 - __main__ - INFO - Iniciando Conexion SH: 10.255.18.105
+2025-09-29 09:07:49,823 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:07:49,825 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.147
+2025-09-29 09:08:10,862 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:08:10,864 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.134
+2025-09-29 09:08:31,900 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:08:31,900 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.136
+2025-09-29 09:08:52,930 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:08:52,930 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.196
+2025-09-29 09:08:52,952 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa8f24c0
+2025-09-29 09:08:52,952 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 09:08:53,101 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 09:08:53,101 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 09:08:53,111 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 09:08:53,198 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 09:08:53,502 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 09:08:53,502 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 09:08:53,504 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.2.13.196: b'e7b4906235e4a10cb011adfba12a3fd9'
+2025-09-29 09:08:53,589 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 09:08:53,615 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 09:08:53,615 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 09:08:53,616 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.4
+2025-09-29 09:09:14,650 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:09:14,651 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.90
+2025-09-29 09:09:23,109 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 09:09:35,706 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:09:35,708 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.91
+2025-09-29 09:09:56,742 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:09:56,744 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.158
+2025-09-29 09:10:17,778 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:10:17,779 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.102
+2025-09-29 09:10:38,809 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:10:38,810 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.110
+2025-09-29 09:10:59,836 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:10:59,837 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.138
+2025-09-29 09:11:20,893 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:11:20,894 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.14
+2025-09-29 09:11:41,932 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:11:41,933 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.142
+2025-09-29 09:12:02,969 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:12:02,971 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.154
+2025-09-29 09:12:23,994 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:12:23,996 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.18
+2025-09-29 09:12:45,030 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:12:45,032 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.172
+2025-09-29 09:13:06,078 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:13:06,078 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.20
+2025-09-29 09:13:27,114 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:13:27,115 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.154
+2025-09-29 09:13:48,167 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:13:48,169 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.230
+2025-09-29 09:13:48,245 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa99bdf0
+2025-09-29 09:13:48,245 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 09:13:48,361 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2
+2025-09-29 09:13:48,361 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2025-09-29 09:13:48,519 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, diffie-hellman-group14-sha256
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - server key: rsa-sha2-512, rsa-sha2-256, ssh-rsa, ecdsa-sha2-nistp256, ssh-ed25519
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - client encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - server encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - client mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - server mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 09:13:48,521 - paramiko.transport - DEBUG - client compress: none, zlib@openssh.com
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - server compress: none, zlib@openssh.com
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - Kex: curve25519-sha256@libssh.org
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - HostKey: ssh-ed25519
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 09:13:48,522 - paramiko.transport - DEBUG - MAC: hmac-sha2-256
+2025-09-29 09:13:48,523 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 09:13:48,523 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 09:13:48,793 - paramiko.transport - DEBUG - kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 09:13:48,794 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 09:13:48,794 - paramiko.transport - DEBUG - Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-09-29 09:13:48,794 - paramiko.transport - DEBUG - Adding ssh-ed25519 host key for 10.2.13.230: b'5ff886648c14196618f910aea2649b38'
+2025-09-29 09:13:49,041 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 09:13:51,408 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 09:13:51,408 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 09:13:51,408 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.232
+2025-09-29 09:14:12,458 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:14:12,459 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.4
+2025-09-29 09:14:33,508 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:14:33,508 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.144
+2025-09-29 09:14:54,554 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:14:54,556 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.46
+2025-09-29 09:15:15,608 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:15:15,608 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.56
+2025-09-29 09:15:36,650 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:15:36,651 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.78
+2025-09-29 09:15:48,150 - paramiko.transport - DEBUG - EOF in transport thread
+2025-09-29 09:15:57,699 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:15:57,700 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.82
+2025-09-29 09:16:18,733 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:16:18,734 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.138
+2025-09-29 09:16:39,786 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:16:39,787 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.173
+2025-09-29 09:17:00,826 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:17:00,827 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.120
+2025-09-29 09:17:21,888 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:17:21,888 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.121
+2025-09-29 09:17:42,915 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:17:42,916 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.124
+2025-09-29 09:18:03,971 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:18:03,973 - __main__ - INFO - Iniciando Conexion SH: 10.2.41.115
+2025-09-29 09:18:25,003 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:18:25,004 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.111
+2025-09-29 09:18:46,026 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:18:46,026 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.112
+2025-09-29 09:19:07,074 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:19:07,074 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.113
+2025-09-29 09:19:28,119 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:19:28,120 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.103
+2025-09-29 09:19:49,153 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:19:49,154 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.108
+2025-09-29 09:20:10,175 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:20:10,176 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.114
+2025-09-29 09:20:31,212 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:20:31,212 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.118
+2025-09-29 09:20:52,250 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:20:52,251 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.25
+2025-09-29 09:21:13,309 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:21:13,311 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.133
+2025-09-29 09:21:34,365 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:21:34,367 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.134
+2025-09-29 09:21:55,392 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:21:55,393 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.135
+2025-09-29 09:22:16,409 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:22:16,409 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.136
+2025-09-29 09:22:37,449 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:22:37,451 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.137
+2025-09-29 09:22:58,499 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:22:58,500 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.139
+2025-09-29 09:23:19,530 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:23:19,532 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.143
+2025-09-29 09:23:40,576 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:23:40,578 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.147
+2025-09-29 09:24:01,616 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:24:01,618 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.148
+2025-09-29 09:24:22,635 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:24:22,637 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.175
+2025-09-29 09:24:43,661 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:24:43,663 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.154
+2025-09-29 09:25:04,695 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:25:04,697 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.159
+2025-09-29 09:25:25,734 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:25:25,736 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.160
+2025-09-29 09:25:46,772 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:25:46,774 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.134
+2025-09-29 09:26:07,812 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:26:07,814 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.162
+2025-09-29 09:26:28,843 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:26:28,844 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.167
+2025-09-29 09:26:49,884 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:26:49,886 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.171
+2025-09-29 09:27:10,916 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:27:10,917 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.173
+2025-09-29 09:27:31,975 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:27:31,976 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.174
+2025-09-29 09:27:53,026 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:27:53,028 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.178
+2025-09-29 09:28:14,066 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:28:14,068 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.179
+2025-09-29 09:28:35,114 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:28:35,115 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.187
+2025-09-29 09:28:37,407 - __main__ - ERROR - Error inesperado: [Errno None] Unable to connect to port 22 on 10.2.60.187
+2025-09-29 09:28:37,408 - __main__ - INFO - Iniciando Conexion SH: 10.255.0.102
+2025-09-29 09:28:58,433 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:28:58,434 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.105
+2025-09-29 09:29:19,476 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:29:19,478 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.116
+2025-09-29 09:29:40,521 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:29:40,523 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.16
+2025-09-29 09:30:01,563 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:30:01,565 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.119
+2025-09-29 09:30:01,630 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa99b610
+2025-09-29 09:30:01,630 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 09:30:01,739 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 09:30:01,739 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 09:30:01,740 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 09:30:01,740 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 09:30:01,740 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 09:30:01,740 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:30:01,740 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 09:30:01,741 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 09:30:01,742 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 09:30:01,860 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 09:30:02,277 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 09:30:02,277 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 09:30:02,278 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.255.1.119: b'8d4fa68abe127ecb65c4f8ea5489946c'
+2025-09-29 09:30:02,463 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 09:30:02,544 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 09:30:02,545 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 09:30:02,546 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.105
+2025-09-29 09:30:23,574 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:30:23,576 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.114
+2025-09-29 09:30:31,790 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 09:30:44,625 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:30:44,625 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.176
+2025-09-29 09:31:05,665 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:31:05,667 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.129
+2025-09-29 09:31:26,701 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:31:26,703 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.133
+2025-09-29 09:31:47,739 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:31:47,741 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.137
+2025-09-29 09:32:08,772 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:32:08,773 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.138
+2025-09-29 09:32:29,828 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:32:29,829 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.143
+2025-09-29 09:32:50,870 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:32:50,872 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.144
+2025-09-29 09:33:11,918 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:33:11,919 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.145
+2025-09-29 09:33:32,956 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:33:32,958 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.146
+2025-09-29 09:33:54,005 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:33:54,007 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.148
+2025-09-29 09:34:15,044 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:34:15,046 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.149
+2025-09-29 09:34:36,068 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:34:36,069 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.102
+2025-09-29 09:34:57,118 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:34:57,120 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.105
+2025-09-29 09:35:18,166 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:35:18,168 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.110
+2025-09-29 09:35:39,216 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:35:39,218 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.113
+2025-09-29 09:36:00,257 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:36:00,259 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.107
+2025-09-29 09:36:21,282 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:36:21,284 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.136
+2025-09-29 09:36:42,319 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:36:42,321 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.130
+2025-09-29 09:37:03,342 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:37:03,344 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.132
+2025-09-29 09:37:24,394 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:37:24,396 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.138
+2025-09-29 09:37:45,453 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:37:45,455 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.103
+2025-09-29 09:38:06,505 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:38:06,507 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.104
+2025-09-29 09:38:27,547 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:38:27,548 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.184
+2025-09-29 09:38:48,593 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:38:48,594 - __main__ - INFO - Iniciando Conexion SH: 10.255.6.118
+2025-09-29 09:39:09,620 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:39:09,621 - __main__ - INFO - Iniciando Conexion SH: 10.255.6.105
+2025-09-29 09:39:30,676 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:39:30,678 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.104
+2025-09-29 09:39:51,694 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:39:51,695 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.105
+2025-09-29 09:40:12,731 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:40:12,732 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.97
+2025-09-29 09:40:12,777 - paramiko.transport - DEBUG - starting thread (client mode): 0xfa99edc0
+2025-09-29 09:40:12,777 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 09:40:12,931 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 09:40:12,931 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 09:40:13,000 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 09:40:13,001 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 09:40:13,001 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 09:40:13,001 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 09:40:13,001 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 09:40:13,001 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 09:40:13,093 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 09:40:13,366 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 09:40:13,366 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 09:40:13,367 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.255.7.97: b'87b38e1a6618abb074a314de8dd7d3cf'
+2025-09-29 09:40:13,429 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 09:40:13,560 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 09:40:13,560 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 09:40:13,561 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.179
+2025-09-29 09:40:34,598 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:40:34,599 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.151
+2025-09-29 09:40:42,926 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 09:40:55,649 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:40:55,650 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.187
+2025-09-29 09:41:16,681 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:41:16,683 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.128
+2025-09-29 09:41:37,725 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:41:37,726 - __main__ - INFO - Iniciando Conexion SH: 10.255.23.125
+2025-09-29 09:41:58,771 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:41:58,773 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.190
+2025-09-29 09:42:19,813 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:42:19,815 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.196
+2025-09-29 09:42:40,852 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:42:40,854 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.195
+2025-09-29 09:43:01,904 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:43:01,905 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.160
+2025-09-29 09:43:22,938 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 09:43:23,019 - paramiko.transport - DEBUG - EOF in transport thread

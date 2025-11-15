@@ -1,0 +1,416 @@
+2025-09-29 11:10:25,074 - __main__ - INFO - Hola
+2025-09-29 11:10:25,075 - __main__ - INFO - se ingresa a leer el excel
+2025-09-29 11:10:25,432 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.124
+2025-09-29 11:10:46,482 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:10:46,482 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.141
+2025-09-29 11:11:07,534 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:11:07,535 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.144
+2025-09-29 11:11:28,575 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:11:28,575 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.168
+2025-09-29 11:11:49,634 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:11:49,635 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.151
+2025-09-29 11:12:10,674 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:12:10,676 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.156
+2025-09-29 11:12:31,695 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:12:31,697 - __main__ - INFO - Iniciando Conexion SH: 10.2.10.42
+2025-09-29 11:12:52,745 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:12:52,747 - __main__ - INFO - Iniciando Conexion SH: 10.255.8.105
+2025-09-29 11:13:13,795 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:13:13,796 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.106
+2025-09-29 11:13:34,839 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:13:34,841 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.112
+2025-09-29 11:13:55,869 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:13:55,870 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.118
+2025-09-29 11:14:16,894 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:14:16,896 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.148
+2025-09-29 11:14:37,935 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:14:37,936 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.120
+2025-09-29 11:14:58,960 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:14:58,962 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.128
+2025-09-29 11:15:19,993 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:15:19,993 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.4
+2025-09-29 11:15:41,031 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:15:41,033 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.16
+2025-09-29 11:16:02,047 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:16:02,047 - __main__ - INFO - Iniciando Conexion SH: 10.2 .13.26
+2025-09-29 11:16:02,050 - __main__ - ERROR - Error inesperado: [Errno 11001] getaddrinfo failed
+2025-09-29 11:16:02,051 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.186
+2025-09-29 11:16:23,093 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:16:23,093 - __main__ - INFO - Iniciando Conexion SH: 10.2.12.84
+2025-09-29 11:16:44,133 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:16:44,134 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.204
+2025-09-29 11:17:05,166 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:17:05,167 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.214
+2025-09-29 11:17:26,220 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:17:26,221 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.225
+2025-09-29 11:17:28,320 - __main__ - ERROR - Error inesperado: [Errno None] Unable to connect to port 22 on 10.2.13.225
+2025-09-29 11:17:28,321 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.24
+2025-09-29 11:17:49,374 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:17:49,375 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.242
+2025-09-29 11:18:10,410 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:18:10,410 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.244
+2025-09-29 11:18:31,443 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:18:31,444 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.26
+2025-09-29 11:18:52,480 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:18:52,481 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.109
+2025-09-29 11:19:13,541 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:19:13,543 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.34
+2025-09-29 11:19:34,574 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:19:34,575 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.36
+2025-09-29 11:19:55,608 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:19:55,610 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.242
+2025-09-29 11:20:16,652 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:20:16,654 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.244
+2025-09-29 11:20:37,679 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:20:37,681 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.250
+2025-09-29 11:20:58,731 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:20:58,732 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.56
+2025-09-29 11:21:19,766 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:21:19,768 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.70
+2025-09-29 11:21:40,799 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:21:40,800 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.74
+2025-09-29 11:22:01,834 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:22:01,836 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.133
+2025-09-29 11:22:22,871 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:22:22,873 - __main__ - INFO - Iniciando Conexion SH: 10.255.8.103
+2025-09-29 11:22:43,927 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:22:43,929 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.92
+2025-09-29 11:23:04,968 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:23:04,969 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.94
+2025-09-29 11:23:26,001 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:23:26,002 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.163
+2025-09-29 11:23:47,033 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:23:47,035 - __main__ - INFO - Iniciando Conexion SH: 10.255.18.105
+2025-09-29 11:24:08,066 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:24:08,068 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.147
+2025-09-29 11:24:29,117 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:24:29,119 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.134
+2025-09-29 11:24:50,150 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:24:50,151 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.136
+2025-09-29 11:25:11,189 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:25:11,190 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.196
+2025-09-29 11:25:11,214 - paramiko.transport - DEBUG - starting thread (client mode): 0xea95cb80
+2025-09-29 11:25:11,215 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 11:25:11,257 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 11:25:11,257 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 11:25:11,295 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 11:25:11,296 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 11:25:11,296 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 11:25:11,296 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 11:25:11,297 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 11:25:11,298 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 11:25:11,298 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 11:25:11,298 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 11:25:11,298 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 11:25:11,298 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 11:25:11,392 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 11:25:11,690 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 11:25:11,693 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 11:25:11,694 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.2.13.196: b'e7b4906235e4a10cb011adfba12a3fd9'
+2025-09-29 11:25:11,766 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 11:25:11,784 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 11:25:11,784 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 11:25:11,786 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.4
+2025-09-29 11:25:32,798 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:25:32,800 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.90
+2025-09-29 11:25:41,262 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 11:25:53,842 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:25:53,844 - __main__ - INFO - Iniciando Conexion SH: 10.2.14.91
+2025-09-29 11:26:14,893 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:26:14,895 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.158
+2025-09-29 11:26:35,928 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:26:35,930 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.102
+2025-09-29 11:26:56,969 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:26:56,970 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.110
+2025-09-29 11:27:18,009 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:27:18,012 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.138
+2025-09-29 11:27:39,046 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:27:39,047 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.14
+2025-09-29 11:28:00,096 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:28:00,097 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.142
+2025-09-29 11:28:21,133 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:28:21,133 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.154
+2025-09-29 11:28:42,175 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:28:42,176 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.18
+2025-09-29 11:29:03,210 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:29:03,210 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.172
+2025-09-29 11:29:24,232 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:29:24,232 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.20
+2025-09-29 11:29:45,275 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:29:45,276 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.154
+2025-09-29 11:30:06,325 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:30:06,326 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.230
+2025-09-29 11:30:06,508 - paramiko.transport - DEBUG - starting thread (client mode): 0xea97cf70
+2025-09-29 11:30:06,509 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 11:30:06,682 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.2
+2025-09-29 11:30:06,682 - paramiko.transport - INFO - Connected (version 2.0, client OpenSSH_8.2p1)
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - kex algos: curve25519-sha256, curve25519-sha256@libssh.org, ecdh-sha2-nistp256, ecdh-sha2-nistp384, ecdh-sha2-nistp521, diffie-hellman-group-exchange-sha256, diffie-hellman-group16-sha512, diffie-hellman-group18-sha512, diffie-hellman-group14-sha256
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - server key: rsa-sha2-512, rsa-sha2-256, ssh-rsa, ecdsa-sha2-nistp256, ssh-ed25519
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - client encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - server encrypt: chacha20-poly1305@openssh.com, aes128-ctr, aes192-ctr, aes256-ctr, aes128-gcm@openssh.com, aes256-gcm@openssh.com
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - client mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - server mac: umac-64-etm@openssh.com, umac-128-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512-etm@openssh.com, hmac-sha1-etm@openssh.com, umac-64@openssh.com, umac-128@openssh.com, hmac-sha2-256, hmac-sha2-512, hmac-sha1
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - client compress: none, zlib@openssh.com
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - server compress: none, zlib@openssh.com
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - Kex: curve25519-sha256@libssh.org
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - HostKey: ssh-ed25519
+2025-09-29 11:30:06,852 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 11:30:06,853 - paramiko.transport - DEBUG - MAC: hmac-sha2-256
+2025-09-29 11:30:06,853 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 11:30:06,853 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 11:30:07,043 - paramiko.transport - DEBUG - kex engine KexCurve25519 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 11:30:07,043 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 11:30:07,044 - paramiko.transport - DEBUG - Adding ssh-ed25519 host key for 10.2.13.230: b'5ff886648c14196618f910aea2649b38'
+2025-09-29 11:30:07,044 - paramiko.transport - DEBUG - Got EXT_INFO: {'server-sig-algs': b'ssh-ed25519,sk-ssh-ed25519@openssh.com,ssh-rsa,rsa-sha2-256,rsa-sha2-512,ssh-dss,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com'}
+2025-09-29 11:30:07,374 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 11:30:09,768 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 11:30:09,768 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 11:30:09,769 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.232
+2025-09-29 11:30:30,801 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:30:30,802 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.4
+2025-09-29 11:30:51,835 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:30:51,836 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.144
+2025-09-29 11:31:12,880 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:31:12,881 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.46
+2025-09-29 11:31:33,906 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:31:33,907 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.56
+2025-09-29 11:31:54,939 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:31:54,940 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.78
+2025-09-29 11:32:06,507 - paramiko.transport - DEBUG - EOF in transport thread
+2025-09-29 11:32:15,982 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:32:15,983 - __main__ - INFO - Iniciando Conexion SH: 10.2.15.82
+2025-09-29 11:32:37,023 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:32:37,024 - __main__ - INFO - Iniciando Conexion SH: 10.2.13.138
+2025-09-29 11:32:58,053 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:32:58,055 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.173
+2025-09-29 11:33:19,097 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:33:19,098 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.120
+2025-09-29 11:33:40,119 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:33:40,121 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.121
+2025-09-29 11:34:01,162 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:34:01,165 - __main__ - INFO - Iniciando Conexion SH: 10.8.3.124
+2025-09-29 11:34:22,203 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:34:22,205 - __main__ - INFO - Iniciando Conexion SH: 10.2.41.115
+2025-09-29 11:34:43,255 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:34:43,256 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.111
+2025-09-29 11:35:04,272 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:35:04,273 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.112
+2025-09-29 11:35:25,318 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:35:25,319 - __main__ - INFO - Iniciando Conexion SH: 10.2.42.113
+2025-09-29 11:35:46,375 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:35:46,376 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.103
+2025-09-29 11:36:07,410 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:36:07,412 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.108
+2025-09-29 11:36:28,462 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:36:28,463 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.114
+2025-09-29 11:36:49,491 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:36:49,493 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.118
+2025-09-29 11:37:10,529 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:37:10,529 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.25
+2025-09-29 11:37:31,574 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:37:31,575 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.133
+2025-09-29 11:37:52,606 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:37:52,606 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.134
+2025-09-29 11:38:13,637 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:38:13,637 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.135
+2025-09-29 11:38:34,689 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:38:34,690 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.136
+2025-09-29 11:38:55,736 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:38:55,737 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.137
+2025-09-29 11:39:16,783 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:39:16,784 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.139
+2025-09-29 11:39:37,796 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:39:37,796 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.143
+2025-09-29 11:39:58,829 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:39:58,831 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.147
+2025-09-29 11:40:19,867 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:40:19,869 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.148
+2025-09-29 11:40:40,908 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:40:40,910 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.175
+2025-09-29 11:41:01,944 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:41:01,944 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.154
+2025-09-29 11:41:22,986 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:41:22,988 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.159
+2025-09-29 11:41:44,010 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:41:44,010 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.160
+2025-09-29 11:42:05,042 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:42:05,043 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.134
+2025-09-29 11:42:26,096 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:42:26,097 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.162
+2025-09-29 11:42:47,144 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:42:47,145 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.167
+2025-09-29 11:43:08,184 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:43:08,185 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.171
+2025-09-29 11:43:29,215 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:43:29,217 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.173
+2025-09-29 11:43:50,255 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:43:50,256 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.174
+2025-09-29 11:44:11,282 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:44:11,285 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.178
+2025-09-29 11:44:32,337 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:44:32,338 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.179
+2025-09-29 11:44:53,375 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:44:53,377 - __main__ - INFO - Iniciando Conexion SH: 10.2.60.187
+2025-09-29 11:44:55,729 - __main__ - ERROR - Error inesperado: [Errno None] Unable to connect to port 22 on 10.2.60.187
+2025-09-29 11:44:55,729 - __main__ - INFO - Iniciando Conexion SH: 10.255.0.102
+2025-09-29 11:45:16,769 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:45:16,770 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.105
+2025-09-29 11:45:37,803 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:45:37,803 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.116
+2025-09-29 11:45:58,846 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:45:58,848 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.16
+2025-09-29 11:46:19,882 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:46:19,884 - __main__ - INFO - Iniciando Conexion SH: 10.255.1.119
+2025-09-29 11:46:19,976 - paramiko.transport - DEBUG - starting thread (client mode): 0xea9fb370
+2025-09-29 11:46:19,976 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 11:46:20,190 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 11:46:20,191 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 11:46:20,191 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 11:46:20,192 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 11:46:20,347 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 11:46:20,759 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 11:46:20,760 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 11:46:20,760 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.255.1.119: b'8d4fa68abe127ecb65c4f8ea5489946c'
+2025-09-29 11:46:20,980 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 11:46:21,082 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 11:46:21,082 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 11:46:21,083 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.105
+2025-09-29 11:46:42,108 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:46:42,110 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.114
+2025-09-29 11:46:50,079 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 11:47:03,148 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:47:03,150 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.176
+2025-09-29 11:47:24,169 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:47:24,171 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.129
+2025-09-29 11:47:45,206 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:47:45,206 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.133
+2025-09-29 11:48:06,232 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:48:06,232 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.137
+2025-09-29 11:48:27,279 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:48:27,279 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.138
+2025-09-29 11:48:48,317 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:48:48,318 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.143
+2025-09-29 11:49:09,350 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:49:09,352 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.144
+2025-09-29 11:49:30,398 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:49:30,400 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.145
+2025-09-29 11:49:51,434 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:49:51,436 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.146
+2025-09-29 11:50:12,488 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:50:12,490 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.148
+2025-09-29 11:50:33,532 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:50:33,533 - __main__ - INFO - Iniciando Conexion SH: 10.255.2.149
+2025-09-29 11:50:54,579 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:50:54,579 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.102
+2025-09-29 11:51:15,626 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:51:15,627 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.105
+2025-09-29 11:51:36,668 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:51:36,668 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.110
+2025-09-29 11:51:57,702 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:51:57,702 - __main__ - INFO - Iniciando Conexion SH: 10.255.3.113
+2025-09-29 11:52:18,749 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:52:18,749 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.107
+2025-09-29 11:52:39,803 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:52:39,804 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.136
+2025-09-29 11:53:00,840 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:53:00,840 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.130
+2025-09-29 11:53:21,873 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:53:21,875 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.132
+2025-09-29 11:53:42,904 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:53:42,904 - __main__ - INFO - Iniciando Conexion SH: 10.255.4.138
+2025-09-29 11:54:03,943 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:54:03,943 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.103
+2025-09-29 11:54:24,982 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:54:24,983 - __main__ - INFO - Iniciando Conexion SH: 10.255.5.104
+2025-09-29 11:54:46,035 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:54:46,036 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.184
+2025-09-29 11:55:07,071 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:55:07,073 - __main__ - INFO - Iniciando Conexion SH: 10.255.6.118
+2025-09-29 11:55:28,119 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:55:28,121 - __main__ - INFO - Iniciando Conexion SH: 10.255.6.105
+2025-09-29 11:55:49,169 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:55:49,170 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.104
+2025-09-29 11:56:10,221 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:56:10,222 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.105
+2025-09-29 11:56:31,271 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:56:31,273 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.97
+2025-09-29 11:56:31,571 - paramiko.transport - DEBUG - starting thread (client mode): 0xea9f5be0
+2025-09-29 11:56:31,571 - paramiko.transport - DEBUG - Local version/idstring: SSH-2.0-paramiko_3.5.1
+2025-09-29 11:56:31,661 - paramiko.transport - DEBUG - Remote version/idstring: SSH-2.0-ROSSSH
+2025-09-29 11:56:31,661 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - === Key exchange possibilities ===
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - kex algos: diffie-hellman-group-exchange-sha256, diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1, diffie-hellman-group1-sha1
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - server key: ssh-dss, rsa-sha2-256, ssh-rsa
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - client encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - server encrypt: aes128-ctr, aes192-ctr, aes256-ctr, aes128-cbc, aes192-cbc, aes256-cbc, blowfish-cbc, 3des-cbc
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - client mac: hmac-sha1, hmac-md5
+2025-09-29 11:56:31,668 - paramiko.transport - DEBUG - server mac: hmac-sha1, hmac-md5
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - client compress: none
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - server compress: none
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - client lang: <none>
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - server lang: <none>
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - kex follows: False
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - === Key exchange agreements ===
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - Kex: diffie-hellman-group-exchange-sha256
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - HostKey: rsa-sha2-256
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - Cipher: aes128-ctr
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - MAC: hmac-sha1
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - Compression: none
+2025-09-29 11:56:31,669 - paramiko.transport - DEBUG - === End of kex handshake ===
+2025-09-29 11:56:31,939 - paramiko.transport - DEBUG - Got server p (1024 bits)
+2025-09-29 11:56:32,264 - paramiko.transport - DEBUG - kex engine KexGexSHA256 specified hash_algo <built-in function openssl_sha256>
+2025-09-29 11:56:32,264 - paramiko.transport - DEBUG - Switch to new keys ...
+2025-09-29 11:56:32,265 - paramiko.transport - DEBUG - Adding ssh-rsa host key for 10.255.7.97: b'87b38e1a6618abb074a314de8dd7d3cf'
+2025-09-29 11:56:32,522 - paramiko.transport - DEBUG - userauth is OK
+2025-09-29 11:56:32,738 - paramiko.transport - INFO - Authentication (password) failed.
+2025-09-29 11:56:32,739 - __main__ - ERROR - Error de autenticación: usuario o contraseña incorrectos
+2025-09-29 11:56:32,740 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.179
+2025-09-29 11:56:53,770 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:56:53,771 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.151
+2025-09-29 11:57:01,727 - paramiko.transport - INFO - Disconnect (code 11): auth timeout
+2025-09-29 11:57:14,789 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:57:14,791 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.187
+2025-09-29 11:57:35,843 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:57:35,844 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.128
+2025-09-29 11:57:56,904 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:57:56,905 - __main__ - INFO - Iniciando Conexion SH: 10.255.23.125
+2025-09-29 11:58:17,950 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:58:17,952 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.190
+2025-09-29 11:58:39,000 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:58:39,001 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.196
+2025-09-29 11:59:00,038 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:59:00,039 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.195
+2025-09-29 11:59:21,082 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+2025-09-29 11:59:21,084 - __main__ - INFO - Iniciando Conexion SH: 10.255.7.160
+2025-09-29 11:59:42,113 - __main__ - ERROR - Error inesperado: [WinError 10060] Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder

@@ -1,0 +1,278 @@
+2025-10-27 09:33:08,161 - config - INFO - Se procede a iniciar sesion
+2025-10-27 09:33:34,543 - config - INFO - Se incia sesion correctamente
+2025-10-27 09:34:01,471 - config - INFO - Se ingresa al modulo de URL_ADMIN_USUARIOS
+2025-10-27 09:34:06,556 - config - INFO - esperando
+2025-10-27 09:34:06,556 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:36:08,839 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:36:08,844 - config - INFO - Total de filas encontradas: 10
+2025-10-27 09:36:10,881 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 09:36:10,929 - config - INFO - Clic en radio de fila 1
+2025-10-27 09:36:15,109 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:36:15,110 - config - INFO - Registro actualizado.
+2025-10-27 09:36:17,016 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:38:19,509 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:38:23,543 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 09:38:23,584 - config - INFO - Clic en radio de fila 2
+2025-10-27 09:38:27,717 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:38:27,717 - config - INFO - Registro actualizado.
+2025-10-27 09:38:28,691 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:40:31,055 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:40:35,088 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 09:40:35,143 - config - INFO - Clic en radio de fila 3
+2025-10-27 09:40:39,317 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:40:39,317 - config - INFO - Registro actualizado.
+2025-10-27 09:40:40,292 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:42:42,581 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:42:46,621 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 09:42:46,652 - config - INFO - Clic en radio de fila 4
+2025-10-27 09:42:50,813 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:42:50,813 - config - INFO - Registro actualizado.
+2025-10-27 09:42:51,329 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:44:53,705 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:44:57,741 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 09:44:57,778 - config - INFO - Clic en radio de fila 5
+2025-10-27 09:45:01,892 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:45:01,893 - config - INFO - Registro actualizado.
+2025-10-27 09:45:03,136 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:47:05,564 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:47:09,588 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 09:47:09,621 - config - INFO - Clic en radio de fila 6
+2025-10-27 09:47:13,753 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:47:13,754 - config - INFO - Registro actualizado.
+2025-10-27 09:47:15,295 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:49:17,886 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:49:21,912 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 09:49:21,963 - config - INFO - Clic en radio de fila 7
+2025-10-27 09:49:27,176 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:49:27,177 - config - INFO - Registro actualizado.
+2025-10-27 09:49:28,189 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:51:34,195 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:51:38,224 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 09:51:38,251 - config - INFO - Clic en radio de fila 8
+2025-10-27 09:51:42,414 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:51:42,415 - config - INFO - Registro actualizado.
+2025-10-27 09:51:43,293 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:53:46,251 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:53:50,294 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 09:53:50,346 - config - INFO - Clic en radio de fila 9
+2025-10-27 09:53:54,531 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:53:54,531 - config - INFO - Registro actualizado.
+2025-10-27 09:53:55,521 - config - INFO - Intentando ir a la página 117...
+2025-10-27 09:55:58,196 - config - INFO - Página 117 abierta correctamente.
+2025-10-27 09:56:02,231 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 09:56:02,269 - config - INFO - Clic en radio de fila 10
+2025-10-27 09:56:06,405 - config - INFO - Registro actualizado correctamente
+2025-10-27 09:56:06,405 - config - INFO - Registro actualizado.
+2025-10-27 09:56:07,202 - config - INFO - Intentando ir a la página 117...
+2025-10-27 10:00:07,784 - config - INFO - No se encontró la página 117 después de varios intentos.
+2025-10-27 10:00:14,887 - config - INFO - Total de filas encontradas: 10
+2025-10-27 10:00:16,910 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 10:00:16,979 - config - INFO - Clic en radio de fila 1
+2025-10-27 10:00:21,141 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:00:21,141 - config - INFO - Registro actualizado.
+2025-10-27 10:00:21,839 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:02:25,311 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:02:29,345 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 10:02:29,386 - config - INFO - Clic en radio de fila 2
+2025-10-27 10:02:33,500 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:02:33,501 - config - INFO - Registro actualizado.
+2025-10-27 10:02:34,422 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:04:38,776 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:04:42,809 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 10:04:42,850 - config - INFO - Clic en radio de fila 3
+2025-10-27 10:04:46,990 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:04:46,990 - config - INFO - Registro actualizado.
+2025-10-27 10:04:47,994 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:06:54,068 - config - INFO - Fin de paginación alcanzado antes de llegar a 118.
+2025-10-27 10:06:58,113 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 10:06:58,177 - config - INFO - Clic en radio de fila 4
+2025-10-27 10:07:02,330 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:07:02,330 - config - INFO - Registro actualizado.
+2025-10-27 10:07:02,889 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:09:06,917 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:09:10,964 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 10:09:11,008 - config - INFO - Clic en radio de fila 5
+2025-10-27 10:09:15,155 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:09:15,155 - config - INFO - Registro actualizado.
+2025-10-27 10:09:16,027 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:11:19,714 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:11:23,761 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 10:11:23,798 - config - INFO - Clic en radio de fila 6
+2025-10-27 10:11:27,911 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:11:27,912 - config - INFO - Registro actualizado.
+2025-10-27 10:11:28,766 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:13:32,368 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:13:36,391 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 10:13:36,420 - config - INFO - Clic en radio de fila 7
+2025-10-27 10:13:40,536 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:13:40,536 - config - INFO - Registro actualizado.
+2025-10-27 10:13:41,301 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:15:44,891 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:15:48,923 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 10:15:48,963 - config - INFO - Clic en radio de fila 8
+2025-10-27 10:15:53,097 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:15:53,097 - config - INFO - Registro actualizado.
+2025-10-27 10:15:53,949 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:17:57,650 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:18:01,681 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 10:18:01,721 - config - INFO - Clic en radio de fila 9
+2025-10-27 10:18:05,867 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:18:05,867 - config - INFO - Registro actualizado.
+2025-10-27 10:18:06,900 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:20:10,657 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:20:14,700 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 10:20:14,728 - config - INFO - Clic en radio de fila 10
+2025-10-27 10:20:18,909 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:20:18,909 - config - INFO - Registro actualizado.
+2025-10-27 10:20:19,917 - config - INFO - Intentando ir a la página 118...
+2025-10-27 10:22:24,202 - config - INFO - Página 118 abierta correctamente.
+2025-10-27 10:22:31,297 - config - INFO - Total de filas encontradas: 10
+2025-10-27 10:22:33,323 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 10:22:33,367 - config - INFO - Clic en radio de fila 1
+2025-10-27 10:22:37,479 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:22:37,479 - config - INFO - Registro actualizado.
+2025-10-27 10:22:38,382 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:24:43,748 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:24:47,787 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 10:24:47,825 - config - INFO - Clic en radio de fila 2
+2025-10-27 10:24:51,990 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:24:51,990 - config - INFO - Registro actualizado.
+2025-10-27 10:24:53,247 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:26:58,357 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:27:02,398 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 10:27:02,427 - config - INFO - Clic en radio de fila 3
+2025-10-27 10:27:06,551 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:27:06,552 - config - INFO - Registro actualizado.
+2025-10-27 10:27:07,429 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:29:12,627 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:29:16,677 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 10:29:16,749 - config - INFO - Clic en radio de fila 4
+2025-10-27 10:29:20,884 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:29:20,884 - config - INFO - Registro actualizado.
+2025-10-27 10:29:21,850 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:31:27,033 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:31:31,067 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 10:31:31,109 - config - INFO - Clic en radio de fila 5
+2025-10-27 10:31:35,222 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:31:35,222 - config - INFO - Registro actualizado.
+2025-10-27 10:31:36,202 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:33:40,739 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:33:44,769 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 10:33:44,799 - config - INFO - Clic en radio de fila 6
+2025-10-27 10:33:48,930 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:33:48,930 - config - INFO - Registro actualizado.
+2025-10-27 10:33:49,793 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:35:54,298 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:35:58,338 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 10:35:58,373 - config - INFO - Clic en radio de fila 7
+2025-10-27 10:36:02,489 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:36:02,489 - config - INFO - Registro actualizado.
+2025-10-27 10:36:03,695 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:38:08,561 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:38:12,595 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 10:38:12,629 - config - INFO - Clic en radio de fila 8
+2025-10-27 10:38:16,760 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:38:16,760 - config - INFO - Registro actualizado.
+2025-10-27 10:38:17,648 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:40:22,584 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:40:26,621 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 10:40:26,653 - config - INFO - Clic en radio de fila 9
+2025-10-27 10:40:30,770 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:40:30,771 - config - INFO - Registro actualizado.
+2025-10-27 10:40:31,643 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:42:36,924 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:42:40,961 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 10:42:41,021 - config - INFO - Clic en radio de fila 10
+2025-10-27 10:42:45,141 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:42:45,142 - config - INFO - Registro actualizado.
+2025-10-27 10:42:45,976 - config - INFO - Intentando ir a la página 119...
+2025-10-27 10:44:52,328 - config - INFO - Página 119 abierta correctamente.
+2025-10-27 10:44:59,437 - config - INFO - Total de filas encontradas: 10
+2025-10-27 10:45:01,461 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 10:45:01,532 - config - INFO - Clic en radio de fila 1
+2025-10-27 10:45:05,695 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:45:05,695 - config - INFO - Registro actualizado.
+2025-10-27 10:45:08,253 - config - INFO - Intentando ir a la página 120...
+2025-10-27 10:50:21,061 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 10:50:25,087 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 10:50:25,151 - config - INFO - Clic en radio de fila 2
+2025-10-27 10:50:29,294 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:50:29,294 - config - INFO - Registro actualizado.
+2025-10-27 10:50:30,506 - config - INFO - Intentando ir a la página 120...
+2025-10-27 10:52:36,763 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 10:52:40,798 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 10:52:40,836 - config - INFO - Clic en radio de fila 3
+2025-10-27 10:52:44,952 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:52:44,953 - config - INFO - Registro actualizado.
+2025-10-27 10:52:45,920 - config - INFO - Intentando ir a la página 120...
+2025-10-27 10:54:52,668 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 10:54:56,707 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 10:54:56,740 - config - INFO - Clic en radio de fila 4
+2025-10-27 10:55:00,854 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:55:00,854 - config - INFO - Registro actualizado.
+2025-10-27 10:55:02,025 - config - INFO - Intentando ir a la página 120...
+2025-10-27 10:57:08,410 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 10:57:12,446 - config - INFO - Fila 5 - color: rgb(45, 172, 49)
+2025-10-27 10:57:12,480 - config - INFO - Clic en radio de fila 5
+2025-10-27 10:57:16,631 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:57:16,631 - config - INFO - Registro actualizado.
+2025-10-27 10:57:17,622 - config - INFO - Intentando ir a la página 120...
+2025-10-27 10:59:23,649 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 10:59:27,670 - config - INFO - Fila 6 - color: rgb(45, 172, 49)
+2025-10-27 10:59:27,721 - config - INFO - Clic en radio de fila 6
+2025-10-27 10:59:31,902 - config - INFO - Registro actualizado correctamente
+2025-10-27 10:59:31,902 - config - INFO - Registro actualizado.
+2025-10-27 10:59:32,845 - config - INFO - Intentando ir a la página 120...
+2025-10-27 11:01:38,918 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 11:01:42,950 - config - INFO - Fila 7 - color: rgb(45, 172, 49)
+2025-10-27 11:01:42,993 - config - INFO - Clic en radio de fila 7
+2025-10-27 11:01:47,341 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:01:47,341 - config - INFO - Registro actualizado.
+2025-10-27 11:01:48,438 - config - INFO - Intentando ir a la página 120...
+2025-10-27 11:03:54,665 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 11:03:58,695 - config - INFO - Fila 8 - color: rgb(45, 172, 49)
+2025-10-27 11:03:58,731 - config - INFO - Clic en radio de fila 8
+2025-10-27 11:04:02,864 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:04:02,864 - config - INFO - Registro actualizado.
+2025-10-27 11:04:04,038 - config - INFO - Intentando ir a la página 120...
+2025-10-27 11:06:11,732 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 11:06:15,768 - config - INFO - Fila 9 - color: rgb(45, 172, 49)
+2025-10-27 11:06:15,800 - config - INFO - Clic en radio de fila 9
+2025-10-27 11:06:19,951 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:06:19,951 - config - INFO - Registro actualizado.
+2025-10-27 11:06:21,065 - config - INFO - Intentando ir a la página 120...
+2025-10-27 11:08:28,641 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 11:08:32,681 - config - INFO - Fila 10 - color: rgb(45, 172, 49)
+2025-10-27 11:08:32,722 - config - INFO - Clic en radio de fila 10
+2025-10-27 11:08:36,838 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:08:36,838 - config - INFO - Registro actualizado.
+2025-10-27 11:08:37,722 - config - INFO - Intentando ir a la página 120...
+2025-10-27 11:10:45,824 - config - INFO - Página 120 abierta correctamente.
+2025-10-27 11:10:52,927 - config - INFO - Total de filas encontradas: 10
+2025-10-27 11:10:54,944 - config - INFO - Fila 1 - color: rgb(45, 172, 49)
+2025-10-27 11:10:54,974 - config - INFO - Clic en radio de fila 1
+2025-10-27 11:10:59,187 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:10:59,187 - config - INFO - Registro actualizado.
+2025-10-27 11:11:00,019 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:13:08,353 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:13:12,392 - config - INFO - Fila 2 - color: rgb(45, 172, 49)
+2025-10-27 11:13:12,428 - config - INFO - Clic en radio de fila 2
+2025-10-27 11:13:16,575 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:13:16,576 - config - INFO - Registro actualizado.
+2025-10-27 11:13:17,424 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:15:25,466 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:15:29,508 - config - INFO - Fila 3 - color: rgb(45, 172, 49)
+2025-10-27 11:15:29,582 - config - INFO - Clic en radio de fila 3
+2025-10-27 11:15:33,729 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:15:33,729 - config - INFO - Registro actualizado.
+2025-10-27 11:15:34,699 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:17:42,822 - config - INFO - Página 121 abierta correctamente.
+2025-10-27 11:17:46,846 - config - INFO - Fila 4 - color: rgb(45, 172, 49)
+2025-10-27 11:17:46,885 - config - INFO - Clic en radio de fila 4
+2025-10-27 11:17:51,053 - config - INFO - Registro actualizado correctamente
+2025-10-27 11:17:51,054 - config - INFO - Registro actualizado.
+2025-10-27 11:17:51,869 - config - INFO - Intentando ir a la página 121...
+2025-10-27 11:19:53,237 - config - INFO - Error al intentar ir a la página 121: Locator.is_enabled: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("button.p-paginator-next")
+

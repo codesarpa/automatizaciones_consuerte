@@ -1,0 +1,3 @@
+2025-10-28 09:11:45,752 - root - INFO - Se procede a iniciar sesion
+2025-10-28 09:12:06,318 - root - INFO - Se incia sesion correctamente
+2025-10-30 10:03:56,756 - root - ERROR - Error al ingresar URL_ADMIN_USUARIOS: Page.wait_for_timeout: Connection closed while reading from the driver
