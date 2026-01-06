@@ -1,0 +1,6 @@
+2025-12-12 11:27:44,168 - config - INFO - Se procede a iniciar sesion
+2025-12-12 11:28:12,113 - config - INFO - Se incia sesion correctamente
+2025-12-12 11:28:52,153 - config - ERROR - Error al ingresar URL_GIROS_INTER: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "https://prod-superflex-admin.codesa.com.co/sf-admin-web-otros-convenios/admin/ho-giros-internacionales" until 'load'
+============================================================

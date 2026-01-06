@@ -98,8 +98,8 @@ except KeyboardInterrupt:
     print("Monitoreo detenido.")
 observer.join()
 
-def enviar_imagenes():
-    playwright = sync_playwright().start()
-    browser = playwright.chromium.launch(headless=False, args=["--start-maximized"])
-    page = browser.new_page()
-    page.goto("https://web.whatsapp.com/")
+# def enviar_imagenes():
+#     playwright = sync_playwright().start()
+#     browser = playwright.chromium.launch(headless=False, args=["--start-maximized"])
+#     page = browser.new_page()
+#     page.goto("https://web.whatsapp.com/")

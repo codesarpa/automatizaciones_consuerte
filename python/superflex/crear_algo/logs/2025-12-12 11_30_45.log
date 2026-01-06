@@ -1,0 +1,3 @@
+2025-12-12 11:30:45,436 - config - INFO - Se procede a iniciar sesion
+2025-12-12 11:31:13,953 - config - INFO - Se incia sesion correctamente
+2025-12-12 11:31:53,997 - config - ERROR - Error al ingresar URL_GIROS_INTER: Timeout 3454ms exceeded.
