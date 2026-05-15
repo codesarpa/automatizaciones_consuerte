@@ -3,8 +3,6 @@ import os
 from datetime import datetime
 import logging
 
-
-
 # 📍 Directorio donde está este archivo (config.py)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -17,6 +15,7 @@ URL_HOME = os.getenv("URL_HOME")
 URL_ADMIN_USUARIOS = os.getenv("URL_ADMIN_USUARIOS")
 USER = os.getenv("USER")
 PASS = os.getenv("PASS")
+URL_USUARIOS_BODEGAS = os.getenv("URL_USUARIOS_BODEGAS")
 
 def logs_diarios():
     ruta_base = os.path.dirname(__file__)

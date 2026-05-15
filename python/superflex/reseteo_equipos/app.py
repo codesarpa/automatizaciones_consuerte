@@ -20,6 +20,7 @@ def iniciar_sesion_superflex():
     log.info("Se procede a iniciar sesion")
     try:
         #PRODUCCION
+        print(URL_SUPERFLEX)
         page.goto(URL_SUPERFLEX)
         
         page.wait_for_timeout(10000)  # Esperar 10 segundos para que la p�gina cargue completamente
